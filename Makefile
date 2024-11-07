@@ -14,6 +14,9 @@ WEBSITE := ${shell cat website.txt }
 
 all: wikipathways-rdf-wp.zip wikipathways-rdf-gpml.zip
 
+pathways.txt:
+	@wget -O pathways.txt https://raw.githubusercontent.com/wikipathways/wikipathways-database/refs/heads/main/communities/MetaKids.txt
+
 install:
 	@wget -O libs/${GPMLRDFJAR} https://github.com/wikipathways/wikipathways-curation-template/releases/download/${FRAMEWORKVERSION}/${GPMLRDFJAR}
 	@wget -O libs/${WPCURJAR} https://github.com/wikipathways/wikipathways-curation-template/releases/download/${FRAMEWORKVERSION}/${WPCURJAR}
