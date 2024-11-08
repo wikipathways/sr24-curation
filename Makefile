@@ -90,6 +90,7 @@ reports/%.md: wp/Human/%.ttl wp/gpml/Human/%.ttl src/java/main/org/wikipathways/
 index.md: ${REPORTS}
 	@echo "<img style=\"float: right; width: 200px\" src=\"https://cms-assets.nporadio.nl/npo3fm/NPO-Serious-Request-Logo-Groen-Ik-Steun-RGB.png\" />" > index.md
 	@echo "# Validation Reports\n" >> index.md
+	@echo "\nThis page shows data curation results for pathways on the focus for the [WikiPathways in actie voor MetaKids](https://sr24.wikipathways.org/) fund raiser for [MetaKids](https://metakids.nl/). Donations for this action can be made [on this page](https://www.npo3fm.nl/kominactie/acties/wikipathways-in-actie-voor-metakids).\n" >> index.md
 	@for report in $(REPORTS) ; do \
 		echo -n "* [$$report]($$report) " >> index.md ; \
 		echo -n "<img alt=\"pathway status\" src=\"https://img.shields.io/endpoint?url=${WEBSITE}reports/" >> index.md ; \
