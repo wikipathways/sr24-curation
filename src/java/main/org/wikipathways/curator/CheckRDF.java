@@ -32,7 +32,7 @@ public class CheckRDF {
         PrintWriter reportStatus = new PrintWriter(reportFile.replace(".md",".txt"));
         PrintWriter reportJSON = new PrintWriter(reportFile.replace(".md",".json"));
 
-        report.println("<img style=\"float: right; width: 200px\" src=\"../logo.png\" />");
+        report.println("<img style=\"float: right; width: 200px\" src=\"https://cms-assets.nporadio.nl/npo3fm/NPO-Serious-Request-Logo-Groen-Ik-Steun-RGB.png\" />");
 
         report.println("# WikiPathways " + wpid + "\n");
         report.println("* WikiPathways: [" + wpid + "](https://identifiers.org/wikipathways:" + wpid + ")");

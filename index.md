@@ -1,4 +1,4 @@
-<img style="float: right; width: 200px" src="logo.png" />
+<img style="float: right; width: 200px" src="https://cms-assets.nporadio.nl/npo3fm/NPO-Serious-Request-Logo-Groen-Ik-Steun-RGB.png" />
 # Validation Reports
 
 * [reports/WP4156.md](reports/WP4156.md) <img alt="pathway status" src="https://img.shields.io/endpoint?url=https://wikipathways.org/sr24-curation/reports/WP4156.json">

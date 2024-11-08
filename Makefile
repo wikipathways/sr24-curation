@@ -88,7 +88,7 @@ reports/%.md: wp/Human/%.ttl wp/gpml/Human/%.ttl src/java/main/org/wikipathways/
 	@java -cp libs/slf4j-simple-1.7.32.jar:libs/jena-arq-${JENAVERSION}.jar:src/java/main/:libs/${WPCURJAR} org.wikipathways.curator.CheckRDF $< $@
 
 index.md: ${REPORTS}
-	@echo "<img style=\"float: right; width: 200px\" src=\"logo.png\" />" > index.md
+	@echo "<img style=\"float: right; width: 200px\" src=\"https://cms-assets.nporadio.nl/npo3fm/NPO-Serious-Request-Logo-Groen-Ik-Steun-RGB.png\" />" > index.md
 	@echo "# Validation Reports\n" >> index.md
 	@for report in $(REPORTS) ; do \
 		echo -n "* [$$report]($$report) " >> index.md ; \
