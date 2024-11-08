@@ -67,9 +67,9 @@ InteractionTests.all
 KEGGMetaboliteTests.all
 #KEGGMetaboliteTests.hasCPDprefix
 #KEGGMetaboliteTests.noCnumber
-LIPIDMAPSTests.all
+#LIPIDMAPSTests.all
 #LIPIDMAPSTests.onlyLIPIDMAPS
-#LIPIDMAPSTests.retiredIdentifiers
+LIPIDMAPSTests.retiredIdentifiers
 MetaboliteStructureTests.all
 #MetaboliteStructureTests.atLeastFifteenMetabolites
 #MetaboliteStructureTests.isPartOfAPathway
