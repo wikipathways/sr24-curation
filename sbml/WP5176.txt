@@ -1,0 +1,99 @@
+This pathway model displays disorders of bile acid synthesis and biliary transport. 
+
+Bile acids have a crucial role in the absorption of lipids and hydrophilic vitamins. Furthermore, bile acids aid in the
+maintenance of cholesterol homeostasis, excretion of toxic substances, processing of food intake, and used as signaling molecules
+influencing glucose homeostasis, lipid metabolism, and energy expenditure.
+First, bile acids with a low solubility (less hydrophilic, unconjugated) must be activated using CoA, so that conjugation to taurine or glycine can happen.
+
+This model includes 20 disorders, of which 14 are enzyme deficiencies, and 6 are related to transporters. 
+
+The enzyme deficiencies include 3β-Dehydrogenase deficiency, 5β-Reductase deficiency, Spastic Paraplegia 5A, Cholesterol 7α-hydroxylase deficiency, Sterol 27-hydroxylase deficiency, α-Methylacyl-CoA racemase (AMACR) deficiency, Bile acid amidation defect, and Bile acid-CoA ligase deficiency (BA CoA LD, BACS), congenital bile acid synthesis defect 6 and type 5, D-bifunctional protein deficiency, sterol carrier protein 2 deficiency. 
+
+Disorders of transporters are related to deficiencies in ATP8B1 (Progressive familial intrahepatic cholestasis type 1; PFIC1), ABCB11 (Progressive familial intrahepatic cholestasis type 2; PFIC 2), ABCB4 (Progressive familial intrahepatic cholestasis type 3), and ABCC2 (Dubin-Johnson syndrome), as well as Rotor Syndrome (linked to two distinct genes, OATP1B1 and OATP1B3, related to taurocholate and glycocholate transport). 
+
+
+This pathway is based on Chapter 34 of Blau’s ‘Physicians Guide to the Diagnosis, Treatment, and Follow-Up of Inherited Metabolic Diseases (ISBN 3642403360 (978-3642403361)), edition 4 (and is currently in the process of being updated to edition 5, Chapter 56). We would like to thank two authors from this chapter (Frédéric M. Vaz and Sacha Ferdinandusse) for their efforts in curating this pathway model!
+
+[CONVERSION:idd97fd41]	Interaction is not connected
+[CATALYSIS:id2d072a05]	Interaction is not connected
+[LINE:df4b2]	Invalid interaction type.
+[LINE:idad9c094]	Invalid interaction type.
+[LINE:cf34f]	Invalid interaction type.
+[LINE:id320ee1dc]	Invalid interaction type.
+[LINE:b1016]	Invalid interaction type.
+[ARROW:idd8930902]	Invalid interaction type "ARROW" as an output from reaction.
+[ARROW:idd798fa7b]	Invalid interaction type "ARROW" as an output from reaction.
+[ARROW:idd7817ca2]	Invalid interaction type "ARROW" as an output from reaction.
+[ARROW:ide9c3da6f]	Invalid interaction type "ARROW" as an output from reaction.
+[ARROW:id6849c723]	Invalid interaction type "ARROW" as an output from reaction.
+[ARROW:id3489c87f]	Invalid interaction type "ARROW" as an output from reaction.
+[ARROW:id5fea9a7b]	Invalid interaction type "ARROW" as an output from reaction.
+[ARROW:idc0681f6f]	Invalid interaction type "ARROW" as an output from reaction.
+[ARROW:idda6dfe89]	Invalid interaction type "ARROW" as an output from reaction.
+[ARROW:id6f079e19]	Invalid interaction type "ARROW" as an output from reaction.
+[ARROW:idaeddea7]	Invalid interaction type "ARROW" as an output from reaction.
+[ARROW:id233c16cc]	Invalid interaction type "ARROW" as an output from reaction.
+[ARROW:d3fe3]	Invalid interaction type "ARROW" as an output from reaction.
+[ARROW:id25909c21]	Invalid interaction type "ARROW" as an output from reaction.
+[ARROW:idd90ed142]	Invalid interaction type "ARROW" as an output from reaction.
+[ARROW:id3b472f96]	Invalid interaction type "ARROW" as an output from reaction.
+[ARROW:id1dfdbe41]	Invalid interaction type "ARROW" as an output from reaction.
+[ARROW:id71afd832]	Invalid interaction type "ARROW" as an output from reaction.
+[ARROW:idd317f167]	Invalid interaction type "ARROW" as an output from reaction.
+[ARROW:bd8bd]	Invalid interaction type "ARROW" as an output from reaction.
+[ARROW:id44537f]	Invalid interaction type "ARROW" as an output from reaction.
+[ARROW:id61b87798]	Invalid interaction type "ARROW" as an output from reaction.
+[ARROW:ide5388cc8]	Invalid interaction type "ARROW" as an output from reaction.
+[ARROW:ideae69b19]	Invalid interaction type "ARROW" as an output from reaction.
+[ARROW:id5ea9efcd]	Invalid interaction type "ARROW" as an output from reaction.
+[ARROW:idad4eb25f]	Invalid interaction type "ARROW" as an output from reaction.
+[ARROW:id422980ff]	Invalid interaction type "ARROW" as an output from reaction.
+[ARROW:idb62707cc]	Invalid interaction type "ARROW" as an output from reaction.
+[ARROW:id81b7b588]	Invalid interaction type "ARROW" as an output from reaction.
+[ARROW:e72b1]	Invalid interaction type "ARROW" as an output from reaction.
+[ARROW:id746bf0a1]	Invalid interaction type "ARROW" as an output from reaction.
+[ARROW:idf21496f2]	Invalid interaction type "ARROW" as an output from reaction.
+[ARROW:idb4c4e81b]	Invalid interaction type "ARROW" as an output from reaction.
+[ARROW:id66073b05]	Invalid interaction type "ARROW" as an output from reaction.
+[ARROW:b0ece]	Invalid interaction type "ARROW" as an output from reaction.
+[ARROW:iddb88a2be]	Invalid interaction type "ARROW" as an output from reaction.
+[ARROW:idf4e5f0ca]	Invalid interaction type "ARROW" as an output from reaction.
+[ARROW:id7b078db0]	Invalid interaction type "ARROW" as an output from reaction.
+[ARROW:id891a2f53]	Invalid interaction type "ARROW" as an output from reaction.
+[ARROW:idf3fb0c04]	Invalid interaction type "ARROW" as an output from reaction.
+[ARROW:idd6db2db9]	Invalid interaction type "ARROW" as an output from reaction.
+[ARROW:id2401001d]	Invalid interaction type "ARROW" as an output from reaction.
+[BioPax:e99]	No pubmed identifier defined for publication: title: Physicians Guide to the Diagnosis, Treatment, and Follow-Up of Inherited Metabolic Diseases
+[BioPax:a14]	No pubmed identifier defined for publication: title: Physician's Guide to the Diagnosis, Treatment, and Follow-Up of Inherited Metabolic Diseases
+[Label:aee45]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:a7126]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:d0e4e]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:bbeac]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:a293f]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:d7f7d]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:e61d9]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:b5ee6]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:a0972]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:ab185]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:c9359]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:bbe71]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:c0ad7]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:c5b2c]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:d3833]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:ea3c9]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:c5d24]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:cc569]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:dd5ab]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:ce805]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:b9802]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:b0872]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:aa859]	 Label cannot be part of reaction. Tranforming to Unknown
+[:e65c5]	OVAL cannot be part of a complex. Skipping.
+[:bb4fa]	OVAL cannot be part of a complex. Skipping.
+[:c3979]	ROUNDED_RECTANGLE cannot be part of a complex. Skipping.
+[:e11c0]	OVAL cannot be part of a complex. Skipping.
+[:f2a80]	OVAL cannot be part of a complex. Skipping.
+[:f6a07]	OVAL cannot be part of a complex. Skipping.
+[Complex:b32c4]	Empty element is invalid
+[BiopaxReference:e99]	Publication is invalid.
+[BiopaxReference:a14]	Publication is invalid.
