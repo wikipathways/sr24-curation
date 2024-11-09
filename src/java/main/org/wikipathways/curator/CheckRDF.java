@@ -201,10 +201,16 @@ public class CheckRDF {
         reportJSON.println("{");
         reportJSON.println("  \"schemaVersion\": 1,");
         reportJSON.println("  \"label\": \"curation\",");
-        if (anyTestClassHasFails) {
+        double ratio = (double)failedAssertions.size() / (double)assertions.size();
+        reportJSON.println("  \"ratio\": \"" + ratio + "\",");
+        if (ratio > 0.01) {
           reportStatus.println("status=⨯");
           reportJSON.println("  \"message\": \"" + failedAssertions.size() + " errors\",");
           reportJSON.println("  \"color\": \"red\"");
+        } else if (anyTestClassHasFails) {
+          reportStatus.println("status=⨯");
+          reportJSON.println("  \"message\": \"" + failedAssertions.size() + " errors\",");
+          reportJSON.println("  \"color\": \"orange\"");
         } else {
           reportStatus.println("status=✓");
           reportJSON.println("  \"message\": \"success\",");

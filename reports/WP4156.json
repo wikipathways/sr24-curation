@@ -1,6 +1,7 @@
 {
   "schemaVersion": 1,
   "label": "curation",
+  "ratio": "0.008620689655172414",
   "message": "2 errors",
-  "color": "red"
+  "color": "orange"
 }
