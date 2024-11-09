@@ -12,7 +12,7 @@ WPCURJAR=wikipathways.curator-1-SNAPSHOT.jar
 
 WEBSITE := ${shell cat website.txt }
 
-all: wikipathways-rdf-wp.zip wikipathways-rdf-gpml.zip
+all: index.md index2.md
 
 pathways.txt:
 	@wget -O pathways.txt https://raw.githubusercontent.com/wikipathways/wikipathways-database/refs/heads/main/communities/MetaKids.txt
@@ -97,6 +97,9 @@ index.md: ${REPORTS}
 		echo -n "`echo "$$report" | sed -e 's/.md//; s/reports\///'`" >> index.md ; \
 		echo ".json\">" >> index.md ; \
 	done
+
+index2.md: ${REPORTS}
+	@groovy summarizeFails.groovy > index2.md
 
 update: install
 	@wget -O Makefile https://raw.githubusercontent.com/wikipathways/wikipathways-curation-template/main/Makefile
