@@ -203,14 +203,18 @@ public class CheckRDF {
         reportJSON.println("  \"label\": \"curation\",");
         double ratio = (double)failedAssertions.size() / (double)assertions.size();
         // reportJSON.println("  \"ratio\": \"" + ratio + "\",");
-        if (ratio > 0.01) {
+        if (ratio > 0.05) {
           reportStatus.println("status=⨯");
           reportJSON.println("  \"message\": \"" + failedAssertions.size() + " errors\",");
           reportJSON.println("  \"color\": \"red\"");
-        } else if (anyTestClassHasFails) {
+        } else if (ratio > 0.01) {
           reportStatus.println("status=⨯");
           reportJSON.println("  \"message\": \"" + failedAssertions.size() + " errors\",");
           reportJSON.println("  \"color\": \"orange\"");
+        } else if (anyTestClassHasFails) {
+          reportStatus.println("status=⨯");
+          reportJSON.println("  \"message\": \"" + failedAssertions.size() + " errors\",");
+          reportJSON.println("  \"color\": \"yellow\"");
         } else {
           reportStatus.println("status=✓");
           reportJSON.println("  \"message\": \"success\",");
