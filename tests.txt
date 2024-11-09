@@ -20,6 +20,7 @@ CovidDiseaseMapsTests.all
 #CovidDiseaseMapsTests.missingHGNC
 DataNodesTests.all
 #DataNodesTests.dataNodesWithoutIdentifier
+#DataNodesTests.otherDataSource
 #DataNodesTests.unknownTypes
 #DataNodesTests.unknownTypes_Reactome
 #DataNodesTests.unknownTypes_knownDatasource
@@ -32,6 +33,8 @@ EnsemblTests.all
 GeneTests.all
 #GeneTests.affyProbeIdentifiersNotCorrect
 #GeneTests.entrezGeneIdentifiersNotNumber
+#GeneTests.nonNumericHGNCAccessionNumbers
+#GeneTests.numericHGNCIDs
 #GeneTests.outdatedIdentifiers
 #GeneralTests.all
 GeneralTests.curationAndHypothetical
@@ -55,6 +58,13 @@ HMDBSecMetabolitesTests.all
 #HMDBSecMetabolitesTests.nonExisting
 #HMDBSecMetabolitesTests.oldFormat
 #HMDBSecMetabolitesTests.outdatedIdentifiers
+IMDPathwayTests.all
+IMDPathwayTests.allMetabolitesInteract
+IMDPathwayTests.catalystsWithCommonDataSource
+IMDPathwayTests.diseasesHaveIdentifiers
+IMDPathwayTests.metabolicConversionIdentifiersCommon
+IMDPathwayTests.metabolicConversions
+IMDPathwayTests.omimIdentifiers
 InteractionTests.all
 #InteractionTests.incorrectKEGGIdentifiers
 #InteractionTests.interactionsWithLabels
@@ -70,9 +80,9 @@ KEGGMetaboliteTests.all
 #LIPIDMAPSTests.all
 #LIPIDMAPSTests.onlyLIPIDMAPS
 LIPIDMAPSTests.retiredIdentifiers
-MetaboliteStructureTests.all
+#MetaboliteStructureTests.all
 #MetaboliteStructureTests.atLeastFifteenMetabolites
-#MetaboliteStructureTests.isPartOfAPathway
+MetaboliteStructureTests.isPartOfAPathway
 MetabolitesTests.all
 #MetabolitesTests.ChEBIIDsNotMarkedAsMetabolite
 #MetabolitesTests.HMDBIDsNotMarkedAsMetabolite
@@ -91,6 +101,7 @@ MetabolitesTests.all
 #MetabolitesTests.tooManyInChIKeys
 #OutdatedDataSourcesTests.all
 OutdatedDataSourcesTests.discontinuedUniGene
+#OutdatedDataSourcesTests.gpml2021transition
 OutdatedDataSourcesTests.noInChIDataSourceYet
 OutdatedDataSourcesTests.oldUniprotSwissProt
 #OutdatedDataSourcesTests.outdatedChemSpiderDataSource
@@ -116,6 +127,7 @@ PathwayTests.all
 #PathwayTests.deletedPathways
 #PathwayTests.linksToDeletedPathways
 #PathwayTests.linksToDeletedPathways_All
+#PathwayTests.oldLicenses
 #PathwayTests.speciesMismatch
 #PathwayTests.testRoundedRectangle
 #PathwayTests.youMustCite
@@ -128,7 +140,10 @@ PubChemMetabolitesTests.all
 #PubChemMetabolitesTests.nonNumericIDs
 ReferencesTests.all
 #ReferencesTests.atLeastOneReference
+#ReferencesTests.citesRetractedArticle
 #ReferencesTests.nonNumericPubMedIDs
+#ReferencesTests.outdatedPubMedIdentifiers
+#ReferencesTests.unexpectedPubMedIdentifier
 #ReferencesTests.zeroPubMedIDs
 UniProtTests.all
 #UniProtTests.allP62805
@@ -143,11 +158,13 @@ WikidataTests.all
 #WikidataTests.chemspiderCIDWithoutMapping
 #WikidataTests.duplicateWikidataMappings
 #WikidataTests.hmdbWithoutMapping
+#WikidataTests.inchikeyWithoutMapping
 #WikidataTests.kNApSAcKWithoutMapping
 #WikidataTests.keggWithoutMapping
 #WikidataTests.lipidMapsWithoutMapping
 #WikidataTests.noWikidataForGenes
 #WikidataTests.pubchemCIDWithoutMapping
 #WikidataTests.replaceWikipedia
+#WikidataTests.retiredIdentifiers
 #WikidataTests.wikDataTypo
 #WikidataTests.wikidataIdentifiersWrong
