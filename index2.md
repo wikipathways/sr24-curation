@@ -9,6 +9,14 @@
 
 [WP5176](reports/WP5176#datanodestestsdatanodeswithoutidentifier) 
 
+## IEMPathwayTests.allMetabolitesInteract
+
+[WP5173](reports/WP5173#iempathwaytestsallmetabolitesinteract) [WP5176](reports/WP5176#iempathwaytestsallmetabolitesinteract) [WP5178](reports/WP5178#iempathwaytestsallmetabolitesinteract) 
+
+## IEMPathwayTests.metabolicConversionIdentifiersCommon
+
+[WP5173](reports/WP5173#iempathwaytestsmetabolicconversionidentifierscommon) [WP5176](reports/WP5176#iempathwaytestsmetabolicconversionidentifierscommon) [WP5178](reports/WP5178#iempathwaytestsmetabolicconversionidentifierscommon) 
+
 ## InteractionTests.interactionsWithLabels
 
 [WP5173](reports/WP5173#interactiontestsinteractionswithlabels) [WP5176](reports/WP5176#interactiontestsinteractionswithlabels) [WP5178](reports/WP5178#interactiontestsinteractionswithlabels) 
@@ -16,10 +24,6 @@
 ## InteractionTests.possibleTranslocations
 
 [WP5173](reports/WP5173#interactiontestspossibletranslocations) [WP5176](reports/WP5176#interactiontestspossibletranslocations) [WP5178](reports/WP5178#interactiontestspossibletranslocations) 
-
-## MetaboliteStructureTests.atLeastFifteenMetabolites
-
-[WP5173](reports/WP5173#metabolitestructuretestsatleastfifteenmetabolites) 
 
 ## MetabolitesTests.tooManyInChIKeys
 
