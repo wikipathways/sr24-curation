@@ -7,7 +7,11 @@
 
 ## DataNodesTests.dataNodesWithoutIdentifier
 
-[WP5176](reports/WP5176#datanodestestsdatanodeswithoutidentifier) 
+[WP5176](reports/WP5176#datanodestestsdatanodeswithoutidentifier) [WP5504](reports/WP5504#datanodestestsdatanodeswithoutidentifier) 
+
+## GeneralTests.noTags
+
+[WP5504](reports/WP5504#generaltestsnotags) 
 
 ## IEMPathwayTests.allMetabolitesInteract
 
@@ -28,6 +32,10 @@
 ## MetabolitesTests.tooManyInChIKeys
 
 [WP4156](reports/WP4156#metabolitesteststoomanyinchikeys) [WP5176](reports/WP5176#metabolitesteststoomanyinchikeys) 
+
+## ReferencesTests.atLeastOneReference
+
+[WP5504](reports/WP5504#referencestestsatleastonereference) 
 
 ## WikidataTests.hmdbWithoutMapping
 

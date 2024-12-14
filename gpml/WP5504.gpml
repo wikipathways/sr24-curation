@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Disorders of Mitochondrial Homeostatis, Dynamics, Protein Import, and Quality Control" Version="20241214" Organism="Homo sapiens">
+  <Comment Source="WikiPathways-description">Chapter 46</Comment>
+  <Graphics BoardWidth="283.0" BoardHeight="494.5" />
+  <DataNode TextLabel="AFG3L2" GraphId="a5add" Type="GeneProduct">
+    <Graphics CenterX="104.0" CenterY="177.0" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="Ensembl" ID="ENSG00000141385" />
+  </DataNode>
+  <DataNode TextLabel="AIFM1" GraphId="de0c0" Type="GeneProduct">
+    <Graphics CenterX="104.0" CenterY="202.0" Width="90.0" Height="25.0" ZOrder="32769" FontSize="12" Valign="Middle" />
+    <Xref Database="Ensembl" ID="ENSG00000156709" />
+  </DataNode>
+  <DataNode TextLabel="AGK" GraphId="ebf9c" Type="GeneProduct">
+    <Graphics CenterX="104.0" CenterY="227.0" Width="90.0" Height="25.0" ZOrder="32770" FontSize="12" Valign="Middle" />
+    <Xref Database="Ensembl" ID="ENSG00000006530" />
+  </DataNode>
+  <DataNode TextLabel="C1QBP" GraphId="ea2da" Type="GeneProduct">
+    <Graphics CenterX="104.0" CenterY="252.0" Width="90.0" Height="25.0" ZOrder="32771" FontSize="12" Valign="Middle" />
+    <Xref Database="Ensembl" ID="ENSG00000108561" />
+  </DataNode>
+  <DataNode TextLabel="CLPB" GraphId="df372" Type="GeneProduct">
+    <Graphics CenterX="104.0" CenterY="277.0" Width="90.0" Height="25.0" ZOrder="32772" FontSize="12" Valign="Middle" />
+    <Xref Database="Ensembl" ID="ENSG00000162129" />
+  </DataNode>
+  <DataNode TextLabel="CLPP" GraphId="cb11a" Type="GeneProduct">
+    <Graphics CenterX="104.0" CenterY="302.0" Width="90.0" Height="25.0" ZOrder="32773" FontSize="12" Valign="Middle" />
+    <Xref Database="Ensembl" ID="ENSG00000125656" />
+  </DataNode>
+  <DataNode TextLabel="DNAJC19" GraphId="d9a23" Type="GeneProduct">
+    <Graphics CenterX="104.0" CenterY="327.0" Width="90.0" Height="25.0" ZOrder="32774" FontSize="12" Valign="Middle" />
+    <Xref Database="Ensembl" ID="ENSG00000205981" />
+  </DataNode>
+  <DataNode TextLabel="GFER" GraphId="fc4f4" Type="GeneProduct">
+    <Graphics CenterX="104.0" CenterY="352.0" Width="90.0" Height="25.0" ZOrder="32775" FontSize="12" Valign="Middle" />
+    <Xref Database="HGNC" ID="GFER" />
+  </DataNode>
+  <DataNode TextLabel="HSPA9" GraphId="f91bb" Type="GeneProduct">
+    <Graphics CenterX="104.0" CenterY="377.0" Width="90.0" Height="25.0" ZOrder="32776" FontSize="12" Valign="Middle" />
+    <Xref Database="Ensembl" ID="ENSG00000113013" />
+  </DataNode>
+  <DataNode TextLabel="HSPD1" GraphId="bd822" Type="GeneProduct">
+    <Graphics CenterX="104.0" CenterY="402.0" Width="90.0" Height="25.0" ZOrder="32777" FontSize="12" Valign="Middle" />
+    <Xref Database="Ensembl" ID="ENSG00000144381" />
+  </DataNode>
+  <DataNode TextLabel="HTRA2" GraphId="ed31d" Type="GeneProduct">
+    <Graphics CenterX="104.0" CenterY="427.0" Width="90.0" Height="25.0" ZOrder="32778" FontSize="12" Valign="Middle" />
+    <Xref Database="Ensembl" ID="ENSG00000115317" />
+  </DataNode>
+  <DataNode TextLabel="LONP1" GraphId="da862" Type="GeneProduct">
+    <Graphics CenterX="104.0" CenterY="452.0" Width="90.0" Height="25.0" ZOrder="32779" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="MIPEP" GraphId="b8296" Type="GeneProduct">
+    <Graphics CenterX="194.0" CenterY="177.0" Width="90.0" Height="25.0" ZOrder="32780" FontSize="12" Valign="Middle" />
+    <Xref Database="Ensembl" ID="ENSG00000027001" />
+  </DataNode>
+  <DataNode TextLabel="PAM16" GraphId="c0908" Type="GeneProduct">
+    <Graphics CenterX="194.0" CenterY="202.0" Width="90.0" Height="25.0" ZOrder="32781" FontSize="12" Valign="Middle" />
+    <Xref Database="Ensembl" ID="ENSG00000217930" />
+  </DataNode>
+  <DataNode TextLabel="PITRM1" GraphId="b28a2" Type="GeneProduct">
+    <Graphics CenterX="194.0" CenterY="227.0" Width="90.0" Height="25.0" ZOrder="32782" FontSize="12" Valign="Middle" />
+    <Xref Database="Ensembl" ID="ENSG00000107959" />
+  </DataNode>
+  <DataNode TextLabel="PMPCA" GraphId="d68ae" Type="GeneProduct">
+    <Graphics CenterX="194.0" CenterY="252.0" Width="90.0" Height="25.0" ZOrder="32783" FontSize="12" Valign="Middle" />
+    <Xref Database="Ensembl" ID="ENSG00000165688" />
+  </DataNode>
+  <DataNode TextLabel="PMPCB" GraphId="f9890" Type="GeneProduct">
+    <Graphics CenterX="194.0" CenterY="277.0" Width="90.0" Height="25.0" ZOrder="32784" FontSize="12" Valign="Middle" />
+    <Xref Database="Ensembl" ID="ENSG00000105819" />
+  </DataNode>
+  <DataNode TextLabel="SFXN4" GraphId="ecd79" Type="GeneProduct">
+    <Graphics CenterX="194.0" CenterY="302.0" Width="90.0" Height="25.0" ZOrder="32785" FontSize="12" Valign="Middle" />
+    <Xref Database="Ensembl" ID="ENSG00000183605" />
+  </DataNode>
+  <DataNode TextLabel="SPG7" GraphId="e0f14" Type="GeneProduct">
+    <Graphics CenterX="194.0" CenterY="327.0" Width="90.0" Height="25.0" ZOrder="32786" FontSize="12" Valign="Middle" />
+    <Xref Database="Ensembl" ID="ENSG00000197912" />
+  </DataNode>
+  <DataNode TextLabel="TIMM8A" GraphId="dc8b4" Type="GeneProduct">
+    <Graphics CenterX="194.0" CenterY="352.0" Width="90.0" Height="25.0" ZOrder="32787" FontSize="12" Valign="Middle" />
+    <Xref Database="Ensembl" ID="ENSG00000126953" />
+  </DataNode>
+  <DataNode TextLabel="TIMM50" GraphId="d8832" Type="GeneProduct">
+    <Graphics CenterX="194.0" CenterY="377.0" Width="90.0" Height="25.0" ZOrder="32788" FontSize="12" Valign="Middle" />
+    <Xref Database="Ensembl" ID="ENSG00000105197" />
+  </DataNode>
+  <DataNode TextLabel="TIMMDC1" GraphId="b76fa" Type="GeneProduct">
+    <Graphics CenterX="194.0" CenterY="402.0" Width="90.0" Height="25.0" ZOrder="32789" FontSize="12" Valign="Middle" />
+    <Xref Database="Ensembl" ID="ENSG00000113845" />
+  </DataNode>
+  <DataNode TextLabel="XNPEP3 " GraphId="fbd75" Type="GeneProduct">
+    <Graphics CenterX="194.0" CenterY="427.0" Width="90.0" Height="25.0" ZOrder="32790" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <Label TextLabel="Mitochondrial biogenesis" GraphId="d5f86">
+    <Graphics CenterX="141.5" CenterY="85.0" Width="223.0" Height="25.0" ZOrder="28672" FillColor="ffffff" FontSize="12" Valign="Middle" />
+  </Label>
+  <Label TextLabel="Protein import, sorting&#xA;and processing" GraphId="f8fc6">
+    <Graphics CenterX="141.5" CenterY="135.0" Width="223.0" Height="25.0" ZOrder="28673" FillColor="ffffff" FontSize="12" Valign="Middle" />
+  </Label>
+  <InfoBox CenterX="0.0" CenterY="0.0" />
+  <Biopax />
+</Pathway>
