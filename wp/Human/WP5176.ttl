@@ -365,6 +365,7 @@
         wp:bdbHmdb          <https://identifiers.org/hmdb/HMDB0060138> ;
         wp:bdbInChIKey      <https://identifiers.org/inchikey/UROPIWALBBMYRP-GWEYAUKASA-N> ;
         wp:bdbPubChem       <http://rdf.ncbi.nlm.nih.gov/pubchem/compound/CID131769843> ;
+        wp:bdbWikidata      <http://www.wikidata.org/entity/Q131117336> ;
         wp:isAbout          <http://rdf.wikipathways.org/Pathway/WP5176_r128232/DataNode/dbb9e> ;
         foaf:page           <http://www.hmdb.ca/metabolites/HMDB0060138> .
 
@@ -1564,6 +1565,7 @@ obo:NCBITaxon_9606  obo:NCIT_C179773  "9606" .
         wp:bdbInChIKey      <https://identifiers.org/inchikey/SBYLHTNKEWSLBA-WKKPLVHGSA-N> ;
         wp:bdbKeggCompound  <https://identifiers.org/kegg.compound/C17346> ;
         wp:bdbPubChem       <http://rdf.ncbi.nlm.nih.gov/pubchem/compound/CID50986117> ;
+        wp:bdbWikidata      <http://www.wikidata.org/entity/Q131117425> ;
         wp:isAbout          <http://rdf.wikipathways.org/Pathway/WP5176_r128232/DataNode/e2b41> ;
         foaf:page           <http://www.hmdb.ca/metabolites/HMDB0060306> .
 
