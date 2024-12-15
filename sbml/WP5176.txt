@@ -89,11 +89,11 @@ This pathway is based on Chapter 34 of Blau’s ‘Physicians Guide to the Diagn
 [Label:b0872]	 Label cannot be part of reaction. Tranforming to Unknown
 [Label:aa859]	 Label cannot be part of reaction. Tranforming to Unknown
 [:e65c5]	OVAL cannot be part of a complex. Skipping.
-[:bb4fa]	OVAL cannot be part of a complex. Skipping.
-[:c3979]	ROUNDED_RECTANGLE cannot be part of a complex. Skipping.
+[:f6a07]	OVAL cannot be part of a complex. Skipping.
 [:e11c0]	OVAL cannot be part of a complex. Skipping.
 [:f2a80]	OVAL cannot be part of a complex. Skipping.
-[:f6a07]	OVAL cannot be part of a complex. Skipping.
+[:c3979]	ROUNDED_RECTANGLE cannot be part of a complex. Skipping.
+[:bb4fa]	OVAL cannot be part of a complex. Skipping.
 [Complex:b32c4]	Empty element is invalid
 [BiopaxReference:e99]	Publication is invalid.
 [BiopaxReference:a14]	Publication is invalid.
