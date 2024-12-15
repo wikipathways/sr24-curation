@@ -1,4 +1,4 @@
-Chapter 46
+This pathway lists several genes involved in mechanisms involved in disorders of mitochondrial homeostatis, dynamics, protein import, and quality control. This pathway was inspired by Figure 46.1 of Edition 5, Chapter 46 of the book of Blau (ISBN 9783030677268).
 
 [Label:e25cb]	 Label cannot be part of reaction. Tranforming to Unknown
 [Label:b3f93]	 Label cannot be part of reaction. Tranforming to Unknown
