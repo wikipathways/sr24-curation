@@ -1,0 +1,7 @@
+Literature reference
+
+[ARROW:id25830]	Interaction is not connected
+[CONVERSION:fc5cf]	Interaction is not connected
+[STIMULATION:id25831]	Interaction edge is invalid (one end is not connected).
+[CATALYSIS:id4ec69c7c]	Interaction edge is invalid (one end is not connected).
+[Complex:a4597]	Empty element is invalid

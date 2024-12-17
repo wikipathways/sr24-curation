@@ -8,14 +8,14 @@
   /><g
   ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
     ><rect x="-1" width="1067" height="831" y="-1" stroke="none"
-      /><path fill="none" d="M601 303.75 L710.7701 303.9041" stroke="black"
-      /><path fill="none" d="M720.7701 303.9181 L830.5402 304.0721" stroke="black"
-      /><path fill="black" d="M816.674 309.7929 L830.5402 304.0721 L816.6901 298.3124 Z" stroke="none"
-      /><rect x="710.7701" width="10" height="10" y="298.9111" transform="translate(715.7701,303.9111) rotate(0.0804) translate(-715.7701,-303.9111)" stroke="none"
-      /><rect x="710.7701" y="298.9111" transform="translate(715.7701,303.9111) rotate(0.0804) translate(-715.7701,-303.9111)" fill="none" width="10" height="10" stroke="black"
+      /><path fill="none" d="M261 303.75 L273.25 303.75" stroke="black"
+      /><path fill="none" d="M283.25 303.75 L295.5 303.75" stroke="black"
+      /><path fill="black" d="M281.6418 309.4903 L295.5 303.75 L281.6418 298.0097 Z" stroke="none"
+      /><rect x="273.25" width="10" height="10" y="298.75" stroke="none"
+      /><rect fill="none" x="273.25" width="10" height="10" y="298.75" stroke="black"
     /></g
     ><g font-size="10px" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" color-interpolation="linearRGB" font-weight="bold"
-    ><text x="715" xml:space="preserve" y="307" stroke="none"
+    ><text x="278" xml:space="preserve" y="307" stroke="none"
       ></text
       ><path fill="none" d="M727.6107 190.3436 L727.6107 230.5661"
       /><path fill="none" d="M727.6107 240.5661 L727.6107 280.7887"
@@ -28,16 +28,16 @@
     ><g font-size="10px" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" color-interpolation="linearRGB" font-weight="bold"
     ><text x="727" xml:space="preserve" y="239" stroke="none"
       ></text
-      ><path fill="none" d="M261 303.75 L273.25 303.75"
-      /><path fill="none" d="M283.25 303.75 L295.5 303.75"
-      /><path d="M281.6418 309.4903 L295.5 303.75 L281.6418 298.0097 Z" stroke="none"
+      ><path fill="none" d="M601 303.75 L710.7701 303.9041"
+      /><path fill="none" d="M720.7701 303.9181 L830.5402 304.0721"
+      /><path d="M816.674 309.7929 L830.5402 304.0721 L816.6901 298.3124 Z" stroke="none"
     /></g
-    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="273.25" width="10" height="10" y="298.75" stroke="none"
-      /><rect fill="none" x="273.25" width="10" height="10" y="298.75" stroke="black"
+    ><g transform="translate(715.7701,303.9111) rotate(0.0804) translate(-715.7701,-303.9111)" fill="white" text-rendering="geometricPrecision" color-rendering="optimizeQuality" image-rendering="optimizeQuality" color-interpolation="linearRGB" stroke="white"
+    ><rect x="710.7701" width="10" height="10" y="298.9111" stroke="none"
+      /><rect fill="none" x="710.7701" width="10" height="10" y="298.9111" stroke="black"
     /></g
     ><g font-size="10px" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" color-interpolation="linearRGB" font-weight="bold"
-    ><text x="278" xml:space="preserve" y="307" stroke="none"
+    ><text x="715" xml:space="preserve" y="307" stroke="none"
       ></text
     ></g
     ><g fill-opacity="0.0314" fill="rgb(128,128,128)" text-rendering="geometricPrecision" color-rendering="optimizeQuality" image-rendering="optimizeQuality" stroke="rgb(128,128,128)" color-interpolation="linearRGB" stroke-opacity="0.0314"
@@ -467,36 +467,36 @@
       /><rect fill="none" x="611" width="90" height="25" y="598" stroke="black"
       /><text fill="black" x="629" xml:space="preserve" y="615" font-family="sans-serif" stroke="none"
       >MICOS13</text
-      ><text fill="black" x="724" xml:space="preserve" y="600" stroke="none"
-      >Calcium uptake</text
-      ><text fill="black" x="328" xml:space="preserve" y="83" stroke="none"
-      >Mitochondrial biogenesis</text
-      ><text fill="black" x="727" xml:space="preserve" y="233" stroke="none"
-      >+</text
-      ><text fill="black" x="48" xml:space="preserve" y="600" stroke="none"
-      >Phosphate metabolism</text
-      ><text fill="black" x="691" xml:space="preserve" y="83" stroke="none"
-      >Mitochondrial degradation</text
-      ><text fill="black" x="478" xml:space="preserve" y="600" stroke="none"
-      >Contact site and cristae organization</text
       ><text fill="black" x="258" xml:space="preserve" y="600" stroke="none"
       >Redox metabolism</text
-      ><text fill="black" x="32" xml:space="preserve" y="137" stroke="none"
-      >Protein import, sorting and processing</text
-      ><text fill="black" x="295" xml:space="preserve" y="137" stroke="none"
-      >Filamentous mitochondria</text
       ><text fill="black" x="39" xml:space="preserve" y="83" stroke="none"
       >Mitochondrial biogenesis</text
-      ><text fill="black" x="486" xml:space="preserve" y="444" stroke="none"
-      >Motility</text
-      ><text fill="black" x="334" xml:space="preserve" y="299" stroke="none"
-      >Fusion</text
-      ><text fill="black" x="327" xml:space="preserve" y="530" stroke="none"
-      >Mitochondrial function</text
+      ><text fill="black" x="691" xml:space="preserve" y="83" stroke="none"
+      >Mitochondrial degradation</text
       ><text fill="black" x="486" xml:space="preserve" y="298" stroke="none"
       >Fission</text
+      ><text fill="black" x="478" xml:space="preserve" y="600" stroke="none"
+      >Contact site and cristae organization</text
+      ><text fill="black" x="334" xml:space="preserve" y="299" stroke="none"
+      >Fusion</text
+      ><text fill="black" x="486" xml:space="preserve" y="444" stroke="none"
+      >Motility</text
+      ><text fill="black" x="48" xml:space="preserve" y="600" stroke="none"
+      >Phosphate metabolism</text
+      ><text fill="black" x="295" xml:space="preserve" y="137" stroke="none"
+      >Filamentous mitochondria</text
       ><text fill="black" x="455" xml:space="preserve" y="137" stroke="none"
       >Fragmented mitochondria</text
+      ><text fill="black" x="727" xml:space="preserve" y="233" stroke="none"
+      >+</text
+      ><text fill="black" x="327" xml:space="preserve" y="530" stroke="none"
+      >Mitochondrial function</text
+      ><text fill="black" x="724" xml:space="preserve" y="600" stroke="none"
+      >Calcium uptake</text
+      ><text fill="black" x="32" xml:space="preserve" y="137" stroke="none"
+      >Protein import, sorting and processing</text
+      ><text fill="black" x="328" xml:space="preserve" y="83" stroke="none"
+      >Mitochondrial biogenesis</text
     ></g
   ></g
 ></svg
