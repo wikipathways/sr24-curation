@@ -9,3 +9,4 @@ This page shows data curation results for pathways on the focus for the [WikiPat
 * [reports/WP5176.md](reports/WP5176.md) <img alt="pathway status" src="https://img.shields.io/endpoint?url=https://wikipathways.org/sr24-curation/reports/WP5176.json">
 * [reports/WP5178.md](reports/WP5178.md) <img alt="pathway status" src="https://img.shields.io/endpoint?url=https://wikipathways.org/sr24-curation/reports/WP5178.json">
 * [reports/WP5504.md](reports/WP5504.md) <img alt="pathway status" src="https://img.shields.io/endpoint?url=https://wikipathways.org/sr24-curation/reports/WP5504.json">
+* [reports/RH163125.md](reports/RH163125.md) <img alt="pathway status" src="https://img.shields.io/endpoint?url=https://wikipathways.org/sr24-curation/reports/RH163125.json">

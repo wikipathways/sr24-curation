@@ -3,7 +3,7 @@
 
 ## CovidDiseaseMapsTests.interactionsWithoutReferences
 
-[WP4156](reports/WP4156#coviddiseasemapstestsinteractionswithoutreferences) [WP5173](reports/WP5173#coviddiseasemapstestsinteractionswithoutreferences) [WP5176](reports/WP5176#coviddiseasemapstestsinteractionswithoutreferences) [WP5178](reports/WP5178#coviddiseasemapstestsinteractionswithoutreferences) 
+[RH163125](reports/RH163125#coviddiseasemapstestsinteractionswithoutreferences) [WP4156](reports/WP4156#coviddiseasemapstestsinteractionswithoutreferences) [WP5173](reports/WP5173#coviddiseasemapstestsinteractionswithoutreferences) [WP5176](reports/WP5176#coviddiseasemapstestsinteractionswithoutreferences) [WP5178](reports/WP5178#coviddiseasemapstestsinteractionswithoutreferences) 
 
 ## DataNodesTests.dataNodesWithoutIdentifier
 
@@ -11,7 +11,7 @@
 
 ## GeneralTests.noTags
 
-[WP5504](reports/WP5504#generaltestsnotags) 
+[RH163125](reports/RH163125#generaltestsnotags) 
 
 ## IEMPathwayTests.allMetabolitesInteract
 
@@ -23,7 +23,7 @@
 
 ## InteractionTests.interactionsWithLabels
 
-[WP5173](reports/WP5173#interactiontestsinteractionswithlabels) [WP5176](reports/WP5176#interactiontestsinteractionswithlabels) [WP5178](reports/WP5178#interactiontestsinteractionswithlabels) 
+[WP5173](reports/WP5173#interactiontestsinteractionswithlabels) [WP5176](reports/WP5176#interactiontestsinteractionswithlabels) [WP5178](reports/WP5178#interactiontestsinteractionswithlabels) [WP5504](reports/WP5504#interactiontestsinteractionswithlabels) 
 
 ## InteractionTests.possibleTranslocations
 
@@ -37,7 +37,7 @@
 
 [WP5504](reports/WP5504#referencestestsatleastonereference) 
 
-## WikidataTests.hmdbWithoutMapping
+## WikidataTests.chebiWithoutMapping
 
-[WP5176](reports/WP5176#wikidatatestshmdbwithoutmapping) 
+[RH163125](reports/RH163125#wikidatatestschebiwithoutmapping) 
 
