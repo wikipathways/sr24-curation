@@ -99,9 +99,10 @@
     <Graphics CenterX="194.0" CenterY="402.0" Width="90.0" Height="25.0" ZOrder="32789" FontSize="12" Valign="Middle"/>
     <Xref Database="Ensembl" ID="ENSG00000113845"/>
   </DataNode>
-  <DataNode TextLabel="XNPEP3 " GraphId="fbd75" Type="GeneProduct">
+  <DataNode TextLabel="XPNPEP3 " GraphId="fbd75" Type="GeneProduct">
+    <Comment>Listed as XNPEP3 in the chapter.</Comment>
     <Graphics CenterX="194.0" CenterY="427.0" Width="90.0" Height="25.0" ZOrder="32790" FontSize="12" Valign="Middle"/>
-    <Xref Database="" ID=""/>
+    <Xref Database="Ensembl" ID="ENSG00000196236"/>
   </DataNode>
   <DataNode TextLabel="DNM1L" GraphId="da268" Type="GeneProduct">
     <Graphics CenterX="525.5" CenterY="321.0" Width="90.0" Height="25.0" ZOrder="32795" FontSize="12" Valign="Middle"/>

@@ -2,14 +2,18 @@
 <Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Glycosylphosphatidyl inositol anchor pathway" Version="20241217" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">Literature reference</Comment>
   <BiopaxRef>fdd</BiopaxRef>
-  <Graphics BoardWidth="1057.0" BoardHeight="820.5" />
+  <Graphics BoardWidth="1051.0" BoardHeight="871.0" />
   <DataNode TextLabel="Metabolite" GraphId="bff3d" Type="Metabolite">
-    <Graphics CenterX="388.0" CenterY="175.0" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="385.0" CenterY="175.0" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="PIGV" GraphId="f0d4f" Type="GeneProduct">
-    <Graphics CenterX="452.0" CenterY="215.0" Width="42.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="451.0" CenterY="213.0" Width="42.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Ensembl" ID="ENSG00000060642" />
+  </DataNode>
+  <DataNode TextLabel="flippase" GraphId="f758a" Type="GeneProduct">
+    <Graphics CenterX="284.0" CenterY="405.0" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="PGAP5" GraphId="fa348" Type="GeneProduct">
     <Graphics CenterX="586.0" CenterY="666.0" Width="54.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
@@ -79,9 +83,9 @@
     <Graphics CenterX="889.0" CenterY="516.0" Width="42.0" Height="25.0" ZOrder="32787" FontSize="12" Valign="Middle" />
     <Xref Database="Ensembl" ID="ENSG00000087111" />
   </DataNode>
-  <DataNode TextLabel="PIGUP1" GraphId="d8b40" Type="GeneProduct" GroupRef="c4d6f">
+  <DataNode TextLabel="PIGU" GraphId="d8b40" Type="GeneProduct" GroupRef="c4d6f">
     <Graphics CenterX="889.0" CenterY="541.0" Width="42.0" Height="25.0" ZOrder="32788" FontSize="12" Valign="Middle" />
-    <Xref Database="Ensembl" ID="ENSG00000224437" />
+    <Xref Database="Ensembl" ID="ENSG00000101464" />
   </DataNode>
   <DataNode TextLabel="PGAP1" GraphId="cec4c" Type="Protein" GroupRef="a20ce">
     <Graphics CenterX="586.0" CenterY="641.0" Width="54.0" Height="25.0" ZOrder="32789" FontSize="12" Valign="Middle" />
@@ -95,63 +99,142 @@
     <Graphics CenterX="586.0" CenterY="716.0" Width="54.0" Height="25.0" ZOrder="32792" FontSize="12" Valign="Middle" />
     <Xref Database="Ensembl" ID="ENSG00000161395" />
   </DataNode>
+  <DataNode TextLabel="Metabolite" GraphId="ffdc1" Type="Metabolite">
+    <Graphics CenterX="385.0" CenterY="334.0" Width="90.0" Height="25.0" ZOrder="32796" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="Metabolite" GraphId="a1b69" Type="Metabolite">
+    <Graphics CenterX="385.0" CenterY="439.0" Width="90.0" Height="25.0" ZOrder="32797" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="Metabolite" GraphId="b815a" Type="Metabolite">
+    <Graphics CenterX="174.0" CenterY="439.0" Width="90.0" Height="25.0" ZOrder="32798" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="Metabolite" GraphId="c06ca" Type="Metabolite">
+    <Graphics CenterX="174.0" CenterY="528.0" Width="90.0" Height="25.0" ZOrder="32799" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="Metabolite" GraphId="c79db" Type="Metabolite">
+    <Graphics CenterX="174.0" CenterY="753.0" Width="90.0" Height="25.0" ZOrder="32800" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="PIGM" GraphId="f23c2" Type="GeneProduct" GroupRef="fb0b9">
+    <Graphics CenterX="437.0" CenterY="255.0" Width="42.0" Height="25.0" ZOrder="32801" FontSize="12" Valign="Middle" />
+    <Xref Database="Ensembl" ID="ENSG00000143315" />
+  </DataNode>
+  <DataNode TextLabel="PIGX" GraphId="bdd87" Type="GeneProduct" GroupRef="fb0b9">
+    <Graphics CenterX="437.0" CenterY="280.0" Width="42.0" Height="25.0" ZOrder="32802" FontSize="12" Valign="Middle" />
+    <Xref Database="Ensembl" ID="ENSG00000163964" />
+  </DataNode>
+  <DataNode TextLabel="PIGW" GraphId="e1730" Type="GeneProduct">
+    <Graphics CenterX="437.0" CenterY="394.0" Width="42.0" Height="25.0" ZOrder="32803" FontSize="12" Valign="Middle" />
+    <Xref Database="Ensembl" ID="ENSG00000277161" />
+  </DataNode>
+  <DataNode TextLabel="DPM2" GraphId="c1461" Type="GeneProduct" GroupRef="af8dc">
+    <Graphics CenterX="92.0" CenterY="568.0" Width="42.0" Height="25.0" ZOrder="32805" FontSize="12" Valign="Middle" />
+    <Xref Database="Ensembl" ID="ENSG00000136908" />
+  </DataNode>
+  <DataNode TextLabel="PIGA" GraphId="d1855" Type="GeneProduct" GroupRef="af8dc">
+    <Graphics CenterX="92.0" CenterY="593.0" Width="42.0" Height="25.0" ZOrder="32806" FontSize="12" Valign="Middle" />
+    <Xref Database="Ensembl" ID="ENSG00000165195" />
+  </DataNode>
+  <DataNode TextLabel="PIGH" GraphId="f28f7" Type="GeneProduct" GroupRef="af8dc">
+    <Graphics CenterX="92.0" CenterY="618.0" Width="42.0" Height="25.0" ZOrder="32807" FontSize="12" Valign="Middle" />
+    <Xref Database="Ensembl" ID="ENSG00000100564" />
+  </DataNode>
+  <DataNode TextLabel="PIGC" GraphId="b18bf" Type="GeneProduct" GroupRef="af8dc">
+    <Graphics CenterX="92.0" CenterY="643.0" Width="42.0" Height="25.0" ZOrder="32808" FontSize="12" Valign="Middle" />
+    <Xref Database="Ensembl" ID="ENSG00000135845" />
+  </DataNode>
+  <DataNode TextLabel="PIGQ" GraphId="a17a0" Type="GeneProduct" GroupRef="af8dc">
+    <Graphics CenterX="92.0" CenterY="668.0" Width="42.0" Height="25.0" ZOrder="32809" FontSize="12" Valign="Middle" />
+    <Xref Database="Ensembl" ID="ENSG00000007541" />
+  </DataNode>
+  <DataNode TextLabel="PIGL" GraphId="e89d7" Type="GeneProduct">
+    <Graphics CenterX="92.0" CenterY="487.0" Width="42.0" Height="25.0" ZOrder="32810" FontSize="12" Valign="Middle" />
+    <Xref Database="Ensembl" ID="ENSG00000108474" />
+  </DataNode>
+  <DataNode TextLabel="PIGP" GraphId="da2fb" Type="GeneProduct" GroupRef="af8dc">
+    <Graphics CenterX="92.0" CenterY="693.0" Width="42.0" Height="25.0" ZOrder="32811" FontSize="12" Valign="Middle" />
+    <Xref Database="Ensembl" ID="ENSG00000185808" />
+  </DataNode>
+  <DataNode TextLabel="PIGY" GraphId="e1166" Type="GeneProduct" GroupRef="af8dc">
+    <Graphics CenterX="92.0" CenterY="718.0" Width="42.0" Height="25.0" ZOrder="32812" FontSize="12" Valign="Middle" />
+    <Xref Database="Ensembl" ID="ENSG00000255072" />
+  </DataNode>
   <Interaction>
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="833.0" Y="187.5" GraphRef="f1f98" RelX="0.0" RelY="1.0" />
-      <Point X="833.0" Y="278.5" GraphRef="e9c81" RelX="0.0" RelY="-1.0" ArrowHead="mim-conversion" />
-      <Anchor Position="0.4" Shape="None" GraphId="cfc7a" />
+      <Point X="385.0" Y="321.5" GraphRef="ffdc1" RelX="0.0" RelY="-1.0" />
+      <Point X="385.0" Y="187.5" GraphRef="bff3d" RelX="0.0" RelY="1.0" ArrowHead="mim-conversion" />
+      <Anchor Position="0.4" Shape="None" GraphId="e29d5" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction>
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="833.0" Y="303.5" GraphRef="e9c81" RelX="0.0" RelY="1.0" />
-      <Point X="833.0" Y="383.5" GraphRef="e7527" RelX="0.0" RelY="-1.0" ArrowHead="mim-conversion" />
-      <Anchor Position="0.4" Shape="None" GraphId="de60f" />
+      <Point X="385.0" Y="426.5" GraphRef="a1b69" RelX="0.0" RelY="-1.0" />
+      <Point X="385.0" Y="346.5" GraphRef="ffdc1" RelX="0.0" RelY="1.0" ArrowHead="mim-conversion" />
+      <Anchor Position="0.4" Shape="None" GraphId="e048b" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction>
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="833.0" Y="408.5" GraphRef="e7527" RelX="0.0" RelY="1.0" />
-      <Point X="834.0" Y="585.5" GraphRef="b51ef" RelX="0.0" RelY="-1.0" ArrowHead="mim-conversion" />
-      <Anchor Position="0.47173635493137556" Shape="None" GraphId="f7db9" />
+      <Point X="219.0" Y="439.0" GraphRef="b815a" RelX="1.0" RelY="0.0" />
+      <Point X="340.0" Y="439.0" GraphRef="a1b69" RelX="-1.0" RelY="0.0" ArrowHead="mim-translocation" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction>
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="860.0" Y="223.5" GraphRef="d53f8" RelX="-1.0" RelY="0.0" />
-      <Point X="833.0" Y="223.9" GraphRef="cfc7a" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+      <Point X="174.0" Y="740.5" GraphRef="c79db" RelX="0.0" RelY="-1.0" />
+      <Point X="174.0" Y="540.5" GraphRef="c06ca" RelX="0.0" RelY="1.0" ArrowHead="mim-conversion" />
+      <Anchor Position="0.4825" Shape="None" GraphId="c2114" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction>
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="860.0" Y="335.5" GraphRef="c97bc" RelX="-1.0" RelY="0.0" />
-      <Point X="833.0" Y="335.5" GraphRef="de60f" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+      <Point X="174.0" Y="515.5" GraphRef="c06ca" RelX="0.0" RelY="-1.0" />
+      <Point X="174.0" Y="451.5" GraphRef="b815a" RelX="0.0" RelY="1.0" ArrowHead="mim-conversion" />
+      <Anchor Position="0.4296875" Shape="None" GraphId="f5ce1" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction>
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="860.0" Y="491.0" GraphRef="b0fd8" RelX="-1.0" RelY="0.0" />
-      <Point X="833.4717363549314" Y="491.9973348228535" GraphRef="f7db9" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+      <Point X="408.0" Y="267.5" GraphRef="ea1bd" RelX="-1.0" RelY="0.0" />
+      <Point X="385.0" Y="267.9" GraphRef="e29d5" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction>
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="416.0" Y="394.0" GraphRef="e1730" RelX="-1.0" RelY="0.0" />
+      <Point X="385.0" Y="394.5" GraphRef="e048b" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction>
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="121.0" Y="643.0" GraphRef="d5eb9" RelX="1.0" RelY="0.0" />
+      <Point X="174.0" Y="644.0" GraphRef="c2114" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction>
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="113.0" Y="487.0" GraphRef="e89d7" RelX="1.0" RelY="0.0" />
+      <Point X="174.0" Y="488.0" GraphRef="f5ce1" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id146b44aa">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="656.0" Y="613.0" />
       <Point X="656.0" Y="751.0" ArrowHead="Arrow" />
       <Anchor Position="0.4782608695652174" Shape="None" GraphId="d3141" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction>
-    <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="621.0" Y="678.5" GraphRef="f9c41" RelX="1.0" RelY="0.0" />
-      <Point X="656.0" Y="679.0" GraphRef="d3141" RelX="0.0" RelY="0.0" ArrowHead="mim-stimulation" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -164,8 +247,31 @@
   </Interaction>
   <Interaction GraphId="id2ebf3a2f">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="452.0" Y="202.5" GraphRef="f0d4f" RelX="0.0" RelY="-1.0" />
-      <Point X="453.0" Y="175.0" GraphRef="a620f" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+      <Point X="451.0" Y="200.5" GraphRef="f0d4f" RelX="0.0" RelY="-1.0" />
+      <Point X="451.2" Y="175.0" GraphRef="a620f" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id3c1e9cd6">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="833.0" Y="303.5" GraphRef="e9c81" RelX="0.0" RelY="1.0" />
+      <Point X="833.0" Y="383.5" GraphRef="e7527" RelX="0.0" RelY="-1.0" ArrowHead="mim-conversion" />
+      <Anchor Position="0.4" Shape="None" GraphId="de60f" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id419050b5">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="833.0" Y="187.5" GraphRef="f1f98" RelX="0.0" RelY="1.0" />
+      <Point X="833.0" Y="278.5" GraphRef="e9c81" RelX="0.0" RelY="-1.0" ArrowHead="mim-conversion" />
+      <Anchor Position="0.4" Shape="None" GraphId="cfc7a" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id464f94fd">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="860.0" Y="335.5" GraphRef="c97bc" RelX="-1.0" RelY="0.0" />
+      <Point X="833.0" Y="335.5" GraphRef="de60f" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -176,11 +282,40 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
+  <Interaction GraphId="id57a82e82">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="860.0" Y="491.0" GraphRef="b0fd8" RelX="-1.0" RelY="0.0" />
+      <Point X="833.4717363549314" Y="491.9973348228535" GraphRef="f7db9" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id7ebbb0d3">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="621.0" Y="678.5" GraphRef="f9c41" RelX="1.0" RelY="0.0" />
+      <Point X="656.0" Y="679.0" GraphRef="d3141" RelX="0.0" RelY="0.0" ArrowHead="mim-stimulation" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
   <Interaction GraphId="id98f53451">
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="433.0" Y="175.0" GraphRef="bff3d" RelX="1.0" RelY="0.0" />
+      <Point X="430.0" Y="175.0" GraphRef="bff3d" RelX="1.0" RelY="0.0" />
       <Point X="483.0" Y="175.0" GraphRef="ac181" RelX="-1.0" RelY="0.0" ArrowHead="mim-conversion" />
       <Anchor Position="0.4" Shape="None" GraphId="a620f" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="ida5c2dc7f">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="833.0" Y="408.5" GraphRef="e7527" RelX="0.0" RelY="1.0" />
+      <Point X="834.0" Y="585.5" GraphRef="b51ef" RelX="0.0" RelY="-1.0" ArrowHead="mim-conversion" />
+      <Anchor Position="0.47173635493137556" Shape="None" GraphId="f7db9" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idc640513d">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="860.0" Y="223.5" GraphRef="d53f8" RelX="-1.0" RelY="0.0" />
+      <Point X="833.0" Y="223.9" GraphRef="cfc7a" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -218,11 +353,14 @@
   <Shape GraphId="a5e25">
     <Graphics CenterX="625.5" CenterY="389.5" Width="609.0" Height="511.0" ZOrder="16385" FontSize="12" Valign="Middle" ShapeType="Rectangle" Rotation="0.0" />
   </Shape>
+  <Group GroupId="c1c00" GraphId="a4597" Style="Group" />
   <Group GroupId="c4d6f" GraphId="b0fd8" Style="Group" />
   <Group GroupId="dda43" GraphId="c97bc" Style="Group" />
   <Group GroupId="f8669" GraphId="d53f8" Style="Group" />
+  <Group GroupId="af8dc" GraphId="d5eb9" Style="Group" />
+  <Group GroupId="fb0b9" GraphId="ea1bd" Style="Group" />
   <Group GroupId="a20ce" GraphId="f9c41" Style="Group" />
-  <Group GroupId="c1c00" GraphId="a4597" Style="Group" />
+  <Group GroupId="be12a" GraphId="e7223" Style="Group" />
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Biopax>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="fdd">
