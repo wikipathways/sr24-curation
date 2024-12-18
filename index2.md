@@ -7,11 +7,11 @@
 
 ## DataNodesTests.dataNodesWithoutIdentifier
 
-[WP5176](reports/WP5176#datanodestestsdatanodeswithoutidentifier) [WP5504](reports/WP5504#datanodestestsdatanodeswithoutidentifier) 
+[WP5176](reports/WP5176#datanodestestsdatanodeswithoutidentifier) [WP5504](reports/WP5504#datanodestestsdatanodeswithoutidentifier) [WP5505](reports/WP5505#datanodestestsdatanodeswithoutidentifier) 
 
 ## GeneralTests.noTags
 
-[RH163125](reports/RH163125#generaltestsnotags) 
+[RH163125](reports/RH163125#generaltestsnotags) [WP5505](reports/WP5505#generaltestsnotags) 
 
 ## IEMPathwayTests.allMetabolitesInteract
 
