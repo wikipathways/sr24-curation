@@ -2,9 +2,9 @@
 <Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Disorders of Mitochondrial Homeostatis, Dynamics, Protein Import, and Quality Control" Version="20241214" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">This pathway lists several genes involved in mechanisms involved in disorders of mitochondrial homeostatis, dynamics, protein import, and quality control. This pathway was inspired by Figure 46.1 of Edition 5, Chapter 46 of the book of Blau (ISBN 9783030677268).</Comment>
   <BiopaxRef>ce4</BiopaxRef>
-  <Graphics BoardWidth="1424.961698327093" BoardHeight="932.3206751054856" />
+  <Graphics BoardWidth="2433.6762589928057" BoardHeight="1400.3633093525177" />
   <DataNode TextLabel="AFG3L2" GraphId="a5add" Type="GeneProduct">
-    <Graphics CenterX="104.0" CenterY="177.0" Width="90.0" Height="25.0" ZOrder="32768" FontWeight="Bold" FontSize="16" Valign="Middle" />
+    <Graphics CenterX="104.0" CenterY="177.0" Width="90.0" Height="25.0" ZOrder="32768" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
     <Xref Database="Ensembl" ID="ENSG00000141385" />
   </DataNode>
   <DataNode TextLabel="arginine" GraphId="a8d72" Type="Metabolite">
@@ -17,6 +17,11 @@
     <BiopaxRef>de4</BiopaxRef>
     <Graphics CenterX="720.1125175808714" CenterY="697.60900140647" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="ChEBI" ID="CHEBI:16474" />
+  </DataNode>
+  <DataNode TextLabel="YME1L1" GraphId="c3212" Type="Protein">
+    <Comment>Not in Figure, but added in Table 46.35</Comment>
+    <Graphics CenterX="1654.8804197939114" CenterY="935.2517985611508" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Xref Database="Uniprot-TrEMBL" ID="Q96TA2" />
   </DataNode>
   <DataNode TextLabel="Urea Cycle" GraphId="d3d59" Type="Pathway">
     <Graphics CenterX="963.4317862165962" CenterY="760.9001406469761" Width="90.0" Height="25.0" ZOrder="32768" FontWeight="Bold" FontSize="12" Valign="Middle" Color="14961e" />
@@ -61,7 +66,7 @@
     <Xref Database="Ensembl" ID="ENSG00000156709" />
   </DataNode>
   <DataNode TextLabel="AGK" GraphId="ebf9c" Type="GeneProduct">
-    <Graphics CenterX="104.0" CenterY="227.0" Width="90.0" Height="25.0" ZOrder="32770" FontWeight="Bold" FontSize="16" Valign="Middle" />
+    <Graphics CenterX="104.0" CenterY="227.0" Width="90.0" Height="25.0" ZOrder="32770" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
     <Xref Database="Ensembl" ID="ENSG00000006530" />
   </DataNode>
   <DataNode TextLabel="C1QBP" GraphId="ea2da" Type="GeneProduct">
@@ -69,7 +74,7 @@
     <Xref Database="Ensembl" ID="ENSG00000108561" />
   </DataNode>
   <DataNode TextLabel="CLPB" GraphId="df372" Type="GeneProduct">
-    <Graphics CenterX="104.0" CenterY="277.0" Width="90.0" Height="25.0" ZOrder="32772" FontWeight="Bold" FontSize="16" Valign="Middle" />
+    <Graphics CenterX="104.0" CenterY="277.0" Width="90.0" Height="25.0" ZOrder="32772" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
     <Xref Database="Ensembl" ID="ENSG00000162129" />
   </DataNode>
   <DataNode TextLabel="CLPP" GraphId="cb11a" Type="GeneProduct">
@@ -77,72 +82,72 @@
     <Xref Database="Ensembl" ID="ENSG00000125656" />
   </DataNode>
   <DataNode TextLabel="DNAJC19" GraphId="d9a23" Type="GeneProduct">
-    <Graphics CenterX="104.0" CenterY="327.0" Width="90.0" Height="25.0" ZOrder="32774" FontWeight="Bold" FontSize="16" Valign="Middle" />
+    <Graphics CenterX="104.0" CenterY="327.0" Width="90.0" Height="25.0" ZOrder="32774" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
     <Xref Database="Ensembl" ID="ENSG00000205981" />
   </DataNode>
   <DataNode TextLabel="GFER" GraphId="fc4f4" Type="GeneProduct">
-    <Graphics CenterX="104.0" CenterY="352.0" Width="90.0" Height="25.0" ZOrder="32775" FontWeight="Bold" FontSize="16" Valign="Middle" />
+    <Graphics CenterX="104.0" CenterY="352.0" Width="90.0" Height="25.0" ZOrder="32775" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
     <Xref Database="HGNC" ID="GFER" />
   </DataNode>
   <DataNode TextLabel="HSPA9" GraphId="f91bb" Type="GeneProduct">
-    <Graphics CenterX="104.0" CenterY="377.0" Width="90.0" Height="25.0" ZOrder="32776" FontWeight="Bold" FontSize="16" Valign="Middle" />
+    <Graphics CenterX="104.0" CenterY="377.0" Width="90.0" Height="25.0" ZOrder="32776" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
     <Xref Database="Ensembl" ID="ENSG00000113013" />
   </DataNode>
   <DataNode TextLabel="HSPD1" GraphId="bd822" Type="GeneProduct">
-    <Graphics CenterX="104.0" CenterY="402.0" Width="90.0" Height="25.0" ZOrder="32777" FontWeight="Bold" FontSize="16" Valign="Middle" />
+    <Graphics CenterX="104.0" CenterY="402.0" Width="90.0" Height="25.0" ZOrder="32777" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
     <Xref Database="Ensembl" ID="ENSG00000144381" />
   </DataNode>
   <DataNode TextLabel="HTRA2" GraphId="ed31d" Type="GeneProduct">
-    <Graphics CenterX="104.0" CenterY="427.0" Width="90.0" Height="25.0" ZOrder="32778" FontWeight="Bold" FontSize="16" Valign="Middle" />
+    <Graphics CenterX="104.0" CenterY="427.0" Width="90.0" Height="25.0" ZOrder="32778" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
     <Xref Database="Ensembl" ID="ENSG00000115317" />
   </DataNode>
   <DataNode TextLabel="LONP1" GraphId="da862" Type="GeneProduct">
-    <Graphics CenterX="104.0" CenterY="452.0" Width="90.0" Height="25.0" ZOrder="32779" FontWeight="Bold" FontSize="16" Valign="Middle" />
+    <Graphics CenterX="104.0" CenterY="452.0" Width="90.0" Height="25.0" ZOrder="32779" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
     <Xref Database="" ID="" />
   </DataNode>
   <DataNode TextLabel="MIPEP" GraphId="b8296" Type="GeneProduct">
-    <Graphics CenterX="194.0" CenterY="177.0" Width="90.0" Height="25.0" ZOrder="32780" FontWeight="Bold" FontSize="16" Valign="Middle" />
+    <Graphics CenterX="194.0" CenterY="177.0" Width="90.0" Height="25.0" ZOrder="32780" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
     <Xref Database="Ensembl" ID="ENSG00000027001" />
   </DataNode>
   <DataNode TextLabel="PAM16" GraphId="c0908" Type="GeneProduct">
-    <Graphics CenterX="194.0" CenterY="202.0" Width="90.0" Height="25.0" ZOrder="32781" FontWeight="Bold" FontSize="16" Valign="Middle" />
+    <Graphics CenterX="194.0" CenterY="202.0" Width="90.0" Height="25.0" ZOrder="32781" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
     <Xref Database="Ensembl" ID="ENSG00000217930" />
   </DataNode>
   <DataNode TextLabel="PITRM1" GraphId="b28a2" Type="GeneProduct">
-    <Graphics CenterX="194.0" CenterY="227.0" Width="90.0" Height="25.0" ZOrder="32782" FontWeight="Bold" FontSize="16" Valign="Middle" />
+    <Graphics CenterX="194.0" CenterY="227.0" Width="90.0" Height="25.0" ZOrder="32782" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
     <Xref Database="Ensembl" ID="ENSG00000107959" />
   </DataNode>
   <DataNode TextLabel="PMPCA" GraphId="d68ae" Type="GeneProduct">
-    <Graphics CenterX="194.0" CenterY="252.0" Width="90.0" Height="25.0" ZOrder="32783" FontWeight="Bold" FontSize="16" Valign="Middle" />
+    <Graphics CenterX="194.0" CenterY="252.0" Width="90.0" Height="25.0" ZOrder="32783" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
     <Xref Database="Ensembl" ID="ENSG00000165688" />
   </DataNode>
   <DataNode TextLabel="PMPCB" GraphId="f9890" Type="GeneProduct">
-    <Graphics CenterX="194.0" CenterY="277.0" Width="90.0" Height="25.0" ZOrder="32784" FontWeight="Bold" FontSize="16" Valign="Middle" />
+    <Graphics CenterX="194.0" CenterY="277.0" Width="90.0" Height="25.0" ZOrder="32784" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
     <Xref Database="Ensembl" ID="ENSG00000105819" />
   </DataNode>
   <DataNode TextLabel="SFXN4" GraphId="ecd79" Type="GeneProduct">
-    <Graphics CenterX="194.0" CenterY="302.0" Width="90.0" Height="25.0" ZOrder="32785" FontWeight="Bold" FontSize="16" Valign="Middle" />
+    <Graphics CenterX="194.0" CenterY="302.0" Width="90.0" Height="25.0" ZOrder="32785" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
     <Xref Database="Ensembl" ID="ENSG00000183605" />
   </DataNode>
   <DataNode TextLabel="SPG7" GraphId="e0f14" Type="GeneProduct">
-    <Graphics CenterX="194.0" CenterY="327.0" Width="90.0" Height="25.0" ZOrder="32786" FontWeight="Bold" FontSize="16" Valign="Middle" />
+    <Graphics CenterX="194.0" CenterY="327.0" Width="90.0" Height="25.0" ZOrder="32786" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
     <Xref Database="Ensembl" ID="ENSG00000197912" />
   </DataNode>
   <DataNode TextLabel="TIMM8A" GraphId="dc8b4" Type="GeneProduct">
-    <Graphics CenterX="194.0" CenterY="352.0" Width="90.0" Height="25.0" ZOrder="32787" FontWeight="Bold" FontSize="16" Valign="Middle" />
+    <Graphics CenterX="194.0" CenterY="352.0" Width="90.0" Height="25.0" ZOrder="32787" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
     <Xref Database="Ensembl" ID="ENSG00000126953" />
   </DataNode>
   <DataNode TextLabel="TIMM50" GraphId="d8832" Type="GeneProduct">
-    <Graphics CenterX="194.0" CenterY="377.0" Width="90.0" Height="25.0" ZOrder="32788" FontWeight="Bold" FontSize="16" Valign="Middle" />
+    <Graphics CenterX="194.0" CenterY="377.0" Width="90.0" Height="25.0" ZOrder="32788" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
     <Xref Database="Ensembl" ID="ENSG00000105197" />
   </DataNode>
   <DataNode TextLabel="TIMMDC1" GraphId="b76fa" Type="GeneProduct">
-    <Graphics CenterX="194.0" CenterY="402.0" Width="90.0" Height="25.0" ZOrder="32789" FontWeight="Bold" FontSize="16" Valign="Middle" />
+    <Graphics CenterX="194.0" CenterY="402.0" Width="90.0" Height="25.0" ZOrder="32789" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
     <Xref Database="Ensembl" ID="ENSG00000113845" />
   </DataNode>
   <DataNode TextLabel="XPNPEP3 " GraphId="fbd75" Type="GeneProduct">
     <Comment>Listed as XNPEP3 in the chapter.</Comment>
-    <Graphics CenterX="194.0" CenterY="427.0" Width="90.0" Height="25.0" ZOrder="32790" FontWeight="Bold" FontSize="16" Valign="Middle" />
+    <Graphics CenterX="194.0" CenterY="427.0" Width="90.0" Height="25.0" ZOrder="32790" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
     <Xref Database="Ensembl" ID="ENSG00000196236" />
   </DataNode>
   <DataNode TextLabel="DNM1L" GraphId="da268" Type="GeneProduct">
@@ -178,7 +183,7 @@
     <Xref Database="Ensembl" ID="ENSG00000164209" />
   </DataNode>
   <DataNode TextLabel="YME1L1" GraphId="de4c5" Type="GeneProduct">
-    <Graphics CenterX="373.3794295592049" CenterY="454.27139152981863" Width="90.0" Height="25.00000000000001" ZOrder="32827" FontWeight="Bold" FontSize="16" Valign="Middle" />
+    <Graphics CenterX="373.3794295592049" CenterY="454.27139152981863" Width="90.0" Height="25.00000000000001" ZOrder="32827" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
     <Xref Database="Ensembl" ID="ENSG00000136758" />
   </DataNode>
   <DataNode TextLabel="MSTO1?" GraphId="b3012" Type="Protein">
@@ -186,39 +191,39 @@
     <Xref Database="Uniprot-TrEMBL" ID="Q9BUK6" />
   </DataNode>
   <DataNode TextLabel="PINK1" GraphId="f67da" Type="GeneProduct">
-    <Graphics CenterX="729.1041486603274" CenterY="343.1002592912707" Width="90.0" Height="25.0" ZOrder="32834" FontWeight="Bold" FontSize="16" Valign="Middle" />
+    <Graphics CenterX="729.1041486603274" CenterY="343.1002592912707" Width="90.0" Height="25.0" ZOrder="32834" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
     <Xref Database="Ensembl" ID="ENSG00000158828" />
   </DataNode>
   <DataNode TextLabel="PRKN" GraphId="efdd3" Type="GeneProduct">
-    <Graphics CenterX="729.1041486603274" CenterY="368.1002592912707" Width="90.0" Height="25.0" ZOrder="32835" FontWeight="Bold" FontSize="16" Valign="Middle" />
+    <Graphics CenterX="729.1041486603274" CenterY="368.1002592912707" Width="90.0" Height="25.0" ZOrder="32835" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
     <Xref Database="Ensembl" ID="ENSG00000185345" />
   </DataNode>
-  <DataNode TextLabel="SACS?" GraphId="ebf8e" Type="GeneProduct">
-    <Graphics CenterX="729.1041486603274" CenterY="393.10025929127073" Width="90.0" Height="25.0" ZOrder="32836" FontWeight="Bold" FontSize="16" Valign="Middle" />
-    <Xref Database="" ID="" />
+  <DataNode TextLabel="SACS?" GraphId="ebf8e" Type="Protein">
+    <Graphics CenterX="729.1041486603274" CenterY="393.10025929127073" Width="90.0" Height="25.0" ZOrder="32836" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Xref Database="Uniprot-TrEMBL" ID="Q9NZJ4" />
   </DataNode>
   <DataNode TextLabel="PPA2" GraphId="cc125" Type="GeneProduct">
-    <Graphics CenterX="190.9621848739489" CenterY="599.8991596638649" Width="90.0" Height="25.0" ZOrder="32839" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Graphics CenterX="185.05376537616456" CenterY="599.8991596638649" Width="90.0" Height="25.0" ZOrder="32839" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
     <Xref Database="Ensembl" ID="ENSG00000138777" />
   </DataNode>
   <DataNode TextLabel="TXN2" GraphId="af93b" Type="GeneProduct">
-    <Graphics CenterX="402.6428571428573" CenterY="586.7899159663851" Width="90.0" Height="25.0" ZOrder="32841" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Graphics CenterX="379.0091791517197" CenterY="586.7899159663851" Width="90.0" Height="25.0" ZOrder="32841" FontSize="12" Valign="Middle" />
     <Xref Database="Ensembl" ID="ENSG00000100348" />
   </DataNode>
   <DataNode TextLabel="TXNRD2" GraphId="b8992" Type="GeneProduct">
-    <Graphics CenterX="402.6428571428572" CenterY="611.789915966385" Width="90.0" Height="25.0" ZOrder="32843" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Graphics CenterX="379.00917915171965" CenterY="611.789915966385" Width="90.0" Height="25.0" ZOrder="32843" FontSize="12" Valign="Middle" />
     <Xref Database="Ensembl" ID="ENSG00000184470" />
   </DataNode>
   <DataNode TextLabel="MICU1" GraphId="d4c8a" Type="GeneProduct">
-    <Graphics CenterX="866.424369747898" CenterY="596.7899159663857" Width="90.0" Height="25.0" ZOrder="32846" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Graphics CenterX="833.9280625100845" CenterY="596.7899159663857" Width="90.0" Height="25.0" ZOrder="32846" FontSize="12" Valign="Middle" />
     <Xref Database="Ensembl" ID="ENSG00000107745" />
   </DataNode>
   <DataNode TextLabel="ATAD3A" GraphId="dd38f" Type="GeneProduct">
-    <Graphics CenterX="656.3403361344547" CenterY="586.2857142857134" Width="90.0" Height="25.0" ZOrder="32848" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Graphics CenterX="632.7066581433176" CenterY="586.2857142857134" Width="90.0" Height="25.0" ZOrder="32848" FontSize="12" Valign="Middle" />
     <Xref Database="Ensembl" ID="ENSG00000197785" />
   </DataNode>
   <DataNode TextLabel="MICOS13" GraphId="a93d0" Type="GeneProduct">
-    <Graphics CenterX="656.3403361344547" CenterY="611.2857142857133" Width="90.0" Height="25.0" ZOrder="32849" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Graphics CenterX="632.7066581433176" CenterY="611.2857142857133" Width="90.0" Height="25.0" ZOrder="32849" FontSize="12" Valign="Middle" />
     <Xref Database="Ensembl" ID="ENSG00000174917" />
   </DataNode>
   <DataNode TextLabel="RTN4IP1" GraphId="ea0a4" Type="Protein">
@@ -229,7 +234,7 @@
     <Xref Database="Uniprot-TrEMBL" ID="Q8WWV3" />
   </DataNode>
   <DataNode TextLabel="TMEM126A" GraphId="ef0df" Type="Protein">
-    <Graphics CenterX="1141.939012528893" CenterY="776.0041494537824" Width="96.95437415472585" Height="25.0" ZOrder="32851" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Graphics CenterX="211.7503332836087" CenterY="892.9852815292534" Width="96.95437415472585" Height="25.0" ZOrder="32851" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
     <Xref Database="Uniprot-TrEMBL" ID="Q9H061" />
   </DataNode>
   <DataNode TextLabel="USP9X" GraphId="db10c" Type="Protein">
@@ -239,7 +244,7 @@
     <Xref Database="Uniprot-TrEMBL" ID="Q93008" />
   </DataNode>
   <DataNode TextLabel="VCP" GraphId="f3a0c" Type="Protein">
-    <Graphics CenterX="1141.939012528893" CenterY="751.0041494537824" Width="96.95437415472591" Height="24.999999999999968" ZOrder="32853" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Graphics CenterX="211.75033328361053" CenterY="867.9852815292534" Width="96.95437415472591" Height="24.999999999999968" ZOrder="32853" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
     <Xref Database="Uniprot-TrEMBL" ID="P55072" />
   </DataNode>
   <DataNode TextLabel="COQ5" GraphId="b7d98" Type="Protein">
@@ -300,40 +305,155 @@
     <Xref Database="Uniprot-TrEMBL" ID="Q96C36" />
   </DataNode>
   <DataNode TextLabel="DNM1L" GraphId="cad06" Type="GeneProduct">
-    <Graphics CenterX="1082.7868217054252" CenterY="122.48062015503876" Width="90.0" Height="25.0" ZOrder="32875" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Graphics CenterX="1654.8804197939116" CenterY="128.14099751352933" Width="90.0" Height="25.0" ZOrder="32875" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
     <Xref Database="Ensembl" ID="ENSG00000087470" />
   </DataNode>
   <DataNode TextLabel="MFF" GraphId="e0ba1" Type="GeneProduct">
-    <Graphics CenterX="1082.7868217054252" CenterY="223.60997561059386" Width="90.0" Height="25.0" ZOrder="32876" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Graphics CenterX="1654.8804197939116" CenterY="229.2703529690844" Width="90.0" Height="25.0" ZOrder="32876" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
     <Xref Database="Ensembl" ID="ENSG00000168958" />
   </DataNode>
   <DataNode TextLabel="GDAP1L1" GraphId="a3949" Type="GeneProduct">
-    <Graphics CenterX="1082.7868217054252" CenterY="168.8313466845295" Width="90.0" Height="25.0" ZOrder="32879" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Graphics CenterX="1654.8804197939116" CenterY="174.49172404302004" Width="90.0" Height="25.0" ZOrder="32879" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
     <Xref Database="HGNC" ID="GDAP1L1" />
   </DataNode>
   <DataNode TextLabel="STAT2" GraphId="f3986" Type="GeneProduct">
-    <Graphics CenterX="1082.7868217054252" CenterY="264.9147286821711" Width="90.0" Height="25.0" ZOrder="32884" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Graphics CenterX="1654.8804197939116" CenterY="270.5751060406617" Width="90.0" Height="25.0" ZOrder="32884" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
     <Xref Database="Ensembl" ID="ENSG00000170581" />
   </DataNode>
   <DataNode TextLabel="SLC25A46" GraphId="ba1f6" Type="GeneProduct">
-    <Graphics CenterX="1082.7868217054252" CenterY="555.5646548269275" Width="90.0" Height="25.00000000000001" ZOrder="32889" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Graphics CenterX="1654.8804197939114" CenterY="561.225032185418" Width="90.0" Height="25.00000000000001" ZOrder="32889" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
     <Xref Database="Ensembl" ID="ENSG00000164209" />
   </DataNode>
   <DataNode TextLabel="OPA1" GraphId="a53a3" Type="GeneProduct">
-    <Graphics CenterX="1082.7868217054252" CenterY="455.7411108798928" Width="90.0" Height="25.00000000000001" ZOrder="32892" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Graphics CenterX="1654.8804197939116" CenterY="461.4014882383834" Width="90.0" Height="25.00000000000001" ZOrder="32892" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
     <Xref Database="Ensembl" ID="ENSG00000198836" />
   </DataNode>
   <DataNode TextLabel="OPA3" GraphId="c6a1a" Type="Protein">
-    <Graphics CenterX="1082.7868217054252" CenterY="508.8061034943681" Width="90.0" Height="25.0" ZOrder="32897" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Graphics CenterX="1654.8804197939116" CenterY="514.4664808528587" Width="90.0" Height="25.0" ZOrder="32897" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
     <Xref Database="Uniprot-TrEMBL" ID="Q9H6K4" />
   </DataNode>
   <DataNode TextLabel="MFN2" GraphId="be3f6" Type="GeneProduct">
-    <Graphics CenterX="1082.7868217054252" CenterY="354.04244027428035" Width="90.0" Height="25.00000000000001" ZOrder="32900" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Graphics CenterX="1654.8804197939116" CenterY="362.9654603733909" Width="90.0" Height="25.00000000000001" ZOrder="32900" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
     <Xref Database="Ensembl" ID="ENSG00000116688" />
   </DataNode>
   <DataNode TextLabel="MSTO1" GraphId="d7b6b" Type="Protein">
-    <Graphics CenterX="1082.7868217054252" CenterY="407.1074328887557" Width="90.0" Height="25.00000000000001" ZOrder="32905" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Graphics CenterX="1654.8804197939116" CenterY="412.7678102472463" Width="90.0" Height="25.00000000000001" ZOrder="32905" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
     <Xref Database="Uniprot-TrEMBL" ID="Q9BUK6" />
+  </DataNode>
+  <DataNode TextLabel="YME1L1" GraphId="e1b49" Type="GeneProduct">
+    <Graphics CenterX="1654.8804197939114" CenterY="599.9169978395636" Width="90.0" Height="25.00000000000001" ZOrder="32910" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Xref Database="Ensembl" ID="ENSG00000136758" />
+  </DataNode>
+  <DataNode TextLabel="DNAJC19" GraphId="c2195" Type="GeneProduct">
+    <Graphics CenterX="994.434782608696" CenterY="368.0107049237481" Width="90.0" Height="25.0" ZOrder="32913" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Xref Database="Ensembl" ID="ENSG00000205981" />
+  </DataNode>
+  <DataNode TextLabel="TIMM8A" GraphId="f53c3" Type="GeneProduct">
+    <Graphics CenterX="1311.3817486860962" CenterY="479.8440360698489" Width="90.0" Height="25.0" ZOrder="32916" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Xref Database="Ensembl" ID="ENSG00000126953" />
+  </DataNode>
+  <DataNode TextLabel="TIMMDC1" GraphId="b0c7e" Type="GeneProduct">
+    <Graphics CenterX="1311.3817486860962" CenterY="557.6411494489925" Width="90.0" Height="25.0" ZOrder="32919" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Xref Database="Ensembl" ID="ENSG00000113845" />
+  </DataNode>
+  <DataNode TextLabel="TIMM50" GraphId="c861e" Type="GeneProduct">
+    <Graphics CenterX="1311.3817486860962" CenterY="519.4877945969174" Width="90.0" Height="25.0" ZOrder="32922" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Xref Database="Ensembl" ID="ENSG00000105197" />
+  </DataNode>
+  <DataNode TextLabel="GFER" GraphId="da161" Type="GeneProduct">
+    <Graphics CenterX="994.4347826086959" CenterY="420.53086114097533" Width="90.0" Height="25.0" ZOrder="32927" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Xref Database="HGNC" ID="GFER" />
+  </DataNode>
+  <DataNode TextLabel="PAM16" GraphId="eb539" Type="GeneProduct">
+    <Graphics CenterX="1311.3817486860962" CenterY="172.25477102149193" Width="90.0" Height="25.0" ZOrder="32930" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Xref Database="Ensembl" ID="ENSG00000217930" />
+  </DataNode>
+  <DataNode TextLabel="AGK" GraphId="f0bda" Type="GeneProduct">
+    <Graphics CenterX="994.434782608696" CenterY="190.9872410998029" Width="90.0" Height="25.0" ZOrder="32933" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Xref Database="Ensembl" ID="ENSG00000006530" />
+  </DataNode>
+  <DataNode TextLabel="PMPCA" GraphId="f9b4b" Type="GeneProduct">
+    <Graphics CenterX="1311.3817486860962" CenterY="298.63780149548097" Width="90.0" Height="25.0" ZOrder="32938" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Xref Database="Ensembl" ID="ENSG00000165688" />
+  </DataNode>
+  <DataNode TextLabel="PMPCB" GraphId="e48a4" Type="GeneProduct">
+    <Graphics CenterX="1311.3817486860962" CenterY="345.9565344663881" Width="90.0" Height="25.0" ZOrder="32941" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Xref Database="Ensembl" ID="ENSG00000105819" />
+  </DataNode>
+  <DataNode TextLabel="MIPEP" GraphId="a4bcc" Type="GeneProduct">
+    <Graphics CenterX="1311.3817486860962" CenterY="128.1874846657468" Width="90.0" Height="25.0" ZOrder="32944" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Xref Database="Ensembl" ID="ENSG00000027001" />
+  </DataNode>
+  <DataNode TextLabel="CLPB" GraphId="f880a" Type="GeneProduct">
+    <Graphics CenterX="994.434782608696" CenterY="246.60473134386288" Width="90.0" Height="25.0" ZOrder="32947" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Xref Database="Ensembl" ID="ENSG00000162129" />
+  </DataNode>
+  <DataNode TextLabel="CLPP" GraphId="c4cd0" Type="GeneProduct">
+    <Graphics CenterX="994.434782608696" CenterY="287.05197505197583" Width="90.0" Height="25.0" ZOrder="32950" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Xref Database="Ensembl" ID="ENSG00000125656" />
+  </DataNode>
+  <DataNode TextLabel="LONP1" GraphId="a55f8" Type="GeneProduct">
+    <Graphics CenterX="994.434782608696" CenterY="649.1101871101869" Width="90.0" Height="25.0" ZOrder="32953" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Xref Database="" ID="" />
+  </DataNode>
+  <DataNode TextLabel="HSPA9" GraphId="e71e4" Type="GeneProduct">
+    <Graphics CenterX="994.434782608696" CenterY="468.0810810810812" Width="90.0" Height="25.0" ZOrder="32956" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Xref Database="Ensembl" ID="ENSG00000113013" />
+  </DataNode>
+  <DataNode TextLabel="HSPD1" GraphId="c1c2e" Type="GeneProduct">
+    <Graphics CenterX="994.4347826086961" CenterY="532.5821205821211" Width="90.0" Height="25.0" ZOrder="32959" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Xref Database="Ensembl" ID="ENSG00000144381" />
+  </DataNode>
+  <DataNode TextLabel="SACS?" GraphId="c232b" Type="Protein">
+    <Graphics CenterX="1654.8804197939114" CenterY="782.0582155873584" Width="90.0" Height="25.0" ZOrder="32964" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Xref Database="Uniprot-TrEMBL" ID="Q9NZJ4" />
+  </DataNode>
+  <DataNode TextLabel="AFG3L2" GraphId="d8e44" Type="GeneProduct">
+    <Graphics CenterX="994.4347826086959" CenterY="95.91738408516973" Width="90.0" Height="25.0" ZOrder="32967" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Xref Database="Ensembl" ID="ENSG00000141385" />
+  </DataNode>
+  <DataNode TextLabel="SPG7" GraphId="a60b8" Type="GeneProduct">
+    <Graphics CenterX="1311.3817486860962" CenterY="443.31231022314086" Width="90.0" Height="25.0" ZOrder="32972" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Xref Database="Ensembl" ID="ENSG00000197912" />
+  </DataNode>
+  <DataNode TextLabel="HTRA2" GraphId="dba25" Type="GeneProduct">
+    <Graphics CenterX="994.4347826086959" CenterY="611.4604316546765" Width="90.0" Height="25.0" ZOrder="32975" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Xref Database="Ensembl" ID="ENSG00000115317" />
+  </DataNode>
+  <DataNode TextLabel="PRKN" GraphId="b03c2" Type="GeneProduct">
+    <Graphics CenterX="1654.8804197939114" CenterY="737.8124895070985" Width="90.0" Height="25.0" ZOrder="32978" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Xref Database="Ensembl" ID="ENSG00000185345" />
+  </DataNode>
+  <DataNode TextLabel="PINK1" GraphId="fc339" Type="GeneProduct">
+    <Graphics CenterX="1654.8804197939114" CenterY="689.4311945430684" Width="90.0" Height="25.0" ZOrder="32981" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Xref Database="Ensembl" ID="ENSG00000158828" />
+  </DataNode>
+  <DataNode TextLabel="USP9X" GraphId="bc6ad" Type="Protein">
+    <Comment>Ubiquitin-specific peptidase 9 X-linked</Comment>
+    <Comment>"Collectively, these findings suggest that USP9x regulates the proline biosynthesis pathway and the proline cycle via PYCR3, which affects PPP and mitochondrial respiration." DOI: https://doi.org/10.1038/s41420-024-02111-2</Comment>
+    <Graphics CenterX="1654.8804197939114" CenterY="853.9080949138895" Width="90.0" Height="25.0" ZOrder="32986" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Xref Database="Uniprot-TrEMBL" ID="Q93008" />
+  </DataNode>
+  <DataNode TextLabel="VCP" GraphId="d7a1d" Type="Protein">
+    <Graphics CenterX="1654.8804197939112" CenterY="892.2991134825588" Width="96.95437415472591" Height="24.999999999999968" ZOrder="32989" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Xref Database="Uniprot-TrEMBL" ID="P55072" />
+  </DataNode>
+  <DataNode TextLabel="PITRM1" GraphId="ad4a7" Type="GeneProduct">
+    <Graphics CenterX="1311.3817486860962" CenterY="240.59712230215828" Width="90.0" Height="25.0" ZOrder="32992" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Xref Database="Ensembl" ID="ENSG00000107959" />
+  </DataNode>
+  <DataNode TextLabel="XPNPEP3 " GraphId="e7b69" Type="GeneProduct">
+    <Comment>Listed as XNPEP3 in the chapter.</Comment>
+    <Graphics CenterX="1311.5743179041679" CenterY="599.1759196416448" Width="90.0" Height="25.0" ZOrder="32999" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Xref Database="Ensembl" ID="ENSG00000196236" />
+  </DataNode>
+  <DataNode TextLabel="PPA2" GraphId="c3f11" Type="GeneProduct">
+    <Graphics CenterX="1313.9216899044668" CenterY="748.798561151079" Width="90.0" Height="25.0" ZOrder="33002" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Xref Database="Ensembl" ID="ENSG00000138777" />
+  </DataNode>
+  <DataNode TextLabel="SFXN4" GraphId="a5423" Type="GeneProduct">
+    <Graphics CenterX="1311.3817486860962" CenterY="395.83007524598315" Width="90.0" Height="25.0" ZOrder="33009" FontWeight="Bold" FontSize="16" Valign="Middle" Color="990000" />
+    <Xref Database="Ensembl" ID="ENSG00000183605" />
   </DataNode>
   <Interaction GraphId="id16f268bf">
     <BiopaxRef>de4</BiopaxRef>
@@ -522,92 +642,290 @@
   </Interaction>
   <GraphicalLine GraphId="bdd52">
     <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="1.0">
-      <Point X="1127.7868217054252" Y="122.48062015503876" GraphRef="cad06" RelX="1.0" RelY="0.0" />
-      <Point X="1183.6046511627908" Y="122.48062015503876" GraphRef="f3b8e" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="1699.8804197939116" Y="128.14099751352933" GraphRef="cad06" RelX="1.0" RelY="0.0" />
+      <Point X="1755.6982492512773" Y="128.14099751352933" GraphRef="f3b8e" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
   </GraphicalLine>
   <GraphicalLine GraphId="abe82">
     <Graphics ZOrder="32878" LineStyle="Broken" LineThickness="1.0">
-      <Point X="1127.7868217054252" Y="223.60997561059386" GraphRef="e0ba1" RelX="1.0" RelY="0.0" />
-      <Point X="1183.6046511627908" Y="223.60997561059386" GraphRef="bfefd" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="1699.8804197939116" Y="229.2703529690844" GraphRef="e0ba1" RelX="1.0" RelY="0.0" />
+      <Point X="1755.6982492512773" Y="229.2703529690844" GraphRef="bfefd" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
   </GraphicalLine>
   <GraphicalLine GraphId="d4389">
     <Graphics ZOrder="32882" LineStyle="Broken" LineThickness="1.0">
-      <Point X="1127.7868217054252" Y="168.8313466845295" GraphRef="a3949" RelX="1.0" RelY="0.0" />
-      <Point X="1183.6046511627908" Y="153.76157924266843" GraphRef="db4d2" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="1699.8804197939116" Y="174.49172404302004" GraphRef="a3949" RelX="1.0" RelY="0.0" />
+      <Point X="1755.6982492512773" Y="159.42195660115897" GraphRef="db4d2" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
   </GraphicalLine>
   <GraphicalLine GraphId="b721d">
     <Graphics ZOrder="32883" LineStyle="Broken" LineThickness="1.0">
-      <Point X="1127.7868217054252" Y="168.8313466845295" GraphRef="a3949" RelX="1.0" RelY="0.0" />
-      <Point X="1183.6046511627908" Y="185.46700559925748" GraphRef="bc43d" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="1699.8804197939116" Y="174.49172404302004" GraphRef="a3949" RelX="1.0" RelY="0.0" />
+      <Point X="1755.6982492512773" Y="191.127382957748" GraphRef="bc43d" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
   </GraphicalLine>
   <GraphicalLine GraphId="a0599">
     <Graphics ZOrder="32886" LineStyle="Broken" LineThickness="1.0">
-      <Point X="1127.7868217054252" Y="264.9147286821711" GraphRef="f3986" RelX="1.0" RelY="0.0" />
-      <Point X="1183.6046511627908" Y="264.9147286821711" GraphRef="a5dab" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="1699.8804197939116" Y="270.5751060406617" GraphRef="f3986" RelX="1.0" RelY="0.0" />
+      <Point X="1755.6982492512773" Y="270.5751060406617" GraphRef="a5dab" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
   </GraphicalLine>
   <GraphicalLine GraphId="af80a">
     <Graphics ZOrder="32891" LineStyle="Broken" LineThickness="1.0">
-      <Point X="1127.7868217054252" Y="555.5646548269275" GraphRef="ba1f6" RelX="1.0" RelY="0.0" />
-      <Point X="1183.6046511627906" Y="555.5646548269274" GraphRef="b4dda" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="1699.8804197939114" Y="561.225032185418" GraphRef="ba1f6" RelX="1.0" RelY="0.0" />
+      <Point X="1755.358515130155" Y="561.2250321854178" GraphRef="b4dda" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
   </GraphicalLine>
   <GraphicalLine GraphId="ad16d">
     <Graphics ZOrder="32894" LineStyle="Broken" LineThickness="1.0">
-      <Point X="1127.7868217054252" Y="455.7411108798928" GraphRef="a53a3" RelX="1.0" RelY="0.0" />
-      <Point X="1183.6046511627908" Y="438.87336974568666" GraphRef="ab779" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="1699.8804197939116" Y="461.4014882383834" GraphRef="a53a3" RelX="1.0" RelY="0.0" />
+      <Point X="1755.6982492512773" Y="444.5337471041773" GraphRef="ab779" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
   </GraphicalLine>
   <GraphicalLine GraphId="a1ff4">
     <Graphics ZOrder="32896" LineStyle="Broken" LineThickness="1.0">
-      <Point X="1127.7868217054252" Y="455.7411108798928" GraphRef="a53a3" RelX="1.0" RelY="0.0" />
-      <Point X="1183.6046511627906" Y="469.5528379879317" GraphRef="b9540" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="1699.8804197939116" Y="461.4014882383834" GraphRef="a53a3" RelX="1.0" RelY="0.0" />
+      <Point X="1755.698249251277" Y="475.2132153464223" GraphRef="b9540" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
   </GraphicalLine>
   <GraphicalLine GraphId="c7ab3">
     <Graphics ZOrder="32899" LineStyle="Broken" LineThickness="1.0">
-      <Point X="1127.7868217054252" Y="508.806103494368" GraphRef="c6a1a" RelX="1.0" RelY="0.0" />
-      <Point X="1183.6046511627906" Y="512.0491452257452" GraphRef="a95e8" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="1699.8804197939116" Y="514.4664808528587" GraphRef="c6a1a" RelX="1.0" RelY="0.0" />
+      <Point X="1755.698249251277" Y="514.4664808528587" GraphRef="a95e8" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
   </GraphicalLine>
   <GraphicalLine GraphId="d23cf">
     <Graphics ZOrder="32903" LineStyle="Broken" LineThickness="1.0">
-      <Point X="1127.7868217054252" Y="354.04244027428035" GraphRef="be3f6" RelX="1.0" RelY="0.0" />
-      <Point X="1183.6046511627906" Y="343.9683739250914" GraphRef="f8639" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="1699.8804197939116" Y="362.9654603733909" GraphRef="be3f6" RelX="1.0" RelY="0.0" />
+      <Point X="1755.698249251277" Y="349.628751283582" GraphRef="f8639" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
   </GraphicalLine>
   <GraphicalLine GraphId="d50a4">
     <Graphics ZOrder="32904" LineStyle="Broken" LineThickness="1.0">
-      <Point X="1127.7868217054252" Y="354.04244027428035" GraphRef="be3f6" RelX="1.0" RelY="0.0" />
-      <Point X="1183.6046511627906" Y="375.67380028168094" GraphRef="d2992" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="1699.8804197939116" Y="362.9654603733909" GraphRef="be3f6" RelX="1.0" RelY="0.0" />
+      <Point X="1755.698249251277" Y="381.33417764017156" GraphRef="d2992" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
   </GraphicalLine>
   <GraphicalLine GraphId="d6945">
     <Graphics ZOrder="32907" LineStyle="Broken" LineThickness="1.0">
-      <Point X="1127.7868217054252" Y="407.1074328887557" GraphRef="d7b6b" RelX="1.0" RelY="0.0" />
-      <Point X="1183.6046511627908" Y="407.5144332611965" GraphRef="c3d30" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="1699.8804197939116" Y="412.7678102472463" GraphRef="d7b6b" RelX="1.0" RelY="0.0" />
+      <Point X="1755.6982492512773" Y="413.1748106196871" GraphRef="c3d30" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="d236c">
+    <Graphics ZOrder="32912" LineStyle="Broken" LineThickness="1.0">
+      <Point X="1699.8804197939114" Y="599.9169978395636" GraphRef="e1b49" RelX="1.0" RelY="0.0" />
+      <Point X="1755.358515130155" Y="599.2900247998942" GraphRef="a8322" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="b2c37">
+    <Graphics ZOrder="32915" LineStyle="Broken" LineThickness="1.0">
+      <Point X="1039.434782608696" Y="368.0107049237481" GraphRef="c2195" RelX="1.0" RelY="0.0" />
+      <Point X="1098.9449333447471" Y="368.0107049237481" GraphRef="f54b7" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="a8e44">
+    <Graphics ZOrder="32918" LineStyle="Broken" LineThickness="1.0">
+      <Point X="1356.3817486860962" Y="479.8440360698489" GraphRef="f53c3" RelX="1.0" RelY="0.0" />
+      <Point X="1420.8727235334063" Y="479.8440360698489" GraphRef="b8fbf" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="c1c9a">
+    <Graphics ZOrder="32921" LineStyle="Broken" LineThickness="1.0">
+      <Point X="1356.3817486860962" Y="557.6411494489925" GraphRef="b0c7e" RelX="1.0" RelY="0.0" />
+      <Point X="1407.1794560820072" Y="557.6411494489914" GraphRef="d3cb7" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="c45bc">
+    <Graphics ZOrder="32926" LineStyle="Broken" LineThickness="1.0">
+      <Point X="1356.3817486860962" Y="519.4877945969174" GraphRef="c861e" RelX="1.0" RelY="0.0" />
+      <Point X="1420.8727235334063" Y="519.3077742307314" GraphRef="cdea5" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="ec04f">
+    <Graphics ZOrder="32929" LineStyle="Broken" LineThickness="1.0">
+      <Point X="1039.434782608696" Y="420.53086114097533" GraphRef="da161" RelX="1.0" RelY="0.0" />
+      <Point X="1098.9449333447474" Y="420.5308611409753" GraphRef="fa3ea" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="e3b7f">
+    <Graphics ZOrder="32932" LineStyle="Broken" LineThickness="1.0">
+      <Point X="1356.3817486860962" Y="172.25477102149193" GraphRef="eb539" RelX="1.0" RelY="0.0" />
+      <Point X="1420.8727235334063" Y="172.25477102149193" GraphRef="a40c5" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="d48e9">
+    <Graphics ZOrder="32936" LineStyle="Broken" LineThickness="1.0">
+      <Point X="1039.434782608696" Y="190.9872410998029" GraphRef="f0bda" RelX="1.0" RelY="0.0" />
+      <Point X="1098.9449333447474" Y="175.98724109980228" GraphRef="afb34" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="ff8ea">
+    <Graphics ZOrder="32937" LineStyle="Broken" LineThickness="1.0">
+      <Point X="1039.434782608696" Y="190.9872410998029" GraphRef="f0bda" RelX="1.0" RelY="0.0" />
+      <Point X="1098.9449333447474" Y="208.82574028414135" GraphRef="e783f" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="de385">
+    <Graphics ZOrder="32940" LineStyle="Broken" LineThickness="1.0">
+      <Point X="1356.3817486860962" Y="298.63780149548097" GraphRef="f9b4b" RelX="1.0" RelY="0.0" />
+      <Point X="1420.8727235334063" Y="298.637801495481" GraphRef="aa894" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="b0c8d">
+    <Graphics ZOrder="32943" LineStyle="Broken" LineThickness="1.0">
+      <Point X="1356.3817486860962" Y="345.9565344663881" GraphRef="e48a4" RelX="1.0" RelY="0.0" />
+      <Point X="1420.8727235334063" Y="345.95653446638823" GraphRef="d35d0" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="f5e24">
+    <Graphics ZOrder="32946" LineStyle="Broken" LineThickness="1.0">
+      <Point X="1356.3817486860962" Y="128.1874846657468" GraphRef="a4bcc" RelX="1.0" RelY="0.0" />
+      <Point X="1420.8727235334063" Y="128.46698777133602" GraphRef="e8dd7" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="a013e">
+    <Graphics ZOrder="32949" LineStyle="Broken" LineThickness="1.0">
+      <Point X="1039.434782608696" Y="246.6047313438629" GraphRef="f880a" RelX="1.0" RelY="0.0" />
+      <Point X="1098.9449333447474" Y="246.6047313438629" GraphRef="e98d5" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="a5dd0">
+    <Graphics ZOrder="32952" LineStyle="Broken" LineThickness="1.0">
+      <Point X="1039.434782608696" Y="287.05197505197583" GraphRef="c4cd0" RelX="1.0" RelY="0.0" />
+      <Point X="1098.9449333447474" Y="287.0519750519759" GraphRef="c6de6" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="d710f">
+    <Graphics ZOrder="32955" LineStyle="Broken" LineThickness="1.0">
+      <Point X="1039.434782608696" Y="649.1101871101869" GraphRef="a55f8" RelX="1.0" RelY="0.0" />
+      <Point X="1098.9449333447474" Y="649.1101871101869" GraphRef="af0fb" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="f0093">
+    <Graphics ZOrder="32958" LineStyle="Broken" LineThickness="1.0">
+      <Point X="1039.434782608696" Y="468.0810810810812" GraphRef="e71e4" RelX="1.0" RelY="0.0" />
+      <Point X="1098.9449333447474" Y="467.8419958419959" GraphRef="e4efd" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="c3915">
+    <Graphics ZOrder="32961" LineStyle="Broken" LineThickness="1.0">
+      <Point X="1039.434782608696" Y="532.5821205821211" GraphRef="c1c2e" RelX="1.0" RelY="0.0" />
+      <Point X="1098.9449333447474" Y="515.9501039501046" GraphRef="ccf92" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="ee65b">
+    <Graphics ZOrder="32963" LineStyle="Broken" LineThickness="1.0">
+      <Point X="1039.434782608696" Y="532.5821205821211" GraphRef="c1c2e" RelX="1.0" RelY="0.0" />
+      <Point X="1098.9449333447474" Y="557.1351351351356" GraphRef="e772c" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="f4e4e">
+    <Graphics ZOrder="32966" LineStyle="Broken" LineThickness="1.0">
+      <Point X="1699.8804197939114" Y="782.0582155873584" GraphRef="c232b" RelX="1.0" RelY="0.0" />
+      <Point X="1754.5671482236799" Y="781.6893561969504" GraphRef="ea5e6" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="a0203">
+    <Graphics ZOrder="32970" LineStyle="Broken" LineThickness="1.0">
+      <Point X="1039.434782608696" Y="95.91738408516973" GraphRef="d8e44" RelX="1.0" RelY="0.0" />
+      <Point X="1098.9449333447474" Y="82.03713714969838" GraphRef="e3a57" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="c7b49">
+    <Graphics ZOrder="32971" LineStyle="Broken" LineThickness="1.0">
+      <Point X="1039.434782608696" Y="95.91738408516973" GraphRef="d8e44" RelX="1.0" RelY="0.0" />
+      <Point X="1098.9449333447474" Y="119.06416417672543" GraphRef="da20d" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="e2ac6">
+    <Graphics ZOrder="32974" LineStyle="Broken" LineThickness="1.0">
+      <Point X="1356.3817486860962" Y="443.31231022314086" GraphRef="a60b8" RelX="1.0" RelY="0.0" />
+      <Point X="1421.8799177780106" Y="443.3123102231409" GraphRef="c3aa5" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="e8aaf">
+    <Graphics ZOrder="32977" LineStyle="Broken" LineThickness="1.0">
+      <Point X="1039.434782608696" Y="611.4604316546765" GraphRef="dba25" RelX="1.0" RelY="0.0" />
+      <Point X="1098.9449333447471" Y="610.025093412957" GraphRef="c83dc" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="ea506">
+    <Graphics ZOrder="32980" LineStyle="Broken" LineThickness="1.0">
+      <Point X="1699.8804197939114" Y="737.8124895070985" GraphRef="b03c2" RelX="1.0" RelY="0.0" />
+      <Point X="1755.358515130155" Y="737.8124895070986" GraphRef="aaf09" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="fd60a">
+    <Graphics ZOrder="32983" LineStyle="Broken" LineThickness="1.0">
+      <Point X="1699.8804197939114" Y="689.4311945430684" GraphRef="fc339" RelX="1.0" RelY="0.0" />
+      <Point X="1755.358515130155" Y="690.258532672566" GraphRef="ff03b" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="c69a1">
+    <Graphics ZOrder="32988" LineStyle="Broken" LineThickness="1.0">
+      <Point X="1699.8804197939114" Y="853.9080949138895" GraphRef="bc6ad" RelX="1.0" RelY="0.0" />
+      <Point X="1754.5671482236799" Y="853.9080949138895" GraphRef="f34bf" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="c4942">
+    <Graphics ZOrder="32991" LineStyle="Broken" LineThickness="1.0">
+      <Point X="1703.3576068712741" Y="892.2991134825588" GraphRef="d7a1d" RelX="1.0" RelY="0.0" />
+      <Point X="1754.5671482236799" Y="892.2991134825588" GraphRef="aad38" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="d70a4">
+    <Graphics ZOrder="32994" LineStyle="Broken" LineThickness="1.0">
+      <Point X="1356.3817486860962" Y="240.59712230215828" GraphRef="ad4a7" RelX="1.0" RelY="0.0" />
+      <Point X="1421.8799177780106" Y="222.61151079136692" GraphRef="c31e7" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="b72dd">
+    <Graphics ZOrder="32996" LineStyle="Broken" LineThickness="1.0">
+      <Point X="1356.3817486860962" Y="240.59712230215828" GraphRef="ad4a7" RelX="1.0" RelY="0.0" />
+      <Point X="1423.6784789290896" Y="266.78714512221137" GraphRef="ec38a" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="c9385">
+    <Graphics ZOrder="32998" LineStyle="Broken" LineThickness="1.0">
+      <Point X="1699.8804197939114" Y="935.2517985611508" GraphRef="c3212" RelX="1.0" RelY="0.0" />
+      <Point X="1754.5671482236799" Y="935.2517985611506" GraphRef="c272d" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="e752a">
+    <Graphics ZOrder="33001" LineStyle="Broken" LineThickness="1.0">
+      <Point X="1356.5743179041679" Y="599.1759196416448" GraphRef="e7b69" RelX="1.0" RelY="0.0" />
+      <Point X="1419.5519688164254" Y="599.1759196416448" GraphRef="cf3d4" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="bf172">
+    <Graphics ZOrder="33008" LineStyle="Broken" LineThickness="1.0">
+      <Point X="1358.9216899044668" Y="748.798561151079" GraphRef="c3f11" RelX="1.0" RelY="0.0" />
+      <Point X="1414.4576291937838" Y="748.798561151079" GraphRef="e73cd" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+  </GraphicalLine>
+  <GraphicalLine GraphId="bf86b">
+    <Graphics ZOrder="33011" LineStyle="Broken" LineThickness="1.0">
+      <Point X="1356.3817486860962" Y="395.83007524598315" GraphRef="a5423" RelX="1.0" RelY="0.0" />
+      <Point X="1420.8727235334063" Y="395.5791759758225" GraphRef="b941a" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
     </Graphics>
   </GraphicalLine>
   <Label TextLabel="+" GraphId="ab5e8">
     <Graphics CenterX="742.8414001728613" CenterY="230.76923076923075" Width="33.76404494382022" Height="25.0" ZOrder="28672" FillColor="ffffff" FontSize="12" Valign="Middle" />
   </Label>
   <Label TextLabel="Mitochondrial biogenesis" GraphId="d5f86">
-    <Graphics CenterX="148.5" CenterY="81.03543647363864" Width="223.0" Height="25.0" ZOrder="28672" FillColor="ffffff" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="148.5" CenterY="81.03543647363864" Width="223.0" Height="25.0" ZOrder="28672" FillColor="ffffff" FontSize="14" Valign="Middle" />
   </Label>
   <Label TextLabel="DLP1 deficiency" GraphId="f3b8e" Href="https://omim.org/entry/614388">
     <Comment>Dynamin-like protein 1 deficiency</Comment>
     <Comment>encephalopathy due to defective mitochondrondrial and peroxisomal fission</Comment>
-    <Graphics CenterX="1238.6627906976744" CenterY="122.48062015503875" Width="110.11627906976729" Height="25.0" ZOrder="28672" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+    <Graphics CenterX="1810.7563887861609" CenterY="128.14099751352933" Width="110.11627906976729" Height="25.0" ZOrder="28672" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
   </Label>
   <Label TextLabel="Protein import, sorting&#xA;and processing" GraphId="f8fc6">
     <Graphics CenterX="141.5" CenterY="135.0" Width="223.0" Height="25.0" ZOrder="28673" FillColor="ffffff" FontStyle="Italic" FontSize="12" Valign="Middle" />
   </Label>
   <Label TextLabel="Mitochondrial biogenesis" GraphId="f0eac">
-    <Graphics CenterX="437.75064822817603" CenterY="81.03543647363864" Width="223.0" Height="25.0" ZOrder="32792" FillColor="ffffff" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="437.75064822817603" CenterY="81.03543647363864" Width="223.0" Height="25.0" ZOrder="32792" FillColor="ffffff" FontSize="14" Valign="Middle" />
   </Label>
   <Label TextLabel="Filamentous&#xA;mitochondria" GraphId="ef0c3">
     <Graphics CenterX="363.5" CenterY="135.0" Width="141.0" Height="25.0" ZOrder="32793" FillColor="ffffff" FontStyle="Italic" FontSize="12" Valign="Middle" />
@@ -625,7 +943,7 @@
     <Graphics CenterX="373.8751080380295" CenterY="297.3569576490926" Width="83.0" Height="25.0" ZOrder="32826" FillColor="ffffff" FontStyle="Italic" FontSize="12" Valign="Middle" />
   </Label>
   <Label TextLabel="Mitochondrial degradation" GraphId="e2c58">
-    <Graphics CenterX="769.1534719305375" CenterY="81.03543647363865" Width="241.40886409741182" Height="25.0" ZOrder="32830" FillColor="ffffff" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="769.1534719305375" CenterY="81.03543647363865" Width="241.40886409741182" Height="25.0" ZOrder="32830" FillColor="ffffff" FontSize="14" Valign="Middle" />
   </Label>
   <Label TextLabel="Mitochondrial&#xA;dysfunction" GraphId="e25cb">
     <Graphics CenterX="727.610630942092" CenterY="177.84356093344852" Width="95.34053586862709" Height="25.0" ZOrder="32831" FillColor="ffffff" FontStyle="Italic" FontSize="12" Valign="Middle" />
@@ -637,69 +955,222 @@
     <Graphics CenterX="437.24644654750426" CenterY="528.0102263896055" Width="223.0" Height="25.0" ZOrder="32837" FillColor="ffffff" FontSize="12" Valign="Middle" />
   </Label>
   <Label TextLabel="Phosphate&#xA;metabolism" GraphId="ce857">
-    <Graphics CenterX="98.45378151260496" CenterY="597.7731092436968" Width="103.51260504201679" Height="25.0" ZOrder="32840" FillColor="ffffff" FontStyle="Italic" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="92.54536201482063" CenterY="597.7731092436968" Width="103.51260504201679" Height="25.0" ZOrder="32840" FillColor="ffffff" FontStyle="Italic" FontSize="12" Valign="Middle" />
   </Label>
   <Label TextLabel="Redox&#xA;metabolism" GraphId="de863">
-    <Graphics CenterX="308.0336134453827" CenterY="597.7731092436969" Width="103.51260504201679" Height="25.0" ZOrder="32842" FillColor="ffffff" FontStyle="Italic" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="284.39993545424556" CenterY="597.7731092436969" Width="103.51260504201679" Height="25.0" ZOrder="32842" FillColor="ffffff" FontStyle="Italic" FontSize="12" Valign="Middle" />
   </Label>
   <Label TextLabel="Contact site and&#xA;cristae organization" GraphId="ba158">
-    <Graphics CenterX="528.6218487394978" CenterY="597.7731092436969" Width="103.51260504201679" Height="25.0" ZOrder="32845" FillColor="ffffff" FontStyle="Italic" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="504.98817074836063" CenterY="597.7731092436969" Width="103.51260504201679" Height="25.0" ZOrder="32845" FillColor="ffffff" FontStyle="Italic" FontSize="12" Valign="Middle" />
   </Label>
   <Label TextLabel="Calcium&#xA;uptake" GraphId="d24db">
-    <Graphics CenterX="773.9159663865541" CenterY="597.7731092436969" Width="103.51260504201679" Height="25.0" ZOrder="32847" FillColor="ffffff" FontStyle="Italic" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="741.4196591487406" CenterY="597.7731092436969" Width="103.51260504201679" Height="25.0" ZOrder="32847" FillColor="ffffff" FontStyle="Italic" FontSize="12" Valign="Middle" />
   </Label>
   <Label TextLabel="MFF deficiency" GraphId="bfefd" Href="https://omim.org/entry/617086">
     <Comment>encephalopathy due to defective mitochondrondrial and peroxisomal fission type 2</Comment>
-    <Graphics CenterX="1238.6627906976744" CenterY="223.60997561059386" Width="110.11627906976729" Height="25.0" ZOrder="32877" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+    <Graphics CenterX="1810.7563887861609" CenterY="229.2703529690844" Width="110.11627906976729" Height="25.0" ZOrder="32877" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
   </Label>
   <Label TextLabel="CMT2K" GraphId="db4d2" Href="https://omim.org/entry/607831">
     <Comment>Axonal Charcot-Marie-Tooth type 2K</Comment>
-    <Graphics CenterX="1238.6627906976744" CenterY="153.76157924266843" Width="110.11627906976729" Height="25.0" ZOrder="32880" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+    <Graphics CenterX="1810.7563887861609" CenterY="159.42195660115897" Width="110.11627906976729" Height="25.0" ZOrder="32880" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
   </Label>
   <Label TextLabel="CMT4A" GraphId="bc43d" Href="https://omim.org/entry/214400">
     <Comment>Demyelinating Charcot-Marie-Tooth disease type 4A</Comment>
-    <Graphics CenterX="1238.6627906976744" CenterY="185.46700559925748" Width="110.11627906976729" Height="25.0" ZOrder="32881" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+    <Graphics CenterX="1810.7563887861609" CenterY="191.127382957748" Width="110.11627906976729" Height="25.0" ZOrder="32881" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
   </Label>
   <Label TextLabel="IMD44" GraphId="a5dab" Href="https://omim.org/entry/616636">
     <Comment>Immunodeficiency type 44</Comment>
-    <Graphics CenterX="1238.6627906976744" CenterY="264.9147286821711" Width="110.11627906976729" Height="25.0" ZOrder="32885" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+    <Graphics CenterX="1810.7563887861609" CenterY="270.5751060406617" Width="110.11627906976729" Height="25.0" ZOrder="32885" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
   </Label>
   <Label TextLabel="Fission" GraphId="f6f01">
-    <Graphics CenterX="1155.6550387596892" CenterY="82.74418604651184" Width="83.0" Height="25.0" ZOrder="32888" FillColor="ffffff" FontStyle="Italic" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1727.7486368481757" CenterY="88.40456340500242" Width="83.0" Height="25.0" ZOrder="32888" FillColor="ffffff" FontStyle="Italic" FontSize="12" Valign="Middle" />
   </Label>
   <Label TextLabel="HMSN6B" GraphId="b4dda" Href="https://omim.org/entry/616505">
     <Comment>Hereditary motor and sensory neuropathy type 6B</Comment>
     <Comment>CHARCOT-MARIE-TOOTH DISEASE, TYPE 6B</Comment>
-    <Graphics CenterX="1238.6627906976742" CenterY="555.5646548269274" Width="110.11627906976729" Height="25.0" ZOrder="32890" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+    <Graphics CenterX="1810.4166546650385" CenterY="561.2250321854178" Width="110.11627906976729" Height="25.0" ZOrder="32890" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
   </Label>
   <Label TextLabel="OPA1" GraphId="ab779" Href="https://omim.org/entry/165500">
     <Comment>Juvenile Optic Atrophy</Comment>
     <Comment>Childhood-onset optic atrophy type 1</Comment>
-    <Graphics CenterX="1238.6627906976744" CenterY="438.87336974568666" Width="110.11627906976729" Height="25.0" ZOrder="32893" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+    <Graphics CenterX="1810.7563887861609" CenterY="444.5337471041773" Width="110.11627906976729" Height="25.0" ZOrder="32893" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
   </Label>
   <Label TextLabel="Behr syndrome" GraphId="b9540" Href="https://omim.org/entry/125250">
     <Comment>Optic Atrophy 1 and deafness</Comment>
-    <Graphics CenterX="1238.6627906976742" CenterY="469.5528379879317" Width="110.11627906976729" Height="25.0" ZOrder="32895" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+    <Graphics CenterX="1810.7563887861606" CenterY="475.2132153464223" Width="110.11627906976729" Height="25.0" ZOrder="32895" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
   </Label>
   <Label TextLabel="MGA3" GraphId="a95e8" Href="https://omim.org/entry/258501">
     <Comment>Costeff Syndrome</Comment>
     <Comment>Methylglutaconic aciduria type III</Comment>
-    <Graphics CenterX="1238.6627906976742" CenterY="512.0491452257452" Width="110.11627906976729" Height="25.0" ZOrder="32898" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+    <Graphics CenterX="1810.7563887861606" CenterY="514.4664808528587" Width="110.11627906976729" Height="25.0" ZOrder="32898" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
   </Label>
   <Label TextLabel="CMT2A2A" GraphId="f8639" Href="https://omim.org/entry/609260">
     <Comment>Axonal Charcot-Marie-Tooth disease type 2A2A</Comment>
-    <Graphics CenterX="1238.6627906976742" CenterY="343.9683739250914" Width="110.11627906976729" Height="25.0" ZOrder="32901" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+    <Graphics CenterX="1810.7563887861606" CenterY="349.628751283582" Width="110.11627906976729" Height="25.0" ZOrder="32901" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
   </Label>
   <Label TextLabel="CMT2A2B" GraphId="d2992" Href="https://omim.org/entry/617087">
     <Comment>Axonal Charcot-Marie-Tooth disease type 2A2B</Comment>
-    <Graphics CenterX="1238.6627906976742" CenterY="375.67380028168094" Width="110.11627906976729" Height="25.0" ZOrder="32902" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+    <Graphics CenterX="1810.7563887861606" CenterY="381.33417764017156" Width="110.11627906976729" Height="25.0" ZOrder="32902" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
   </Label>
   <Label TextLabel="MMYAT" GraphId="c3d30" Href="https://omim.org/entry/617675">
     <Comment>Mitochondrial myopathy and ataxia</Comment>
-    <Graphics CenterX="1238.6627906976744" CenterY="407.5144332611965" Width="110.11627906976729" Height="25.0" ZOrder="32906" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+    <Graphics CenterX="1810.7563887861609" CenterY="413.1748106196871" Width="110.11627906976729" Height="25.0" ZOrder="32906" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
   </Label>
   <Label TextLabel="Fusion" GraphId="b9560">
-    <Graphics CenterX="1155.6550387596892" CenterY="310.3111673979849" Width="83.0" Height="25.0" ZOrder="32909" FillColor="ffffff" FontStyle="Italic" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="1727.7486368481757" CenterY="315.9715447564755" Width="83.0" Height="25.0" ZOrder="32909" FillColor="ffffff" FontStyle="Italic" FontSize="12" Valign="Middle" />
+  </Label>
+  <Label TextLabel="OPA11" GraphId="a8322" Href="https://omim.org/entry/617302">
+    <Comment>Optic atrophy type 11</Comment>
+    <Graphics CenterX="1810.4166546650385" CenterY="599.2900247998942" Width="110.11627906976729" Height="25.0" ZOrder="32911" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+  </Label>
+  <Label TextLabel="MGCA5" GraphId="f54b7" Href="https://omim.org/entry/610198">
+    <Comment>Dilated cardiomyopathy with ataxia</Comment>
+    <Comment>3-methylglutaconice aciduria type 5</Comment>
+    <Comment>DCMA syndrome</Comment>
+    <Graphics CenterX="1154.0030728796307" CenterY="368.0107049237481" Width="110.11627906976729" Height="25.0" ZOrder="32914" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+  </Label>
+  <Label TextLabel="MTS" GraphId="b8fbf" Href="https://omim.org/entry/304700">
+    <Comment>Dystonia Deafness Syndrome</Comment>
+    <Comment>Mohr-Tranebjaerg syndrome</Comment>
+    <Graphics CenterX="1475.93086306829" CenterY="479.8440360698489" Width="110.11627906976729" Height="25.0" ZOrder="32917" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+  </Label>
+  <Label TextLabel="Mitochondrial complex I &#xA;deficiency" GraphId="d3cb7" Href="https://omim.org/entry/252010">
+    <Graphics CenterX="1475.93086306829" CenterY="557.6411494489914" Width="137.50281397256566" Height="35.93478260869546" ZOrder="32920" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+  </Label>
+  <Label TextLabel="MGCA9" GraphId="cdea5" Href="https://omim.org/entry/617698">
+    <Comment>3-METHYLGLUTACONIC ACIDURIA, TYPE IX</Comment>
+    <Comment>Alternative name for Mitochondrial epileptic encephalopathy according to IEMBase</Comment>
+    <Comment>Intellectual disability and seizure disorder due to TIMM50 variant</Comment>
+    <Graphics CenterX="1475.93086306829" CenterY="519.3077742307314" Width="110.11627906976739" Height="25.000000000000004" ZOrder="32924" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+  </Label>
+  <Label TextLabel="GFER deficiency" GraphId="fa3ea" Href="https://omim.org/entry/613076">
+    <Comment>Myopathy, mitochondrial progressive, with congenital cataract, hearing loss, and developmental delay</Comment>
+    <Graphics CenterX="1154.0030728796307" CenterY="420.5308611409753" Width="110.11627906976739" Height="25.000000000000004" ZOrder="32928" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+  </Label>
+  <Label TextLabel="SMDMDM" GraphId="a40c5" Href="https://omim.org/entry/613320">
+    <Comment>MAGMAS deficiency</Comment>
+    <Comment>Spondylometaphyseal dysplasia, Megarbane-Dagher-Melike type</Comment>
+    <Graphics CenterX="1475.93086306829" CenterY="172.25477102149193" Width="110.11627906976739" Height="25.000000000000004" ZOrder="32931" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+  </Label>
+  <Label TextLabel="Sengers syndrome" GraphId="afb34" Href="https://omim.org/entry/212350">
+    <Comment>Acylglycerol kinase deficiency</Comment>
+    <Graphics CenterX="1154.0030728796307" CenterY="175.98724109980228" Width="110.11627906976739" Height="25.000000000000004" ZOrder="32934" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+  </Label>
+  <Label TextLabel="Cataract 38 (AR)" GraphId="e783f" Href="https://omim.org/entry/614691">
+    <Comment>Acylglycerol kinase deficiency</Comment>
+    <Graphics CenterX="1154.0030728796307" CenterY="208.82574028414135" Width="110.11627906976739" Height="25.000000000000004" ZOrder="32935" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+  </Label>
+  <Label TextLabel="SCAR2" GraphId="aa894" Href="https://omim.org/entry/213200">
+    <Comment>Autosomal recessive spinocerebellar ataxia type 2</Comment>
+    <Comment>mitochondrial processing peptidase alpha deficiency</Comment>
+    <Graphics CenterX="1475.93086306829" CenterY="298.637801495481" Width="110.11627906976739" Height="25.000000000000004" ZOrder="32939" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+  </Label>
+  <Label TextLabel="MMDS6" GraphId="d35d0" Href="https://omim.org/entry/617954">
+    <Comment>Multiple mitochondrial dysfunctions syndrome 6</Comment>
+    <Comment>Mitochondria processing peptidase beta deficiency</Comment>
+    <Graphics CenterX="1475.93086306829" CenterY="345.95653446638823" Width="110.11627906976739" Height="25.000000000000004" ZOrder="32942" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+  </Label>
+  <Label TextLabel="COXPD31" GraphId="e8dd7" Href="https://omim.org/entry/617228">
+    <Comment>Combined oxidative phosphorylation deficiency type 31</Comment>
+    <Comment>Mitochondrial intermediate peptidase deficiency</Comment>
+    <Graphics CenterX="1475.93086306829" CenterY="128.46698777133602" Width="110.11627906976739" Height="25.000000000000004" ZOrder="32945" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+  </Label>
+  <Label TextLabel="MEGCANN" GraphId="e98d5" Href="https://omim.org/entry/616271">
+    <Comment>3-methylglutaconic aciduria type 7, with cataracts, neurologic involvement and neutropenia</Comment>
+    <Graphics CenterX="1154.0030728796307" CenterY="246.6047313438629" Width="110.11627906976739" Height="25.000000000000004" ZOrder="32948" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+  </Label>
+  <Label TextLabel="PRLTS3" GraphId="c6de6" Href="https://omim.org/entry/614129">
+    <Comment>Perrault syndrome type 3</Comment>
+    <Graphics CenterX="1154.0030728796307" CenterY="287.0519750519759" Width="110.11627906976739" Height="25.000000000000004" ZOrder="32951" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+  </Label>
+  <Label TextLabel="CODAS" GraphId="af0fb" Href="https://omim.org/entry/600373">
+    <Comment>Cerebral, ocular, dental, auricular, and skeletal syndrome</Comment>
+    <Graphics CenterX="1154.0030728796307" CenterY="649.1101871101869" Width="110.11627906976739" Height="25.000000000000004" ZOrder="32954" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+  </Label>
+  <Label TextLabel="SIDBA4" GraphId="e4efd" Href="https://omim.org/entry/182170">
+    <Comment>Sideoblastic anemia type 4</Comment>
+    <Comment>Epiphyseal, vertebral, ear, nose, plus associated malformations (EVEN-plus) syndrome</Comment>
+    <Graphics CenterX="1154.0030728796307" CenterY="467.8419958419959" Width="110.11627906976739" Height="25.000000000000004" ZOrder="32957" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+  </Label>
+  <Label TextLabel="HLD4" GraphId="ccf92" Href="https://omim.org/entry/612233">
+    <Comment>Hypomyelinating leukodystrophy type 4 (recessive)</Comment>
+    <Graphics CenterX="1154.003072879631" CenterY="515.9501039501046" Width="110.11627906976739" Height="25.000000000000004" ZOrder="32960" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+  </Label>
+  <Label TextLabel="SPG13" GraphId="e772c" Href="https://omim.org/entry/605280">
+    <Comment>Autosomal dominant spastic paraplegia type 13</Comment>
+    <Graphics CenterX="1154.0030728796307" CenterY="557.1351351351356" Width="110.11627906976739" Height="25.000000000000004" ZOrder="32962" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+  </Label>
+  <Label TextLabel="Sacsin deficiency" GraphId="ea5e6" Href="https://omim.org/entry/270550">
+    <Comment>Autosomal recessive spastic ataxia of Charlevoix-Saguenay</Comment>
+    <Graphics CenterX="1809.6252877585634" CenterY="781.6893561969504" Width="110.11627906976739" Height="25.000000000000004" ZOrder="32965" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+  </Label>
+  <Label TextLabel="SPAX5" GraphId="e3a57" Href="https://omim.org/entry/614487">
+    <Comment>autosomal recessive spastic ataxia type 5</Comment>
+    <Comment>m-AAA protease AFG3L2 subunit deficiency</Comment>
+    <Graphics CenterX="1154.0030728796307" CenterY="82.03713714969838" Width="110.11627906976739" Height="25.000000000000004" ZOrder="32968" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+  </Label>
+  <Label TextLabel="SCA28" GraphId="da20d" Href="https://omim.org/entry/212350">
+    <Comment>Spinocerebellar ataxia type 28</Comment>
+    <Comment>m-AAA protease AFG3L2 subunit deficiency</Comment>
+    <Graphics CenterX="1154.0030728796307" CenterY="119.06416417672543" Width="110.11627906976739" Height="25.000000000000004" ZOrder="32969" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+  </Label>
+  <Label TextLabel="Paraplegin&#xA;Deficiency" GraphId="c3aa5" Href="https://omim.org/entry/607259">
+    <Comment>Spastic paraplegia type7</Comment>
+    <Graphics CenterX="1476.938057312894" CenterY="443.31231022314086" Width="110.1162790697674" Height="35.93478260869544" ZOrder="32973" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+  </Label>
+  <Label TextLabel="MGCA8" GraphId="c83dc" Href="https://omim.org/entry/617248">
+    <Comment>3-methylglutaconic aciduria type 8</Comment>
+    <Graphics CenterX="1154.0030728796307" CenterY="610.025093412957" Width="110.11627906976729" Height="25.0" ZOrder="32976" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+  </Label>
+  <Label TextLabel="PARK2" GraphId="aaf09" Href="https://omim.org/entry/600116">
+    <Comment>Early-onset Parkinson disease type 2</Comment>
+    <Graphics CenterX="1810.4166546650385" CenterY="737.8124895070986" Width="110.11627906976739" Height="25.000000000000004" ZOrder="32979" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+  </Label>
+  <Label TextLabel="PARK6" GraphId="ff03b" Href="https://omim.org/entry/605909">
+    <Comment>Early-onset Parkinson disease type 6</Comment>
+    <Graphics CenterX="1810.4166546650385" CenterY="690.258532672566" Width="110.11627906976739" Height="25.000000000000004" ZOrder="32982" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+  </Label>
+  <Label TextLabel="Mitochondrial degradation" GraphId="a2c89">
+    <Graphics CenterX="1737.786565455718" CenterY="652.1865156103296" Width="241.40886409741182" Height="25.0" ZOrder="32985" FillColor="ffffff" FontSize="14" Valign="Middle" />
+  </Label>
+  <Label TextLabel="MRX99" GraphId="f34bf" Href="https://omim.org/entry/300919">
+    <Comment>X-linked mental retardation type 99</Comment>
+    <Graphics CenterX="1809.6252877585634" CenterY="853.9080949138895" Width="110.11627906976739" Height="25.000000000000004" ZOrder="32987" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+  </Label>
+  <Label TextLabel="IBMPFD1" GraphId="aad38" Href="https://omim.org/entry/167320">
+    <Comment>inclusion body myopathy with early-onset Paget disease and frontotemporal dementia type 1</Comment>
+    <Comment>Valosin-containing protein superactivity</Comment>
+    <Graphics CenterX="1809.6252877585634" CenterY="892.2991134825588" Width="110.11627906976739" Height="25.000000000000004" ZOrder="32990" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+  </Label>
+  <Label TextLabel="Pitrilysin&#xA;metallopeptidase 1&#xA;deficiency" GraphId="c31e7" Href="https://www.iembase.com/disorder/1198">
+    <Comment>ID in OMIM for gene (https://omim.org/entry/619405)</Comment>
+    <Graphics CenterX="1476.938057312894" CenterY="222.61151079136692" Width="110.11627906976739" Height="44.27400595692549" ZOrder="32993" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+  </Label>
+  <Label TextLabel="SCAR30" GraphId="ec38a" Href="https://omim.org/entry/619405">
+    <Comment>SPINOCEREBELLAR ATAXIA</Comment>
+    <Graphics CenterX="1478.7366184639732" CenterY="266.78714512221137" Width="110.11627906976739" Height="25.000000000000004" ZOrder="32995" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+  </Label>
+  <Label TextLabel="OPA11" GraphId="c272d" Href="https://omim.org/entry/617302">
+    <Comment>Optic atrophy type 11</Comment>
+    <Graphics CenterX="1809.6252877585634" CenterY="935.2517985611506" Width="110.11627906976739" Height="25.000000000000004" ZOrder="32997" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+  </Label>
+  <Label TextLabel="NPHPL1" GraphId="cf3d4" Href="https://omim.org/entry/613159">
+    <Comment>Nephronophthisis-like nephropathy type 1</Comment>
+    <Graphics CenterX="1474.610108351309" CenterY="599.1759196416448" Width="110.11627906976739" Height="25.000000000000004" ZOrder="33000" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+  </Label>
+  <Label TextLabel="Mitochondrial biogenesis" GraphId="e54d5">
+    <Graphics CenterX="1243.4056603773577" CenterY="41.978832700053744" Width="223.0" Height="25.0" ZOrder="33004" FillColor="ffffff" FontSize="14" Valign="Middle" />
+  </Label>
+  <Label TextLabel="Mitochondrial function" GraphId="de34c">
+    <Graphics CenterX="1394.4162578682601" CenterY="702.161169785832" Width="223.0" Height="25.0" ZOrder="33006" FillColor="ffffff" FontSize="12" Valign="Middle" />
+  </Label>
+  <Label TextLabel="SCFI" GraphId="e73cd" Href="https://omim.org/entry/617222">
+    <Comment>Infantile sudden cardiac failure</Comment>
+    <Graphics CenterX="1469.5157687286671" CenterY="748.798561151079" Width="110.11627906976739" Height="25.000000000000004" ZOrder="33007" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+  </Label>
+  <Label TextLabel="COXPD18" GraphId="b941a" Href="https://omim.org/entry/615578">
+    <Comment>Combined oxidative phosphorylation deficiency type 18</Comment>
+    <Graphics CenterX="1475.9308630682897" CenterY="395.5791759758225" Width="110.11627906976739" Height="25.000000000000004" ZOrder="33010" FillColor="ffcccc" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
   </Label>
   <Shape GraphId="aad4c">
     <Attribute Key="org.pathvisio.CellularComponentProperty" Value="Mitochondria" />
@@ -802,13 +1273,22 @@
     <Graphics CenterX="729.1011235955048" CenterY="368.18993085566126" Width="115.81676750216083" Height="89.89498703543612" ZOrder="32833" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Rotation="0.0" />
   </Shape>
   <Shape GraphId="d88ea">
-    <Graphics CenterX="495.79831932773106" CenterY="599.2647058823529" Width="911.7647058823529" Height="93.48739495798297" ZOrder="32838" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Rotation="0.0" />
+    <Graphics CenterX="471.2135223365564" CenterY="599.2647058823529" Width="862.5951119000036" Height="93.48739495798297" ZOrder="32838" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Rotation="0.0" />
   </Shape>
   <Shape GraphId="f9859">
-    <Graphics CenterX="1164.7187326217884" CenterY="191.75126630620494" Width="275.2136975471208" Height="193.2416534341017" ZOrder="32887" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Rotation="0.0" />
+    <Graphics CenterX="1736.8123307102749" CenterY="197.41164366469553" Width="275.2136975471208" Height="193.2416534341017" ZOrder="32887" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Rotation="0.0" />
   </Shape>
   <Shape GraphId="c95e2">
-    <Graphics CenterX="1163.2200886262926" CenterY="450.51698670605595" Width="276.2186115214185" Height="257.0162481536192" ZOrder="32908" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Rotation="0.0" />
+    <Graphics CenterX="1735.3136867147791" CenterY="475.37972743234565" Width="276.2186115214185" Height="295.4209748892174" ZOrder="32908" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Rotation="0.0" />
+  </Shape>
+  <Shape GraphId="bfbbf">
+    <Graphics CenterX="1736.5107913669065" CenterY="736.5107913669063" Width="275.1798561151078" Height="149.2805755395682" ZOrder="32984" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Rotation="0.0" />
+  </Shape>
+  <Shape GraphId="cd199">
+    <Graphics CenterX="1246.22641509434" CenterY="370.7547169811321" Width="628.3018867924535" Height="628.3018867924527" ZOrder="33003" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Rotation="0.0" />
+  </Shape>
+  <Shape GraphId="c7ce6">
+    <Graphics CenterX="1399.0566037735848" CenterY="831.132075471698" Width="326.41509433962244" Height="232.07547169811326" ZOrder="33005" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Rotation="0.0" />
   </Shape>
   <Group GroupId="da9da" GraphId="d376e" Style="Group">
     <BiopaxRef>f20</BiopaxRef>
@@ -816,10 +1296,26 @@
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Biopax>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mitochondrial disease pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0001669</bp:ID>
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">disease pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000013</bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
     </bp:openControlledVocabulary>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="ce4">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9783642403361</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ISBN</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Physician's Guidee to the Diagnosis, Treatment, and Follow-Up of Inherited Metabolic Diseases'</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2014</bp:YEAR>
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9783642403361</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Physician's Guidee to the Diagnosis, Treatment, and Follow-Up of Inherited Metabolic Diseases'</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Springer-Verlag Berlin Heidelberg Ed.4</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2014</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blau, Nenad</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Duran, Marinus</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gibson, K. Michael</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dionisi-Vici, Carlo</bp:AUTHORS>
+    </bp:PublicationXref>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="f20">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">37884807</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -845,25 +1341,9 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Suh JM</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rhee HW</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="ce4">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9783642403361</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ISBN</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Physician's Guidee to the Diagnosis, Treatment, and Follow-Up of Inherited Metabolic Diseases'</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"></bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2014</bp:YEAR>
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">9783642403361</bp:ID>
-      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Physician's Guidee to the Diagnosis, Treatment, and Follow-Up of Inherited Metabolic Diseases'</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string"> Springer-Verlag Berlin Heidelberg Ed.4</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2014</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Blau, Nenad</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Duran, Marinus</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gibson, K. Michael</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dionisi-Vici, Carlo</bp:AUTHORS>
-    </bp:PublicationXref>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
-      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">disease pathway</bp:TERM>
-      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000013</bp:ID>
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">mitochondrial disease pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0001669</bp:ID>
       <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
     </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="de4">
