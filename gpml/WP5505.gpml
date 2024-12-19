@@ -2,7 +2,8 @@
 <Pathway xmlns="http://pathvisio.org/GPML/2013a" Name="Glycosylphosphatidyl inositol anchor pathway" Version="20241217" Organism="Homo sapiens">
   <Comment Source="WikiPathways-description">Literature reference</Comment>
   <BiopaxRef>fdd</BiopaxRef>
-  <Graphics BoardWidth="1051.0" BoardHeight="871.0" />
+  <BiopaxRef>e4b</BiopaxRef>
+  <Graphics BoardWidth="1051.0" BoardHeight="817.5" />
   <DataNode TextLabel="Metabolite" GraphId="bff3d" Type="Metabolite">
     <Graphics CenterX="385.0" CenterY="175.0" Width="90.0" Height="25.0" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="" ID="" />
@@ -163,78 +164,18 @@
     <Graphics CenterX="92.0" CenterY="718.0" Width="42.0" Height="25.0" ZOrder="32812" FontSize="12" Valign="Middle" />
     <Xref Database="Ensembl" ID="ENSG00000255072" />
   </DataNode>
-  <Interaction>
-    <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="385.0" Y="321.5" GraphRef="ffdc1" RelX="0.0" RelY="-1.0" />
-      <Point X="385.0" Y="187.5" GraphRef="bff3d" RelX="0.0" RelY="1.0" ArrowHead="mim-conversion" />
-      <Anchor Position="0.4" Shape="None" GraphId="e29d5" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction>
-    <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="385.0" Y="426.5" GraphRef="a1b69" RelX="0.0" RelY="-1.0" />
-      <Point X="385.0" Y="346.5" GraphRef="ffdc1" RelX="0.0" RelY="1.0" ArrowHead="mim-conversion" />
-      <Anchor Position="0.4" Shape="None" GraphId="e048b" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction>
-    <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="219.0" Y="439.0" GraphRef="b815a" RelX="1.0" RelY="0.0" />
-      <Point X="340.0" Y="439.0" GraphRef="a1b69" RelX="-1.0" RelY="0.0" ArrowHead="mim-translocation" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction>
-    <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="174.0" Y="740.5" GraphRef="c79db" RelX="0.0" RelY="-1.0" />
-      <Point X="174.0" Y="540.5" GraphRef="c06ca" RelX="0.0" RelY="1.0" ArrowHead="mim-conversion" />
-      <Anchor Position="0.4825" Shape="None" GraphId="c2114" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction>
-    <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="174.0" Y="515.5" GraphRef="c06ca" RelX="0.0" RelY="-1.0" />
-      <Point X="174.0" Y="451.5" GraphRef="b815a" RelX="0.0" RelY="1.0" ArrowHead="mim-conversion" />
-      <Anchor Position="0.4296875" Shape="None" GraphId="f5ce1" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction>
-    <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="408.0" Y="267.5" GraphRef="ea1bd" RelX="-1.0" RelY="0.0" />
-      <Point X="385.0" Y="267.9" GraphRef="e29d5" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction>
-    <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="416.0" Y="394.0" GraphRef="e1730" RelX="-1.0" RelY="0.0" />
-      <Point X="385.0" Y="394.5" GraphRef="e048b" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction>
-    <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="121.0" Y="643.0" GraphRef="d5eb9" RelX="1.0" RelY="0.0" />
-      <Point X="174.0" Y="644.0" GraphRef="c2114" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
-  <Interaction>
-    <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="113.0" Y="487.0" GraphRef="e89d7" RelX="1.0" RelY="0.0" />
-      <Point X="174.0" Y="488.0" GraphRef="f5ce1" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
-    </Graphics>
-    <Xref Database="" ID="" />
-  </Interaction>
   <Interaction GraphId="id146b44aa">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="656.0" Y="613.0" />
       <Point X="656.0" Y="751.0" ArrowHead="Arrow" />
       <Anchor Position="0.4782608695652174" Shape="None" GraphId="d3141" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id1ae6ae5">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="219.0" Y="439.0" GraphRef="b815a" RelX="1.0" RelY="0.0" />
+      <Point X="340.0" Y="439.0" GraphRef="a1b69" RelX="-1.0" RelY="0.0" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -245,10 +186,25 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
+  <Interaction GraphId="id2e332d6f">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="385.0" Y="426.5" GraphRef="a1b69" RelX="0.0" RelY="-1.0" />
+      <Point X="385.0" Y="346.5" GraphRef="ffdc1" RelX="0.0" RelY="1.0" ArrowHead="mim-conversion" />
+      <Anchor Position="0.4" Shape="None" GraphId="e048b" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
   <Interaction GraphId="id2ebf3a2f">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="451.0" Y="200.5" GraphRef="f0d4f" RelX="0.0" RelY="-1.0" />
       <Point X="451.2" Y="175.0" GraphRef="a620f" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id32c24f41">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="113.0" Y="487.0" GraphRef="e89d7" RelX="1.0" RelY="0.0" />
+      <Point X="174.0" Y="488.0" GraphRef="f5ce1" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -257,6 +213,14 @@
       <Point X="833.0" Y="303.5" GraphRef="e9c81" RelX="0.0" RelY="1.0" />
       <Point X="833.0" Y="383.5" GraphRef="e7527" RelX="0.0" RelY="-1.0" ArrowHead="mim-conversion" />
       <Anchor Position="0.4" Shape="None" GraphId="de60f" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id411bd6aa">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="174.0" Y="740.5" GraphRef="c79db" RelX="0.0" RelY="-1.0" />
+      <Point X="174.0" Y="540.5" GraphRef="c06ca" RelX="0.0" RelY="1.0" ArrowHead="mim-conversion" />
+      <Anchor Position="0.4825" Shape="None" GraphId="c2114" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -296,6 +260,21 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
+  <Interaction GraphId="id83fafc64">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="385.0" Y="321.5" GraphRef="ffdc1" RelX="0.0" RelY="-1.0" />
+      <Point X="385.0" Y="187.5" GraphRef="bff3d" RelX="0.0" RelY="1.0" ArrowHead="mim-conversion" />
+      <Anchor Position="0.4" Shape="None" GraphId="e29d5" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id840aabda">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="121.0" Y="643.0" GraphRef="d5eb9" RelX="1.0" RelY="0.0" />
+      <Point X="174.0" Y="644.0" GraphRef="c2114" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
   <Interaction GraphId="id98f53451">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="430.0" Y="175.0" GraphRef="bff3d" RelX="1.0" RelY="0.0" />
@@ -312,10 +291,32 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
+  <Interaction GraphId="ida7e818af">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="416.0" Y="394.0" GraphRef="e1730" RelX="-1.0" RelY="0.0" />
+      <Point X="385.0" Y="394.5" GraphRef="e048b" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idaab0735f">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="408.0" Y="267.5" GraphRef="ea1bd" RelX="-1.0" RelY="0.0" />
+      <Point X="385.0" Y="267.9" GraphRef="e29d5" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
   <Interaction GraphId="idc640513d">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="860.0" Y="223.5" GraphRef="d53f8" RelX="-1.0" RelY="0.0" />
       <Point X="833.0" Y="223.9" GraphRef="cfc7a" RelX="0.0" RelY="0.0" ArrowHead="mim-catalysis" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="idf34491ef">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="174.0" Y="515.5" GraphRef="c06ca" RelX="0.0" RelY="-1.0" />
+      <Point X="174.0" Y="451.5" GraphRef="b815a" RelX="0.0" RelY="1.0" ArrowHead="mim-conversion" />
+      <Anchor Position="0.4296875" Shape="None" GraphId="f5ce1" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -344,7 +345,7 @@
   <Label TextLabel="Golgi then Cell Surface" GraphId="c166d">
     <Graphics CenterX="631.0" CenterY="775.0" Width="168.0" Height="25.0" ZOrder="32794" FillColor="ffffff" FontSize="12" Valign="Middle" />
   </Label>
-  <Label TextLabel="ER Lumen" GraphId="a41f3">
+  <Label TextLabel="Cytoplasm" GraphId="a41f3">
     <Graphics CenterX="57.0" CenterY="416.0" Width="90.0" Height="25.0" ZOrder="32795" FillColor="ffffff" FontSize="12" Valign="Middle" />
   </Label>
   <Shape GraphId="dffd0">
@@ -358,11 +359,16 @@
   <Group GroupId="dda43" GraphId="c97bc" Style="Group" />
   <Group GroupId="f8669" GraphId="d53f8" Style="Group" />
   <Group GroupId="af8dc" GraphId="d5eb9" Style="Group" />
+  <Group GroupId="be12a" GraphId="e7223" Style="Group" />
   <Group GroupId="fb0b9" GraphId="ea1bd" Style="Group" />
   <Group GroupId="a20ce" GraphId="f9c41" Style="Group" />
-  <Group GroupId="be12a" GraphId="e7223" Style="Group" />
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Biopax>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">classic metabolic pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000002</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
     <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="fdd">
       <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25943031</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
@@ -393,6 +399,19 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Boerkoel CF</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gahl WA</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wolfe LA</bp:AUTHORS>
+    </bp:PublicationXref>
+    <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
+      <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">glycosylphosphatidylinositol anchor biosynthetic pathway</bp:TERM>
+      <bp:ID xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PW:0000161</bp:ID>
+      <bp:Ontology xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pathway Ontology</bp:Ontology>
+    </bp:openControlledVocabulary>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="e4b">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23329837</bp:ID>
+      <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Understanding human glycosylation disorders: biochemistry leads the charge.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">J Biol Chem</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2013</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Freeze HH</bp:AUTHORS>
     </bp:PublicationXref>
   </Biopax>
 </Pathway>
