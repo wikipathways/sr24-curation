@@ -9,7 +9,7 @@
   </DataNode>
   <DataNode TextLabel="Phosphoserine" GraphId="a2c27" Type="Metabolite">
     <Graphics CenterX="637.3333333333334" CenterY="638.3333333333327" Width="90.0" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="4646dc" />
-    <Xref Database="ChEBI" ID="CHEBI:45522" />
+    <Xref Database="ChEBI" ID="CHEBI:15811" />
   </DataNode>
   <DataNode TextLabel="IC" GraphId="ab213" Type="Metabolite">
     <Graphics CenterX="965.8333333333313" CenterY="1078.3333333333344" Width="46.33333333333322" Height="20.0" ZOrder="32768" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="4646dc" />

@@ -61,7 +61,7 @@
     <Xref Database="Uniprot-TrEMBL" ID="Q92890" />
   </DataNode>
   <DataNode TextLabel="inner membrane &#xA;translocation insertion" GraphId="a14a8" Type="Pathway">
-    <Graphics CenterX="145.0255102040819" CenterY="956.4416802610115" Width="164.0864600326264" Height="35.3384991843393" ZOrder="33115" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="None" Color="14961e" />
+    <Graphics CenterX="145.0255102040819" CenterY="956.4416802610115" Width="164.0864600326264" Height="35.3384991843393" ZOrder="33115" FontWeight="Bold" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="14961e" />
     <Xref Database="WikiPathways" ID="WP2717" />
   </DataNode>
   <DataNode TextLabel="COQ3" GraphId="ade9c" Type="Protein">
@@ -664,7 +664,7 @@
     <BiopaxRef>de4</BiopaxRef>
     <Graphics ZOrder="33085" LineThickness="1.0">
       <Point X="519.142053445851" Y="791.2148382559774" GraphRef="efa26" RelX="0.0" RelY="1.0" />
-      <Point X="519.142053445851" Y="826.6895218002805" GraphRef="f334b" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="519.142053445851" Y="826.6895218002805" GraphRef="f334b" RelX="0.0" RelY="-1.0" ArrowHead="mim-translocation" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -711,7 +711,7 @@
     <BiopaxRef>de4</BiopaxRef>
     <Graphics ZOrder="33206" LineThickness="1.0">
       <Point X="710.42194092827" Y="826.6895218002805" GraphRef="b723b" RelX="0.0" RelY="-1.0" />
-      <Point X="710.42194092827" Y="791.2148382559776" GraphRef="ac59e" RelX="0.0" RelY="1.0" ArrowHead="Arrow" />
+      <Point X="710.42194092827" Y="791.2148382559776" GraphRef="ac59e" RelX="0.0" RelY="1.0" ArrowHead="mim-translocation" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
