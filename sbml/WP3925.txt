@@ -1,0 +1,101 @@
+
+
+Metabolic Process
+A complete overview of the metabolism of all 20 amino acids.
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP3925 CPTAC Assay Portal]
+This pathway was inferred from Mus musculus pathway "Amino Acid metabolism", WP662 revision 71177, with a 99.0% conversion rate.
+
+[ARROW:ef20c]	Curved connections are not supported.
+[ARROW:f67be]	Curved connections are not supported.
+[LINE:id969bb856]	Invalid interaction type.
+[LINE:idec1fe53b]	Invalid interaction type.
+[LINE:e03e3]	Invalid interaction type.
+[LINE:ida9854d09]	Invalid interaction type.
+[LINE:id102b0893]	Invalid interaction type.
+[LINE:idf8a26519]	Invalid interaction type.
+[LINE:id6c4c758d]	Invalid interaction type.
+[LINE:id9e749899]	Invalid interaction type.
+[LINE:ideeecdbae]	Invalid interaction type.
+[LINE:id40913080]	Invalid interaction type.
+[LINE:id3885d2f2]	Invalid interaction type.
+[STIMULATION:id8b7da133]	Invalid interaction type.
+[TBAR:id3332c069]	Invalid interaction type.
+[LINE:id1a97475c]	Invalid interaction type.
+[LINE:id91622b38]	Invalid interaction type.
+[LINE:id6521e0a8]	Invalid interaction type.
+[LINE:c39a2]	Invalid interaction type as an input to reaction.
+[ARROW:db6e2]	Invalid interaction type "ARROW" as an output from reaction.
+[Label:be974]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:e0398]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:fefbd]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:c28ae]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:c7a74]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:d39b6]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:eac4b]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:fa958]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:b80f4]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:bbd7b]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:d6dc8]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:e5f64]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:f4f5e]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:f1028]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:f28cb]	 Label cannot be part of reaction. Tranforming to Unknown
+[UnknownPositiveInfluenceReaction:b29f5]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:e6f5b]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:f3e23]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:eb7a3]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:ddbbd]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:a5f83]	Reacion was marked as reversible but it cannot be reversible
+[UnknownPositiveInfluenceReaction:a5f83]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:cda34]	Reacion was marked as reversible but it cannot be reversible
+[UnknownPositiveInfluenceReaction:cda34]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:be613]	Reacion was marked as reversible but it cannot be reversible
+[UnknownPositiveInfluenceReaction:be613]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:bd6f1]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:ffb67]	Reacion was marked as reversible but it cannot be reversible
+[UnknownPositiveInfluenceReaction:ffb67]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:d485c]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:baa1d]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:a9eb2]	Reacion was marked as reversible but it cannot be reversible
+[UnknownPositiveInfluenceReaction:a9eb2]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:bcedc]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:be3ee]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:cb3b3]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:de60b]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:ed8eb]	Reacion was marked as reversible but it cannot be reversible
+[UnknownPositiveInfluenceReaction:ed8eb]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:fb618]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:d75ab]	Reacion was marked as reversible but it cannot be reversible
+[UnknownPositiveInfluenceReaction:d75ab]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:a4d33]	Reacion was marked as reversible but it cannot be reversible
+[UnknownPositiveInfluenceReaction:a4d33]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:a0f1e]	Reacion was marked as reversible but it cannot be reversible
+[UnknownPositiveInfluenceReaction:a0f1e]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:aea3d]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:cdbd3]	Reacion was marked as reversible but it cannot be reversible
+[UnknownPositiveInfluenceReaction:cd6de]	Reacion was marked as reversible but it cannot be reversible
+[UnknownPositiveInfluenceReaction:cd6de]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:b9c6f]	Reacion was marked as reversible but it cannot be reversible
+[UnknownPositiveInfluenceReaction:e7a54]	Reacion was marked as reversible but it cannot be reversible
+[UnknownPositiveInfluenceReaction:ee287]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:baafc]	Reacion was marked as reversible but it cannot be reversible
+[UnknownPositiveInfluenceReaction:baafc]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:ea4a4]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:ecf6f]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:a8c34]	Reacion was marked as reversible but it cannot be reversible
+[UnknownPositiveInfluenceReaction:a8c34]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:b0ff0]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:fe4b9]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:f33f1]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:cec9a]	Reacion was marked as reversible but it cannot be reversible
+[UnknownPositiveInfluenceReaction:cec9a]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:f2da0]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:de1f2]	Reacion was marked as reversible but it cannot be reversible
+[UnknownPositiveInfluenceReaction:de1f2]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:adbf8]	Reacion was marked as reversible but it cannot be reversible
+[UnknownPositiveInfluenceReaction:adbf8]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:d3f8b]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:b5ff9]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:ce7f0]	Reacion was marked as reversible but it cannot be reversible
+[UnknownPositiveInfluenceReaction:ce7f0]	Reaction should contain only one reactant and one product.

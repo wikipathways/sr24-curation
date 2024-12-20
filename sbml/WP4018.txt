@@ -1,0 +1,48 @@
+Inactivation of VHL due to mutation or DNA methylation is an early event in ccRCC that leads to accumulation of the transcription factor HIF-α, which dimerizes with HIF-β and translocates to the nucleus. The resulting HIF-α–HIF-β-induced up-regulation of downstream genes promotes cell proliferation, glucose uptake, glycolysis, and angiogenesis. 
+
+Mutations in chromatin remodelers and histone modifiers including PBRM1, SETD2, BAP1 and KDM5C lead to global abnormal gene expression patterns, and deficiency in DNA repair, which contributes to genomic instability. 
+
+Activation of PI3K–mTOR signaling promotes cell proliferation and tumor aggression, and increases translation of HIF-α, leading to enhanced HIF-α-mediated gene expression. The proposed development pattern of ccRCC is based on tumor evolution analyses and current understanding of genomic variation.
+
+Description adapted from "Precision medicine from the renal cancer genome", Riazalhosseini and Lathrop.
+
+Additional sources of information:
+mTORC1 complex is based on [https://en.wikipedia.org/wiki/Mechanistic_target_of_rapamycin#mTORC1 Wikipedia]. PDGFB and TGFB as targets of HIF1A based on [http://www.genome.jp/kegg-bin/show_pathway?hsa05211 KEGG]. 
+Phosphorylation sites were added based on information from PhosphoSitePlus (R), www.phosphosite.org.
+
+[-:-]	lcsb.mapviewer.model.LogMarker@47a8ba87Unknown attribute of node. Key:org.pathvisio.core.StateRotation; value: 4.71238898038469
+[-:-]	lcsb.mapviewer.model.LogMarker@7b2f7b06Unknown attribute of node. Key:org.pathvisio.core.StateRotation; value: 4.71238898038469
+[-:-]	lcsb.mapviewer.model.LogMarker@42cc56e5Unknown attribute of node. Key:org.pathvisio.core.StateRotation; value: 4.71238898038469
+[-:-]	lcsb.mapviewer.model.LogMarker@3ecd8f5bUnknown attribute of node. Key:org.pathvisio.core.StateRotation; value: -1.5707963267948966
+[-:-]	lcsb.mapviewer.model.LogMarker@3c337687Unknown attribute of node. Key:org.pathvisio.core.StateRotation; value: 1.5707963267948966
+[-:-]	lcsb.mapviewer.model.LogMarker@3c44dd4cUnknown attribute of node. Key:org.pathvisio.core.StateRotation; value: 4.71238898038469
+[-:-]	lcsb.mapviewer.model.LogMarker@1c9fdf5fUnknown attribute of node. Key:org.pathvisio.core.StateRotation; value: 4.71238898038469
+[-:-]	lcsb.mapviewer.model.LogMarker@4e7a2cc0Unknown attribute of node. Key:org.pathvisio.core.StateRotation; value: 4.71238898038469
+[-:-]	lcsb.mapviewer.model.LogMarker@69dafcc6Unknown attribute of node. Key:org.pathvisio.core.StateRotation; value: 4.71238898038469
+[-:-]	lcsb.mapviewer.model.LogMarker@736ef20cUnknown attribute of node. Key:org.pathvisio.core.StateRotation; value: 4.71238898038469
+[-:-]	lcsb.mapviewer.model.LogMarker@1169ae19Unknown attribute of node. Key:org.pathvisio.core.StateRotation; value: 4.71238898038469
+[TRANSCRIPTION_TRANSLATION:idb133fbea]	Invalid interaction type.
+[INHIBITION:id7e461c1b]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:idedbf4f63]	Invalid interaction type.
+[ARROW:afd16]	Invalid interaction type as an input to reaction.
+[ARROW:id65fc455]	Invalid interaction type as an input to reaction.
+[LINE:ida1c08b30]	Invalid interaction type as an input to reaction.
+[State:a537f]	state for Rna is not supported.
+[-:-]	Miriam data (PUBMED: 23792563) for id72c61b7c already exists. Ignoring...
+[Complex:c7790]	Empty element is invalid
+[Complex:e10cc]	Empty element is invalid
+[Complex:fd29c]	Empty element is invalid
+[Complex:abb06]	Empty element is invalid
+[Complex:cea42]	Empty element is invalid
+[Complex:b09eb]	Empty element is invalid
+[Complex:f223f]	Empty element is invalid
+[Complex:f9feb]	Empty element is invalid
+[Complex:b3e47]	Empty element is invalid
+[Complex:f13a7]	Empty element is invalid
+[Complex:fac6c]	Empty element is invalid
+[Complex:d4eb0]	Empty element is invalid
+[Complex:ebdaf]	Empty element is invalid
+[Complex:e8977]	Empty element is invalid
+[Complex:bebe9]	Empty element is invalid
+[Complex:af241]	Empty element is invalid
+[Complex:c34e8]	Empty element is invalid

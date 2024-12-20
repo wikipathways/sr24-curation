@@ -1,0 +1,8 @@
+Metabolic reprogramming in colon cancer. This pathway was created from a figure by Vasaikar S and Zhang B, Baylor College of Medicine, June 2018.
+
+
+[DataNode:cdad2]	Missing group: fdc2a
+[CONVERSION:id87bce1cb]	Invalid interaction type "CONVERSION" as an output from reaction.
+[ARROW:idc3d71602]	Invalid interaction type "ARROW" as an output from reaction.
+[Label:f0da4]	 Label cannot be part of reaction. Tranforming to Unknown
+[UnknownPositiveInfluenceReaction:id82ad4764]	Reaction should contain only one reactant and one product.

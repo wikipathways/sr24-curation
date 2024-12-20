@@ -1,6 +1,59 @@
 This pathway lists several genes involved in mechanisms involved in disorders of mitochondrial homeostatis, dynamics, protein import, and quality control. This pathway was inspired by Figure 46.1 of Edition 5, Chapter 46 of the book of Blau (ISBN 9783030677268).
 
-[Label:e25cb]	 Label cannot be part of reaction. Tranforming to Unknown
+[LABEL:c31e7]	Don't know how to process href: https://www.iembase.com/disorder/1198
+[STIMULATION:iddc9f627b]	Invalid interaction type.
+[STIMULATION:id19782e13]	Invalid interaction type.
+[MODIFICATION:idd1a3c459]	Invalid interaction type.
+[Label:a95e8]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:ec38a]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:b9540]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:bfefd]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:d35d0]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:e73cd]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:d3cb7]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:c83dc]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:c3d30]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:ab779]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:d2992]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:e772c]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:af0fb]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:cf3d4]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:b8fbf]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:a8322]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:aad38]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:e783f]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:aa894]	 Label cannot be part of reaction. Tranforming to Unknown
 [Label:b3f93]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:e3a57]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:ff03b]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:c31e7]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:cdea5]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:e4efd]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:fa3ea]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:ccf92]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:e98d5]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:aaf09]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:e8dd7]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:c6de6]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:c272d]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:f3b8e]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:a40c5]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:e25cb]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:a5dab]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:da20d]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:db4d2]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:f54b7]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:c3aa5]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:b4dda]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:b941a]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:bc43d]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:ea5e6]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:afb34]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:f8639]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:f34bf]	 Label cannot be part of reaction. Tranforming to Unknown
 [:e8886]	 Shape can not be part of reaction. Tranforming to Unknown
 [:f5620]	 Shape can not be part of reaction. Tranforming to Unknown
+[HeterodimerAssociationReaction:id83eaa8bf]	Reaction should contain at least 2 reactants. GraphId: id83eaa8bf
+[PositiveInfluenceReaction:idd1a3c459]	Reaction should contain only one reactant and one product.
+[-:-]	Miriam data (PUBMED: 39075050) for id8828d868 already exists. Ignoring...
+[-:-]	Miriam data (PUBMED: 39075050) for id8828d868 already exists. Ignoring...

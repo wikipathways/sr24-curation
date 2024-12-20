@@ -1,10 +1,7 @@
 Literature reference
 
-[-:-]	Unknown gpml interaction type: mim-translocation
-[ARROW:id146b44aa]	Interaction is not connected
 [CONVERSION:fc5cf]	Interaction is not connected
-[LINE:id25882]	Invalid interaction type.
+[LINE:id1ae6ae5]	Invalid interaction type.
 [CATALYSIS:id4ec69c7c]	Interaction edge is invalid (one end is not connected).
-[STIMULATION:id7ebbb0d3]	Interaction edge is invalid (one end is not connected).
 [Complex:a4597]	Empty element is invalid
 [Complex:e7223]	Empty element is invalid

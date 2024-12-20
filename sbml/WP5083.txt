@@ -1,0 +1,127 @@
+Pre-synaptic neurons release glutamate, which acts on various receptors (kainate, metabotropic, AMPA and NMDA), thereby regulating LTP, LDP, neuronal survival and proliferation. Glutamate retro-signaling negatively regulates its exocytotic release. The remainder of glutamate is taken up by astrocytes through EAAT1-4. Glutamine is generated from blood-derived glucose, transported to pre-synaptic neurons and converted into glutamate. Alternatively, glucose is converted into D-serine, which functions as co-agonist for NMDARs and is broken down by DAAO. CNS inflammation induces M1 and M2 microglia, which modulate neuronal and astrocyte function.
+The relation between neuroinflammation and glutamatergic signaling
+
+[STIMULATION:f611c]	Invalid interaction type.
+[STIMULATION:e7533]	Invalid interaction type.
+[STIMULATION:af2aa]	Invalid interaction type.
+[STIMULATION:b1e63]	Invalid interaction type.
+[STIMULATION:ed282]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:d0f2e]	Invalid interaction type.
+[MODIFICATION:dc8cc]	Invalid interaction type.
+[STIMULATION:b97cd]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:b7dc4]	Invalid interaction type.
+[STIMULATION:be16e]	Invalid interaction type.
+[STIMULATION:b7ff7]	Invalid interaction type.
+[TBAR:d37b4]	Invalid interaction type.
+[STIMULATION:f4e17]	Invalid interaction type.
+[STIMULATION:cc010]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:f00db]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:a9c41]	Invalid interaction type.
+[STIMULATION:b40bd]	Invalid interaction type.
+[STIMULATION:a56fd]	Invalid interaction type.
+[STIMULATION:ac4c0]	Invalid interaction type.
+[STIMULATION:e8f23]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:c5268]	Invalid interaction type.
+[STIMULATION:a2302]	Invalid interaction type.
+[STIMULATION:c0254]	Invalid interaction type.
+[STIMULATION:b3559]	Invalid interaction type.
+[STIMULATION:e70ff]	Invalid interaction type.
+[TBAR:eec15]	Invalid interaction type.
+[STIMULATION:b71ae]	Invalid interaction type.
+[STIMULATION:b9773]	Invalid interaction type.
+[STIMULATION:a4958]	Invalid interaction type.
+[STIMULATION:a24ad]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:fa69c]	Invalid interaction type.
+[STIMULATION:d5f0e]	Invalid interaction type.
+[STIMULATION:c570c]	Invalid interaction type.
+[STIMULATION:cd6cb]	Invalid interaction type.
+[STIMULATION:b2330]	Invalid interaction type.
+[STIMULATION:cbab2]	Invalid interaction type.
+[STIMULATION:c474a]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:a534f]	Invalid interaction type.
+[STIMULATION:d835c]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:fc990]	Invalid interaction type.
+[STIMULATION:ec02c]	Invalid interaction type.
+[STIMULATION:aa041]	Invalid interaction type.
+[STIMULATION:c01a6]	Invalid interaction type.
+[STIMULATION:d69ac]	Invalid interaction type.
+[STIMULATION:c5d4e]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:c98da]	Invalid interaction type.
+[STIMULATION:e343f]	Invalid interaction type.
+[STIMULATION:bb7ea]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:be102]	Invalid interaction type.
+[STIMULATION:df8de]	Invalid interaction type.
+[STIMULATION:fc48d]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:e6068]	Invalid interaction type.
+[STIMULATION:ce81c]	Invalid interaction type.
+[STIMULATION:ff51a]	Invalid interaction type.
+[STIMULATION:b0a74]	Invalid interaction type.
+[STIMULATION:cfab2]	Invalid interaction type.
+[STIMULATION:ce716]	Invalid interaction type.
+[STIMULATION:eafb9]	Invalid interaction type.
+[STIMULATION:cff97]	Invalid interaction type.
+[STIMULATION:dce42]	Invalid interaction type.
+[STIMULATION:f75b9]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:cf912]	Invalid interaction type.
+[STIMULATION:cac1d]	Invalid interaction type.
+[STIMULATION:ae3c1]	Invalid interaction type.
+[STIMULATION:b5342]	Invalid interaction type.
+[STIMULATION:c1fb3]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:cdcf5]	Invalid interaction type.
+[STIMULATION:bf746]	Invalid interaction type.
+[STIMULATION:ef016]	Invalid interaction type.
+[STIMULATION:ca5c7]	Invalid interaction type.
+[STIMULATION:a66aa]	Invalid interaction type.
+[STIMULATION:d4027]	Invalid interaction type.
+[STIMULATION:d96b9]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:ba7de]	Invalid interaction type.
+[STIMULATION:e6027]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:a6972]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:bab85]	Invalid interaction type.
+[STIMULATION:a073d]	Invalid interaction type.
+[STIMULATION:bb8d1]	Invalid interaction type.
+[STIMULATION:f0767]	Invalid interaction type.
+[STIMULATION:d0ce3]	Invalid interaction type.
+[STIMULATION:d1dd4]	Invalid interaction type.
+[STIMULATION:b323b]	Invalid interaction type.
+[STIMULATION:de829]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:ebc35]	Invalid interaction type.
+[STIMULATION:a19f3]	Invalid interaction type.
+[STIMULATION:c9140]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:e22c9]	Invalid interaction type.
+[ARROW:e9cc3]	Invalid interaction type as an input to reaction.
+[Label:ef62c]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:bedee]	 Label cannot be part of reaction. Tranforming to Unknown
+[:b92fb]	 Shape can not be part of reaction. Tranforming to Unknown
+[:fdded]	 Shape can not be part of reaction. Tranforming to Unknown
+[:bfbab]	 Shape can not be part of reaction. Tranforming to Unknown
+[:f6675]	 Shape can not be part of reaction. Tranforming to Unknown
+[:db464]	 Shape can not be part of reaction. Tranforming to Unknown
+[:ad948]	 Shape can not be part of reaction. Tranforming to Unknown
+[:e99e5]	Rotation of objects is not supported. Rotation=1.5727996387805698
+[ReducedPhysicalStimulationReaction:e343f]	Reaction should contain only one reactant and one product.
+[ReducedPhysicalStimulationReaction:bb7ea]	Reaction should contain only one reactant and one product.
+[-:-]	Miriam data (PUBMED: 22287959) for df8de already exists. Ignoring...
+[ReducedPhysicalStimulationReaction:df8de]	Reaction should contain only one reactant and one product.
+[-:-]	Miriam data (PUBMED: 33510058) for a9c41 already exists. Ignoring...
+[BiopaxReference:dbf]	Publication type is not supported.
+[Complex:c61ec]	Empty element is invalid
+[Complex:d83ce]	Empty element is invalid
+[Complex:bd6d6]	Empty element is invalid
+[Complex:bfaf7]	Empty element is invalid
+[Complex:fe926]	Empty element is invalid
+[Complex:f1b99]	Empty element is invalid
+[Complex:a5773]	Empty element is invalid
+[Complex:ef6ec]	Empty element is invalid
+[Complex:b0c4f]	Empty element is invalid
+[Complex:b2793]	Empty element is invalid
+[Complex:d0b3b]	Empty element is invalid
+[Complex:c7787]	Empty element is invalid
+[Complex:adfd7]	Empty element is invalid
+[Complex:c159c]	Empty element is invalid
+[Complex:d0f97]	Empty element is invalid
+[Complex:cbfdb]	Empty element is invalid
+[Complex:b9476]	Empty element is invalid
+[Complex:f16fd]	Empty element is invalid
+[Complex:bfbb5]	Empty element is invalid
+[Complex:c112e]	Empty element is invalid

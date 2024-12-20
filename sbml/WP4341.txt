@@ -1,0 +1,114 @@
+The pathway summarizes non-genomic actions of the hormonally active form of vitamin D: 1,25-dihydroxyvitamin D3. It is based the pathway figure published by Hii and Ferrante (Nutrients, 2016). 
+
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_0
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_1
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_2
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_3
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_4
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_5
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_6
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_7
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_8
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_9
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_10
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_11
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_12
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_13
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_14
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_15
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_16
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_17
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_18
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_19
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_20
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_21
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_22
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_23
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_24
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_25
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_26
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_27
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_28
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_29
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_30
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_31
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_32
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_33
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_34
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_35
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_36
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_37
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_38
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_39
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_40
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_41
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_42
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_43
+[STIMULATION:id6ad026ee]	Invalid interaction type.
+[STIMULATION:id6af7ac35]	Invalid interaction type.
+[STIMULATION:id792a9167]	Invalid interaction type.
+[STIMULATION:id9123986e]	Invalid interaction type.
+[STIMULATION:idb322f58d]	Invalid interaction type.
+[STIMULATION:id8d780d66]	Invalid interaction type.
+[STIMULATION:id2190b979]	Invalid interaction type.
+[STIMULATION:iddfa70577]	Invalid interaction type.
+[STIMULATION:id5f5424e8]	Invalid interaction type.
+[STIMULATION:ide53e3c39]	Invalid interaction type.
+[STIMULATION:idd710e88a]	Invalid interaction type.
+[STIMULATION:d4c4e]	Invalid interaction type.
+[STIMULATION:id32881ec8]	Invalid interaction type.
+[STIMULATION:id9ad87b14]	Invalid interaction type.
+[STIMULATION:id3fe176fa]	Invalid interaction type.
+[STIMULATION:id32dc27c8]	Invalid interaction type.
+[STIMULATION:id2c184978]	Invalid interaction type.
+[STIMULATION:id99397160]	Invalid interaction type.
+[STIMULATION:idc9a769ec]	Invalid interaction type.
+[STIMULATION:cbcc1]	Invalid interaction type.
+[STIMULATION:ide0bf3d10]	Invalid interaction type.
+[STIMULATION:id4aee4cd7]	Invalid interaction type.
+[STIMULATION:b6374]	Invalid interaction type.
+[STIMULATION:id747c6cc6]	Invalid interaction type.
+[STIMULATION:id8018d559]	Invalid interaction type.
+[STIMULATION:d90ef]	Invalid interaction type.
+[STIMULATION:id9f6127db]	Invalid interaction type.
+[LINE:idad76ceb5]	Invalid interaction type.
+[STIMULATION:e99cc]	Invalid interaction type.
+[STIMULATION:id1a217e9d]	Invalid interaction type.
+[STIMULATION:id25c95e1e]	Invalid interaction type.
+[STIMULATION:id36d89599]	Invalid interaction type.
+[STIMULATION:ebbbe]	Invalid interaction type.
+[STIMULATION:ide8f9c633]	Invalid interaction type.
+[STIMULATION:idfac29de6]	Invalid interaction type.
+[STIMULATION:idd51d6eba]	Invalid interaction type.
+[STIMULATION:idf6166811]	Invalid interaction type.
+[STIMULATION:id51aa21be]	Invalid interaction type.
+[STIMULATION:id94e0a4a4]	Invalid interaction type.
+[STIMULATION:id616d59ec]	Invalid interaction type.
+[STIMULATION:e0d64]	Invalid interaction type.
+[STIMULATION:ida2e14d1d]	Invalid interaction type.
+[STIMULATION:ef7b3]	Invalid interaction type.
+[STIMULATION:e53d3]	Invalid interaction type.
+[STIMULATION:id41456124]	Invalid interaction type.
+[Label:b53b9]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:eebf1]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:a70e0]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:da643]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:b4453]	 Label cannot be part of reaction. Tranforming to Unknown
+[:babb9]	RECTANGLE cannot be part of a complex. Skipping.
+[:ecad9]	RECTANGLE cannot be part of a complex. Skipping.
+[HeterodimerAssociationReaction:id859e2b99]	Reaction should contain at least 2 reactants. GraphId: id859e2b99
+[HeterodimerAssociationReaction:idbd396ec]	Reaction should contain at least 2 reactants. GraphId: idbd396ec
+[ReducedPhysicalStimulationReaction:id8d780d66]	Reaction should contain only one reactant and one product.
+[HeterodimerAssociationReaction:d95f1]	Reaction should contain at least 2 reactants. GraphId: d95f1
+[HeterodimerAssociationReaction:id587f395c]	Reaction should contain at least 2 reactants. GraphId: id587f395c
+[HeterodimerAssociationReaction:ae4ff]	Reaction should contain at least 2 reactants. GraphId: ae4ff
+[HeterodimerAssociationReaction:idb53a5375]	Reaction should contain at least 2 reactants. GraphId: idb53a5375
+[HeterodimerAssociationReaction:id53db955c]	Reaction should contain at least 2 reactants. GraphId: id53db955c
+[HeterodimerAssociationReaction:idc260eb77]	Reaction should contain at least 2 reactants. GraphId: idc260eb77
+[HeterodimerAssociationReaction:id3e6805de]	Reaction should contain at least 2 reactants. GraphId: id3e6805de
+[HeterodimerAssociationReaction:db1b4]	Reaction should contain at least 2 reactants. GraphId: db1b4
+[HeterodimerAssociationReaction:df3b9]	Reaction should contain at least 2 reactants. GraphId: df3b9
+[ReducedPhysicalStimulationReaction:e53d3]	Reaction should contain only one reactant and one product.
+[HeterodimerAssociationReaction:ffd3f]	Reaction should contain at least 2 reactants. GraphId: ffd3f
+[Complex:bedba]	Empty element is invalid
+[Complex:beb55]	Empty element is invalid

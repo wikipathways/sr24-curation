@@ -1,0 +1,36 @@
+Complex IV or cytochrome c oxidase (COX) catalyses the oxidation of cytochrome c and the reduction of oxygen to water, coupled to proton translocation. Mammalian cIV contains 13 subunits. MT-CO1 is the largest catalytic subunit. MT-CO2 is the second core subunit. MT-CO3, the third core subunit has no direct catalytic role. The supernumerary subunits do not seem to have a catalytic role, but are thought to be important for the stabilization and regulation of the catalytic core. Complex IV is the only OXPHOS complex containing tissue-specific and developmentally regulated isoforms.
+
+[CATALYSIS:id4c77c81b]	Invalid interaction type "CATALYSIS" as an output from reaction.
+[CATALYSIS:id713e3072]	Invalid interaction type "CATALYSIS" as an output from reaction.
+[CATALYSIS:idfc818c23]	Invalid interaction type "CATALYSIS" as an output from reaction.
+[BINDING:b3efd]	Invalid interaction type as an input to reaction.
+[BINDING:ida7f65032]	Invalid interaction type as an input to reaction.
+[BINDING:idcfb211a9]	Invalid interaction type as an input to reaction.
+[CATALYSIS:id89e8ed4f]	Invalid interaction type "CATALYSIS" as an output from reaction.
+[CATALYSIS:id494fb373]	Invalid interaction type "CATALYSIS" as an output from reaction.
+[BINDING:id64c73795]	Invalid interaction type as an input to reaction.
+[BINDING:idcfc908bb]	Invalid interaction type as an input to reaction.
+[BINDING:idfd55b3a6]	Invalid interaction type as an input to reaction.
+[BINDING:id99849837]	Invalid interaction type as an input to reaction.
+[HeterodimerAssociationReaction:id12e9bf46]	Reaction should contain at least 2 reactants. GraphId: id12e9bf46
+[HeterodimerAssociationReaction:id505af4e0]	Reaction should contain at least 2 reactants. GraphId: id505af4e0
+[HeterodimerAssociationReaction:idd34e6970]	Reaction should contain at least 2 reactants. GraphId: idd34e6970
+[HeterodimerAssociationReaction:idc6563a4a]	Reaction should contain at least 2 reactants. GraphId: idc6563a4a
+[HeterodimerAssociationReaction:id729f1047]	Reaction should contain at least 2 reactants. GraphId: id729f1047
+[HeterodimerAssociationReaction:id155e39e6]	Reaction should contain at least 2 reactants. GraphId: id155e39e6
+[HeterodimerAssociationReaction:idf6665851]	Reaction should contain at least 2 reactants. GraphId: idf6665851
+[HeterodimerAssociationReaction:idb7673c93]	Reaction should contain at least 2 reactants. GraphId: idb7673c93
+[HeterodimerAssociationReaction:id50a1dfd]	Reaction should contain at least 2 reactants. GraphId: id50a1dfd
+[HeterodimerAssociationReaction:id654e1754]	Reaction should contain at least 2 reactants. GraphId: id654e1754
+[HeterodimerAssociationReaction:id711b052a]	Reaction should contain at least 2 reactants. GraphId: id711b052a
+[Complex:dbcb5]	Empty element is invalid
+[Complex:a1343]	Empty element is invalid
+[Complex:a50c7]	Empty element is invalid
+[Complex:fdc26]	Empty element is invalid
+[Complex:b5b5c]	Empty element is invalid
+[Complex:fac64]	Empty element is invalid
+[Complex:d4eb1]	Empty element is invalid
+[Complex:a9d84]	Empty element is invalid
+[Complex:e448b]	Empty element is invalid
+[Complex:fc325]	Empty element is invalid
+[Complex:c37b0]	Empty element is invalid

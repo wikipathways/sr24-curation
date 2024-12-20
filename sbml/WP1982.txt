@@ -1,0 +1,82 @@
+Cellular Process
+Sterol regulatory element-binding proteins (SREBPs) are membrane-bound proteins that act as transcription factors. They regulate lipid, especially cholesterol, biosynthesis and uptake at a transcriptional level to maintain cellular lipid homeostasis. In addition, SREBP appears to be involved in a variety of other cellular processes. This pathway of SREBP focuses on the regulation of lipid metabolism by SREBP. The data on which this pathway is based, is derived from a variety of in vitro and in vivo studies using different species, including mouse, rat, hamster and human. 
+This pathway served as the basis for a review about SREBP that was published in Genes and Nutrition: [http://www.ncbi.nlm.nih.gov/pubmed/23516131 PubMed].
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP1982 CPTAC Assay Portal].
+
+[TRANSCRIPTION_TRANSLATION:id4ab9b60c]	Interaction is not connected
+[STIMULATION:id6e8c35e8]	Invalid interaction type.
+[MODIFICATION:idf0337d1d]	Invalid interaction type.
+[STIMULATION:id6b4471ff]	Invalid interaction type.
+[STIMULATION:idb40b5798]	Invalid interaction type.
+[LINE:id7a0d8e51]	Invalid interaction type.
+[LINE:e33e9]	Invalid interaction type.
+[LINE:b84e5]	Invalid interaction type.
+[STIMULATION:id16e66094]	Invalid interaction type.
+[LINE:id6bfcac8e]	Invalid interaction type.
+[LINE:idfcf18012]	Invalid interaction type.
+[STIMULATION:id341eda1a]	Invalid interaction type.
+[LINE:a64eb]	Invalid interaction type.
+[STIMULATION:id3becc809]	Invalid interaction type.
+[LINE:eaace]	Invalid interaction type.
+[LINE:idb64035fa]	Invalid interaction type.
+[LINE:id92c94eaf]	Invalid interaction type.
+[LINE:id59369fb2]	Invalid interaction type.
+[STIMULATION:id7051bf9d]	Invalid interaction type.
+[LINE:id432c05c1]	Invalid interaction type.
+[LINE:id76cbdd98]	Invalid interaction type.
+[LINE:iddd5f4a25]	Invalid interaction type.
+[STIMULATION:id90720e31]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:cb9ac]	Invalid interaction type.
+[LINE:id38324c84]	Invalid interaction type.
+[STIMULATION:id8d590471]	Invalid interaction type.
+[STIMULATION:id18e99419]	Invalid interaction type as an input to reaction.
+[STIMULATION:id9693d7ff]	Invalid interaction type as an input to reaction.
+[INHIBITION:id8a8565d5]	Invalid interaction type as an input to reaction.
+[STIMULATION:id6b06d6e4]	Invalid interaction type as an input to reaction.
+[INHIBITION:id58a6fa32]	Invalid interaction type as an input to reaction.
+[INHIBITION:id2c3cf9ec]	Invalid interaction type as an input to reaction.
+[STIMULATION:ida5921ba4]	Invalid interaction type as an input to reaction.
+[STIMULATION:iddb1b9c63]	Invalid interaction type as an input to reaction.
+[STIMULATION:id5c0cb21b]	Invalid interaction type as an input to reaction.
+[Label:cfeef]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:d9356]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:dbd64]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:ee1fa]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:d705d]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:ec5e9]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:d7664]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:bc181]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:b6757]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:f3aa7]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:b0f09]	 Label cannot be part of reaction. Tranforming to Unknown
+[COPII coated
+ vesicle:dedc1]	 Shape can not be part of reaction. Tranforming to Unknown
+[Lipoprotein metabolism:a9be0]	 Shape can not be part of reaction. Tranforming to Unknown
+[Lipogenic enzymes:b9bc1]	 Shape can not be part of reaction. Tranforming to Unknown
+[Cholesterogenic enzymes:a7b55]	 Shape can not be part of reaction. Tranforming to Unknown
+[HeterodimerAssociationReaction:idc8a242f]	Reaction should contain at least 2 reactants. GraphId: idc8a242f
+[PositiveInfluenceReaction:idf0337d1d]	Reaction should contain only one reactant and one product.
+[ReducedPhysicalStimulationReaction:idb40b5798]	Reacion was marked as reversible but it cannot be reversible
+[HeterodimerAssociationReaction:idcf65d37]	Reaction should contain at least 2 reactants. GraphId: idcf65d37
+[HeterodimerAssociationReaction:id8a5cf7ed]	Reaction should contain at least 2 reactants. GraphId: id8a5cf7ed
+[HeterodimerAssociationReaction:id15d89788]	Reaction should contain at least 2 reactants. GraphId: id15d89788
+[HeterodimerAssociationReaction:id6368955c]	Reaction should contain at least 2 reactants. GraphId: id6368955c
+[HeterodimerAssociationReaction:id8e1f5e79]	Reaction should contain at least 2 reactants. GraphId: id8e1f5e79
+[HeterodimerAssociationReaction:idabf83eaa]	Reaction should contain at least 2 reactants. GraphId: idabf83eaa
+[HeterodimerAssociationReaction:idd1b0017c]	Reaction should contain at least 2 reactants. GraphId: idd1b0017c
+[HeterodimerAssociationReaction:idf20fd96d]	Reaction should contain at least 2 reactants. GraphId: idf20fd96d
+[HeterodimerAssociationReaction:id1a728c5d]	Reaction should contain at least 2 reactants. GraphId: id1a728c5d
+[HeterodimerAssociationReaction:id1e5c48e8]	Reaction should contain at least 2 reactants. GraphId: id1e5c48e8
+[UnknownTransitionReaction:id7a0d8e51]	Self loops are not supported. Removing
+[UnknownTransitionReaction:a64eb]	Self loops are not supported. Removing
+[UnknownTransitionReaction:idb64035fa]	Self loops are not supported. Removing
+[UnknownTransitionReaction:id432c05c1]	Self loops are not supported. Removing
+[UnknownTransitionReaction:eaace]	Self loops are not supported. Removing
+[UnknownTransitionReaction:iddd5f4a25]	Self loops are not supported. Removing
+[UnknownTransitionReaction:id59369fb2]	Self loops are not supported. Removing
+[UnknownTransitionReaction:idfcf18012]	Self loops are not supported. Removing
+[UnknownTransitionReaction:id92c94eaf]	Self loops are not supported. Removing
+[UnknownTransitionReaction:b84e5]	Self loops are not supported. Removing
+[UnknownTransitionReaction:id38324c84]	Self loops are not supported. Removing
+[UnknownTransitionReaction:e33e9]	Self loops are not supported. Removing

@@ -1,0 +1,249 @@
+The folic acid-centred micronutrient biological network. The most relevant biochemical processes related to folic acid in the context of metabolism, oxidation and inflammation are represented. Also, the compartmental separation (intracellular vs. plasma) is presented, identifying the folic acid centred plasma metabolome.
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP176 CPTAC Assay Portal]
+
+[-:-]	Unknown gpml interaction type: LigandRound
+[-:-]	Unknown gpml interaction type: Receptor
+[-:-]	Unknown gpml interaction type: Receptor
+[-:-]	Unknown gpml interaction type: Receptor
+[-:-]	Unknown node in line: Comment
+[-:-]	Unknown gpml interaction type: LigandRound
+[-:-]	Unknown gpml interaction type: Receptor
+[-:-]	Unknown gpml interaction type: Receptor
+[-:-]	Unknown gpml interaction type: LigandRound
+[-:-]	Unknown node in line: Comment
+[-:-]	Unknown node in line: Comment
+[-:-]	Unknown gpml interaction type: LigandRound
+[-:-]	Unknown gpml interaction type: LigandRound
+[-:-]	Unknown gpml interaction type: Receptor
+[-:-]	Unknown gpml interaction type: LigandRound
+[-:-]	Unknown gpml interaction type: Receptor
+[-:-]	Unknown gpml interaction type: Receptor
+[-:-]	Unknown gpml interaction type: LigandRound
+[-:-]	Unknown gpml interaction type: LigandRound
+[-:-]	Unknown gpml interaction type: LigandRound
+[-:-]	Unknown gpml interaction type: Receptor
+[-:-]	Unknown gpml interaction type: Receptor
+[-:-]	Unknown gpml interaction type: Receptor
+[-:-]	Unknown gpml interaction type: LigandRound
+[-:-]	Unknown gpml interaction type: Receptor
+[-:-]	Unknown gpml interaction type: Receptor
+[-:-]	Unknown gpml interaction type: LigandRound
+[-:-]	Unknown gpml interaction type: LigandRound
+[-:-]	Unknown gpml interaction type: LigandRound
+[-:-]	Unknown gpml interaction type: Receptor
+[-:-]	Unknown gpml interaction type: LigandRound
+[-:-]	Unknown gpml interaction type: Receptor
+[-:-]	Unknown gpml interaction type: Receptor
+[-:-]	Unknown gpml interaction type: LigandRound
+[-:-]	Unknown gpml interaction type: LigandRound
+[STIMULATION:a0613]	Interaction is not connected
+[ARROW:ed634]	Interaction is not connected
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[LINE:a51a2]	Invalid interaction type.
+[LINE:e558b]	Invalid interaction type.
+[LINE:f1dff]	Invalid interaction type.
+[LINE:efbb2]	Invalid interaction type.
+[LINE:a3b5b]	Invalid interaction type.
+[LINE:dbb90]	Invalid interaction type.
+[LINE:b318a]	Invalid interaction type.
+[STIMULATION:c7490]	Invalid interaction type.
+[LINE:e4a34]	Invalid interaction type.
+[STIMULATION:b74cd]	Invalid interaction type.
+[LINE:ad82b]	Invalid interaction type.
+[LINE:a1eb7]	Invalid interaction type.
+[LINE:ed0cf]	Invalid interaction type.
+[STIMULATION:b5007]	Invalid interaction type.
+[LINE:e4b44]	Invalid interaction type.
+[LINE:e6d26]	Invalid interaction type.
+[LINE:aad44]	Invalid interaction type.
+[LINE:f3f61]	Invalid interaction type.
+[MODIFICATION:cb841]	Invalid interaction type.
+[LINE:a9c42]	Invalid interaction type.
+[STIMULATION:e3fbe]	Invalid interaction type.
+[STIMULATION:fb32b]	Invalid interaction type.
+[LINE:e23a1]	Invalid interaction type.
+[LINE:c172a]	Invalid interaction type.
+[LINE:c53a8]	Invalid interaction type.
+[LINE:cef3e]	Invalid interaction type.
+[STIMULATION:a8abe]	Invalid interaction type.
+[LINE:d4e25]	Invalid interaction type.
+[LINE:f5d66]	Invalid interaction type.
+[LINE:e1195]	Invalid interaction type.
+[LINE:a4603]	Invalid interaction type.
+[LINE:a5a1c]	Invalid interaction type.
+[LINE:e54cf]	Invalid interaction type.
+[STIMULATION:d72f6]	Invalid interaction type.
+[LINE:cac4e]	Invalid interaction type.
+[STIMULATION:b0164]	Invalid interaction type.
+[STIMULATION:c5279]	Invalid interaction type.
+[LINE:ff2e8]	Invalid interaction type.
+[LINE:bf21a]	Invalid interaction type.
+[MODIFICATION:e29ef]	Invalid interaction type.
+[LINE:a0a01]	Invalid interaction type.
+[STIMULATION:b2575]	Invalid interaction type.
+[LINE:fcb90]	Invalid interaction type.
+[STIMULATION:f0488]	Invalid interaction type.
+[MODIFICATION:c3e34]	Invalid interaction type.
+[LINE:a02ac]	Invalid interaction type.
+[STIMULATION:aaecf]	Invalid interaction type.
+[TBAR:eca3a]	Invalid interaction type.
+[LINE:f2e21]	Invalid interaction type.
+[LINE:d5659]	Invalid interaction type.
+[LINE:c625f]	Invalid interaction type.
+[LINE:dac9d]	Invalid interaction type.
+[LINE:b2ae1]	Invalid interaction type.
+[MODIFICATION:f457b]	Invalid interaction type.
+[LINE:af294]	Invalid interaction type.
+[STIMULATION:be66c]	Invalid interaction type.
+[LINE:d7dca]	Invalid interaction type.
+[TBAR:b66ba]	Invalid interaction type.
+[LINE:cd7b3]	Invalid interaction type.
+[STIMULATION:aee0f]	Invalid interaction type.
+[LINE:f78dc]	Invalid interaction type.
+[LINE:d8667]	Invalid interaction type.
+[STIMULATION:a96e9]	Invalid interaction type.
+[LINE:eb727]	Invalid interaction type.
+[LINE:a68b8]	Invalid interaction type.
+[LINE:fa639]	Invalid interaction type.
+[LINE:adba7]	Invalid interaction type.
+[MODIFICATION:d8574]	Invalid interaction type.
+[STIMULATION:c2ed3]	Invalid interaction type.
+[LINE:b2a6d]	Invalid interaction type.
+[STIMULATION:c4ba7]	Invalid interaction type.
+[LINE:e7e4c]	Invalid interaction type.
+[LINE:aabd6]	Invalid interaction type.
+[STIMULATION:a6fb7]	Invalid interaction type.
+[LINE:f3450]	Invalid interaction type.
+[LINE:f17ad]	Invalid interaction type.
+[LINE:fc2dd]	Invalid interaction type.
+[LINE:af7a6]	Invalid interaction type.
+[MODIFICATION:bc3ed]	Invalid interaction type.
+[LINE:ea803]	Invalid interaction type.
+[LINE:abefe]	Invalid interaction type.
+[LINE:a9e4a]	Invalid interaction type.
+[LINE:a9f6c]	Invalid interaction type.
+[LINE:ae60e]	Invalid interaction type.
+[STIMULATION:edf3c]	Invalid interaction type.
+[STIMULATION:d1d1e]	Invalid interaction type.
+[LINE:c5e56]	Invalid interaction type.
+[LINE:cecdb]	Invalid interaction type.
+[STIMULATION:c0cb7]	Invalid interaction type.
+[MODIFICATION:d2dac]	Invalid interaction type.
+[LINE:f616f]	Invalid interaction type.
+[STIMULATION:fc57f]	Invalid interaction type.
+[LINE:bd2d2]	Invalid interaction type.
+[LINE:c8299]	Invalid interaction type.
+[LINE:a10d4]	Invalid interaction type.
+[BINDING:c29ae]	Invalid interaction type as an input to reaction.
+[BINDING:cf629]	Invalid interaction type as an input to reaction.
+[MODIFICATION:c1add]	Invalid interaction type "MODIFICATION" as an output from reaction.
+[TBAR:b5c32]	Invalid interaction type "TBAR" as an output from reaction.
+[CATALYSIS:d33d2]	Interaction edge is invalid (one end is not connected).
+[TBAR:ca0b4]	Invalid interaction type "TBAR" as an output from reaction.
+[ARROW:afe52]	Interaction edge is invalid (one end is not connected).
+[LINE:a7488]	Interaction edge is invalid (one end is not connected).
+[BINDING:fc170]	Invalid interaction type as an input to reaction.
+[STIMULATION:cff9f]	Interaction can not connect two anchors.
+[STIMULATION:edd2d]	Invalid interaction type "STIMULATION" as an output from reaction.
+[BINDING:be21b]	Invalid interaction type as an input to reaction.
+[STIMULATION:d3a56]	Interaction can not connect two anchors.
+[BINDING:ec88a]	Invalid interaction type as an input to reaction.
+[BINDING:e35dd]	Invalid interaction type as an input to reaction.
+[BioPax:b89]	No pubmed identifier defined for publication: title: Food and Nutrition Board, Institute of Medicine. Vitamin B6. Dietary Reference Intakes: Thiamin, Riboflavin, Niacin, Vitamin B6, Vitamin B12, Pantothenic Acid, Biotin, and Choline.
+[BioPax:ff2]	No pubmed identifier defined for publication: title: Arachidonic Acid Metabolism
+[BioPax:b83]	No pubmed identifier defined for publication: title: Folic acid
+[BioPax:e80]	No pubmed identifier defined for publication: title: Vitamin B 6
+[BioPax:ec3]	No pubmed identifier defined for publication: title: Selenoproteins
+[BioPax:a49]	No pubmed identifier defined for publication: title: Binding of Pyridoxal 5'-Phosphate to the Heme Protein Human Cystathionine -Synthase
+[BioPax:f96]	No pubmed identifier defined for publication: title: Prostaglandin and Leukotriene Metabolism
+[BiopaxReference:fa3]	Biopax publication doesn't exist.
+[BiopaxReference:fa3]	Biopax publication doesn't exist.
+[BiopaxReference:fa3]	Biopax publication doesn't exist.
+[BiopaxReference:fa3]	Biopax publication doesn't exist.
+[BiopaxReference:fa3]	Biopax publication doesn't exist.
+[BiopaxReference:fa3]	Biopax publication doesn't exist.
+[BiopaxReference:fa3]	Biopax publication doesn't exist.
+[:cd5c3]	 Shape can not be part of reaction. Tranforming to Unknown
+[:bc516]	 Shape can not be part of reaction. Tranforming to Unknown
+[:d75c8]	 Shape can not be part of reaction. Tranforming to Unknown
+[:ad90b]	 Shape can not be part of reaction. Tranforming to Unknown
+[:dbbb7]	 Shape can not be part of reaction. Tranforming to Unknown
+[:b69bc]	 Shape can not be part of reaction. Tranforming to Unknown
+[:af4c3]	 Shape can not be part of reaction. Tranforming to Unknown
+[:d9678]	 Shape can not be part of reaction. Tranforming to Unknown
+[:a5d61]	 Shape can not be part of reaction. Tranforming to Unknown
+[:e4060]	 Shape can not be part of reaction. Tranforming to Unknown
+[:ade80]	 Shape can not be part of reaction. Tranforming to Unknown
+[HeterodimerAssociationReaction:de20f]	Reaction should contain at least 2 reactants. GraphId: de20f
+[HeterodimerAssociationReaction:eb741]	Reaction should contain at least 2 reactants. GraphId: eb741
+[HeterodimerAssociationReaction:dff04]	Reaction should contain at least 2 reactants. GraphId: dff04
+[HeterodimerAssociationReaction:cbd37]	Reaction should contain at least 2 reactants. GraphId: cbd37
+[NegativeInfluenceReaction:b71a9]	Reaction should contain only one reactant and one product.
+[HeterodimerAssociationReaction:ef96d]	Reaction should contain at least 2 reactants. GraphId: ef96d
+[HeterodimerAssociationReaction:ce33d]	Reaction should contain at least 2 reactants. GraphId: ce33d
+[PositiveInfluenceReaction:d2dac]	Reaction should contain only one reactant and one product.
+[HeterodimerAssociationReaction:f28c2]	Reaction should contain at least 2 reactants. GraphId: f28c2

@@ -1,0 +1,35 @@
+
+
+Metabolic Process
+An electron transport chain(ETC) couples a chemical reaction between an electron donor (such as NADH) and an electron acceptor (such as O2) to the transfer of H+ ions across a membrane, through a set of mediating biochemical reactions. These H+ ions are used to produce adenosine triphosphate (ATP), the main energy intermediate in living organisms, as they move back across the membrane. 
+In mitochondria, it is the conversion of oxygen to water, NADH to NAD+ and succinate to fumarate that drives the transfer of H+ ions.
+Source: Wikipedia ([[wikipedia:Electron_transport_chain]])
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP111 CPTAC Assay Portal]
+
+[ARROW:a0b32]	Curved connections are not supported.
+[ARROW:b0e4a]	Curved connections are not supported.
+[ARROW:b17ae]	Curved connections are not supported.
+[-:-]	Unknown gpml interaction type: mim-translocation
+[-:-]	Unknown gpml interaction type: mim-translocation
+[ARROW:b92fd]	Curved connections are not supported.
+[-:-]	Unknown gpml interaction type: mim-translocation
+[ARROW:c4d38]	Curved connections are not supported.
+[ARROW:cdee2]	Curved connections are not supported.
+[-:-]	Unknown gpml interaction type: mim-translocation
+[ARROW:da1d5]	Curved connections are not supported.
+[ARROW:dbdc8]	Curved connections are not supported.
+[ARROW:e0a8b]	Curved connections are not supported.
+[-:-]	Unknown gpml interaction type: mim-translocation
+[ARROW:f713d]	Curved connections are not supported.
+[ARROW:fa8bc]	Curved connections are not supported.
+[-:-]	Unknown gpml interaction type: mim-translocation
+[ARROW:id86f308da]	Curved connections are not supported.
+[LINE:iddb4b9fa]	Curved connections are not supported.
+[LINE:iddb4b9fa]	Interaction is not connected
+[LINE:d057a]	Invalid interaction type.
+[LINE:fee15]	Invalid interaction type.
+[LINE:f52f4]	Invalid interaction type.
+[LINE:b2b00]	Invalid interaction type.
+[LINE:c243a]	Invalid interaction type.
+[LINE:b3d7d]	Invalid interaction type.

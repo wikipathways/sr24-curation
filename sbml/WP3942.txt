@@ -1,0 +1,36 @@
+Cellular Process
+Peroxisome proliferator-activated receptors (PPARs) are nuclear hormone receptors that are activated by fatty acids and their derivatives. PPAR has three subtypes (PPARalpha, beta/delta, and gamma) showing different expression patterns in vertebrates. Each of them is encoded in a separate gene and binds fatty acids and eicosanoids. PPARalpha plays a role in the clearance of circulating or cellular lipids via the regulation of gene expression involved in lipid metabolism in liver and skeletal muscle. PPARbeta/delta is involved in lipid oxidation and cell proliferation. PPARgamma promotes adipocyte differentiation to enhance blood glucose uptake.
+
+Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP3942 CPTAC Assay Portal]
+This pathway was inferred from Mus musculus pathway "PPAR signaling pathway", WP2316 revision 69143, with a 92.0% conversion rate.
+
+[TRANSCRIPTION_TRANSLATION:f7b06]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:bbd4f]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:de65b]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:d4537]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:b7c85]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:b2fd9]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:ef92b]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:e84ca]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:idfd9ee507]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:ecd75]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:ec99e]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:b1f6e]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:eaaea]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:ab94a]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:f4b03]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:b4383]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:c3794]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:f54f9]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:b862c]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:cf710]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:f5a3e]	Invalid interaction type.
+[Label:aa44b]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:c5522]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:c3d78]	 Label cannot be part of reaction. Tranforming to Unknown
+[UnknownPositiveInfluenceReaction:c5cb9]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:ac886]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:idc0f50852]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:ef236]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:eb591]	Reaction should contain only one reactant and one product.
+[UnknownPositiveInfluenceReaction:c120f]	Reaction should contain only one reactant and one product.

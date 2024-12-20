@@ -1,0 +1,132 @@
+Nonalcoholic fatty liver disease (NAFLD) is a condition in which too much fat is stored in the liver. Nonalcoholic steatohepatitis (NASH) is a type of NAFLD marked by liver inflammation, which may progress to scarring and irreversible damage similar to that caused by heavy alcohol use. Components of glucose matabolism, insulin signaling, inflammation, oxidative stress, ER sgtress and apoptosis are all involved and interconnected in the progression of this disease.
+
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_0
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_1
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_2
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_3
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_4
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_5
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_6
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_7
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_8
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_9
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_10
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_11
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_12
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_13
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_14
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_15
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_16
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_17
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_18
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_19
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_20
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_21
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_22
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_23
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_24
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_25
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_26
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_27
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_28
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_29
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_30
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_31
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_32
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_33
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_34
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_35
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_36
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_37
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_38
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_39
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_40
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_41
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_42
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_43
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_44
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_45
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_46
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_47
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_48
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_49
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_50
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_51
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_52
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_53
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_54
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_55
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_56
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_57
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_58
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_59
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_60
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_61
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_62
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_63
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_64
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_65
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_66
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_67
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_68
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_69
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_70
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_71
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_72
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_73
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_74
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_75
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_76
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_77
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_78
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_79
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_80
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_81
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_82
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_83
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_84
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_85
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_86
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_87
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_88
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_89
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_90
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_91
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_92
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_93
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_94
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_95
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_96
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_97
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_98
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_99
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_100
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_101
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_102
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_103
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_104
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_105
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_106
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_107
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_108
+[DataNode:-]	Empty GraphId found. Replacing with: gen_dn_109
+[TRANSCRIPTION_TRANSLATION:idc50aa366]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:id53d756bb]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:idc30e3d92]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:id215eb52d]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:id486a1990]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:id66fa8f78]	Invalid interaction type.
+[TRANSCRIPTION_TRANSLATION:id84be161f]	Invalid interaction type.
+[Label:a206d]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:c79ea]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:f75a6]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:dc678]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:ef1c9]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:e6f89]	 Label cannot be part of reaction. Tranforming to Unknown
+[Mitochondria:a3184]	 Shape can not be part of reaction. Tranforming to Unknown
+[HeterodimerAssociationReaction:idf3b58184]	Reaction should contain at least 2 reactants. GraphId: idf3b58184
+[HeterodimerAssociationReaction:id1d92c355]	Reaction should contain at least 2 reactants. GraphId: id1d92c355
+[HeterodimerAssociationReaction:id32579e10]	Reaction should contain at least 2 reactants. GraphId: id32579e10
+[HeterodimerAssociationReaction:idf4012931]	Reaction should contain at least 2 reactants. GraphId: idf4012931
+[HeterodimerAssociationReaction:id401f274b]	Reaction should contain at least 2 reactants. GraphId: id401f274b
+[HeterodimerAssociationReaction:idce61d08c]	Reaction should contain at least 2 reactants. GraphId: idce61d08c

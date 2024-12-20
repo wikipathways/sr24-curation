@@ -1,0 +1,125 @@
+Taken from KEGG: Glycosaminoglycan degradation - Homo sapiens (human) [https://www.genome.jp/kegg-bin/show_pathway?hsa00531].
+
+Some genes such as NAGZ could not be found, these have been left on the diagram as unannotated GeneProducts.
+
+Linked with a dotted arrow to the GeneProduct nodes are diseases caused by mutation in the respective gene.
+
+[-:-]	Unknown node in line: Anchor
+[-:-]	Unknown node in line: Anchor
+[-:-]	Unknown node in line: Anchor
+[LINE:idef813c68]	Invalid interaction type.
+[LINE:id9c92d9c]	Invalid interaction type.
+[LINE:idd0980eda]	Invalid interaction type.
+[LINE:id16988fa7]	Invalid interaction type.
+[LINE:idb007170]	Invalid interaction type.
+[LINE:idbb44a8c]	Invalid interaction type.
+[LINE:ide18b0753]	Invalid interaction type.
+[LINE:d64d3]	Invalid interaction type.
+[LINE:idb574f8fe]	Invalid interaction type.
+[LINE:idea1a6e21]	Invalid interaction type.
+[LINE:idd1ecf1c7]	Invalid interaction type.
+[LINE:id1b2f7122]	Invalid interaction type.
+[LINE:id17af408d]	Invalid interaction type.
+[LINE:id76db6a84]	Invalid interaction type.
+[LINE:idd965a229]	Invalid interaction type.
+[LINE:id2a6f471f]	Invalid interaction type.
+[LINE:id22424eca]	Invalid interaction type.
+[LINE:id599e87c2]	Invalid interaction type.
+[LINE:id217a55aa]	Invalid interaction type.
+[LINE:idc00af1d1]	Invalid interaction type.
+[LINE:ide97d7ccf]	Invalid interaction type.
+[LINE:idb9b57e34]	Invalid interaction type.
+[LINE:idaf57f8e]	Invalid interaction type.
+[LINE:idc6b74a14]	Invalid interaction type.
+[LINE:id20c8db1d]	Invalid interaction type.
+[LINE:idd559940d]	Invalid interaction type.
+[LINE:id227c03b]	Invalid interaction type.
+[CLEAVAGE:id41e5df5b]	Invalid interaction type as an input to reaction.
+[CLEAVAGE:id3877da9d]	Invalid interaction type as an input to reaction.
+[TBAR:id41d2df86]	Interaction edge is invalid (one end is not connected).
+[CLEAVAGE:id94fbe496]	Invalid interaction type as an input to reaction.
+[CLEAVAGE:id1012ead6]	Invalid interaction type as an input to reaction.
+[CLEAVAGE:idd54a3450]	Invalid interaction type as an input to reaction.
+[CLEAVAGE:ida8f0adf]	Invalid interaction type as an input to reaction.
+[CLEAVAGE:id339267ce]	Invalid interaction type as an input to reaction.
+[CLEAVAGE:id4f7861e]	Invalid interaction type as an input to reaction.
+[CLEAVAGE:ida9876c39]	Invalid interaction type as an input to reaction.
+[CLEAVAGE:idd4958a78]	Invalid interaction type as an input to reaction.
+[CLEAVAGE:idd3931859]	Invalid interaction type as an input to reaction.
+[CLEAVAGE:id6c3d6888]	Invalid interaction type as an input to reaction.
+[CLEAVAGE:idf90f2b67]	Invalid interaction type as an input to reaction.
+[CLEAVAGE:id9b95a913]	Invalid interaction type as an input to reaction.
+[CLEAVAGE:idc12715b9]	Interaction edge is invalid (one end is not connected).
+[CLEAVAGE:id72b436c8]	Invalid interaction type as an input to reaction.
+[CLEAVAGE:id5d4c63ad]	Invalid interaction type as an input to reaction.
+[CLEAVAGE:id2a45656]	Invalid interaction type as an input to reaction.
+[CLEAVAGE:id4ebaed92]	Invalid interaction type as an input to reaction.
+[CLEAVAGE:id93c75f54]	Invalid interaction type as an input to reaction.
+[Label:a3dfb]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:b3120]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:be249]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:f7d7a]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:f16e8]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:a3754]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:b6c38]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:fef83]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:a99db]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:f31e0]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:e4cca]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:fdcc4]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:a0a58]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:c5917]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:a54f2]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:dae82]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:fa677]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:c142d]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:cf378]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:d1ca8]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:b1eb5]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:cc424]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:dd6cf]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:da886]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:c62ea]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:abff9]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:bc394]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:c740c]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:c3229]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:ae56f]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:b340a]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:d535f]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:e1811]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:b251c]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:fa0e6]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:b89b1]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:d96f0]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:f2222]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:ad499]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:f3110]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:b3336]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:ded18]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:f3ea6]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:ca3a0]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:c644c]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:d4158]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:f1136]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:cab41]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:bd1de]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:b9da7]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:aeacf]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:b40fb]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:b8df0]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:d322a]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:c0686]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:a7fd5]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:d58ef]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:c051f]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:db559]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:a9fea]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:dbdc3]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:e1091]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:c6fad]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:de785]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:f0ca2]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:cbbfa]	 Label cannot be part of reaction. Tranforming to Unknown
+[Complex:cf069]	Empty element is invalid
+[Complex:f6373]	Empty element is invalid

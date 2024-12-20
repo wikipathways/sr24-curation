@@ -1,0 +1,7 @@
+Amino acid metabolism in triple-negative breast cancer cells. The glutamine, serine and glycine metabolic pathways are significantly upregulated. The upregulated expression of key genes within the glutamine, serine and glycine metabolic pathways have also been observed in triple-negative breast cancer cells
+Associated to the main shuttles described in figure 43.2 in the second edition of "Physician’s Guide to the Diagnosis, Treatment, and Follow-Up of Inherited Metabolic Diseases" by Blau et al.
+Reflecting the pathway as shown in Figure 43.2 of Blau et al. "Physician’s guide to the diagnosis, treatment, and follow-up of inherited metabolic diseases"
+
+[Label:f4295]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:f468c]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:cf2b7]	 Label cannot be part of reaction. Tranforming to Unknown
