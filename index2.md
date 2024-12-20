@@ -6,7 +6,7 @@
 
 Read more about why these fails happen and how to fix them in these [instructions](https://www.wikipathways.org/WikiPathwaysCurator/ReferencesTests/atLeastOneReference).
 
-[WP143](reports/WP143#at-least-one-reference) [WP4022](reports/WP4022#at-least-one-reference) [WP477](reports/WP477#at-least-one-reference) [WP4815](reports/WP4815#at-least-one-reference) [WP5506](reports/WP5506#at-least-one-reference) 
+[WP477](reports/WP477#at-least-one-reference) [WP4815](reports/WP4815#at-least-one-reference) [WP5506](reports/WP5506#at-least-one-reference) 
 
 ## ChEBI identifier without a match in Wikidata
 
@@ -32,11 +32,7 @@ Read more about why these fails happen and how to fix them in these [instruction
 
 ## IEMPathwayTests.allMetabolitesInteract
 
-[WP111](reports/WP111#iempathwaytestsallmetabolitesinteract) [WP143](reports/WP143#iempathwaytestsallmetabolitesinteract) [WP176](reports/WP176#iempathwaytestsallmetabolitesinteract) [WP1982](reports/WP1982#iempathwaytestsallmetabolitesinteract) [WP3925](reports/WP3925#iempathwaytestsallmetabolitesinteract) [WP3942](reports/WP3942#iempathwaytestsallmetabolitesinteract) [WP4022](reports/WP4022#iempathwaytestsallmetabolitesinteract) [WP430](reports/WP430#iempathwaytestsallmetabolitesinteract) [WP4341](reports/WP4341#iempathwaytestsallmetabolitesinteract) [WP4396](reports/WP4396#iempathwaytestsallmetabolitesinteract) [WP4718](reports/WP4718#iempathwaytestsallmetabolitesinteract) [WP4917](reports/WP4917#iempathwaytestsallmetabolitesinteract) [WP4920](reports/WP4920#iempathwaytestsallmetabolitesinteract) [WP4922](reports/WP4922#iempathwaytestsallmetabolitesinteract) [WP5083](reports/WP5083#iempathwaytestsallmetabolitesinteract) [WP5112](reports/WP5112#iempathwaytestsallmetabolitesinteract) [WP5173](reports/WP5173#iempathwaytestsallmetabolitesinteract) [WP5176](reports/WP5176#iempathwaytestsallmetabolitesinteract) [WP5178](reports/WP5178#iempathwaytestsallmetabolitesinteract) [WP5504](reports/WP5504#iempathwaytestsallmetabolitesinteract) [WP5507](reports/WP5507#iempathwaytestsallmetabolitesinteract) [WP561](reports/WP561#iempathwaytestsallmetabolitesinteract) 
-
-## IEMPathwayTests.catalystsWithCommonDataSource
-
-[WP4022](reports/WP4022#iempathwaytestscatalystswithcommondatasource) 
+[WP111](reports/WP111#iempathwaytestsallmetabolitesinteract) [WP143](reports/WP143#iempathwaytestsallmetabolitesinteract) [WP176](reports/WP176#iempathwaytestsallmetabolitesinteract) [WP1982](reports/WP1982#iempathwaytestsallmetabolitesinteract) [WP3925](reports/WP3925#iempathwaytestsallmetabolitesinteract) [WP3942](reports/WP3942#iempathwaytestsallmetabolitesinteract) [WP4022](reports/WP4022#iempathwaytestsallmetabolitesinteract) [WP430](reports/WP430#iempathwaytestsallmetabolitesinteract) [WP4341](reports/WP4341#iempathwaytestsallmetabolitesinteract) [WP4396](reports/WP4396#iempathwaytestsallmetabolitesinteract) [WP4718](reports/WP4718#iempathwaytestsallmetabolitesinteract) [WP4917](reports/WP4917#iempathwaytestsallmetabolitesinteract) [WP4920](reports/WP4920#iempathwaytestsallmetabolitesinteract) [WP4922](reports/WP4922#iempathwaytestsallmetabolitesinteract) [WP5083](reports/WP5083#iempathwaytestsallmetabolitesinteract) [WP5112](reports/WP5112#iempathwaytestsallmetabolitesinteract) [WP5173](reports/WP5173#iempathwaytestsallmetabolitesinteract) [WP5176](reports/WP5176#iempathwaytestsallmetabolitesinteract) [WP5178](reports/WP5178#iempathwaytestsallmetabolitesinteract) [WP5504](reports/WP5504#iempathwaytestsallmetabolitesinteract) [WP5506](reports/WP5506#iempathwaytestsallmetabolitesinteract) [WP5507](reports/WP5507#iempathwaytestsallmetabolitesinteract) [WP561](reports/WP561#iempathwaytestsallmetabolitesinteract) 
 
 ## IEMPathwayTests.metabolicConversionIdentifiersCommon
 
@@ -50,9 +46,17 @@ Read more about why these fails happen and how to fix them in these [instruction
 
 [WP1982](reports/WP1982#interactiontestsinteractionswithlabels) [WP2884](reports/WP2884#interactiontestsinteractionswithlabels) [WP4290](reports/WP4290#interactiontestsinteractionswithlabels) [WP4324](reports/WP4324#interactiontestsinteractionswithlabels) [WP4341](reports/WP4341#interactiontestsinteractionswithlabels) [WP4396](reports/WP4396#interactiontestsinteractionswithlabels) [WP4705](reports/WP4705#interactiontestsinteractionswithlabels) [WP4784](reports/WP4784#interactiontestsinteractionswithlabels) [WP4815](reports/WP4815#interactiontestsinteractionswithlabels) [WP5083](reports/WP5083#interactiontestsinteractionswithlabels) [WP5173](reports/WP5173#interactiontestsinteractionswithlabels) [WP5176](reports/WP5176#interactiontestsinteractionswithlabels) [WP5178](reports/WP5178#interactiontestsinteractionswithlabels) [WP5504](reports/WP5504#interactiontestsinteractionswithlabels) [WP5506](reports/WP5506#interactiontestsinteractionswithlabels) 
 
+## InteractionTests.nonNumericIDs
+
+[WP5506](reports/WP5506#interactiontestsnonnumericids) 
+
 ## MetabolitesTests.tooManyInChIKeys
 
-[WP111](reports/WP111#metabolitesteststoomanyinchikeys) [WP143](reports/WP143#metabolitesteststoomanyinchikeys) [WP176](reports/WP176#metabolitesteststoomanyinchikeys) [WP4022](reports/WP4022#metabolitesteststoomanyinchikeys) [WP4156](reports/WP4156#metabolitesteststoomanyinchikeys) [WP4290](reports/WP4290#metabolitesteststoomanyinchikeys) [WP4784](reports/WP4784#metabolitesteststoomanyinchikeys) [WP4922](reports/WP4922#metabolitesteststoomanyinchikeys) [WP5083](reports/WP5083#metabolitesteststoomanyinchikeys) [WP5176](reports/WP5176#metabolitesteststoomanyinchikeys) [WP561](reports/WP561#metabolitesteststoomanyinchikeys) 
+[WP111](reports/WP111#metabolitesteststoomanyinchikeys) [WP143](reports/WP143#metabolitesteststoomanyinchikeys) [WP176](reports/WP176#metabolitesteststoomanyinchikeys) [WP4022](reports/WP4022#metabolitesteststoomanyinchikeys) [WP4156](reports/WP4156#metabolitesteststoomanyinchikeys) [WP4290](reports/WP4290#metabolitesteststoomanyinchikeys) [WP4784](reports/WP4784#metabolitesteststoomanyinchikeys) [WP4922](reports/WP4922#metabolitesteststoomanyinchikeys) [WP5083](reports/WP5083#metabolitesteststoomanyinchikeys) [WP5176](reports/WP5176#metabolitesteststoomanyinchikeys) [WP5506](reports/WP5506#metabolitesteststoomanyinchikeys) [WP561](reports/WP561#metabolitesteststoomanyinchikeys) 
+
+## PathwayTests.testRoundedRectangle
+
+[WP5504](reports/WP5504#pathwayteststestroundedrectangle) 
 
 ## Possible MIM translocation
 
