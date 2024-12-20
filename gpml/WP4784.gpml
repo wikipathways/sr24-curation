@@ -340,7 +340,7 @@ For further details, see [https://www.ncbi.nlm.nih.gov/pubmed/31286677].</Commen
     <BiopaxRef>ad3</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="929.8386220159713" Y="1089.1461857751096" GraphRef="a3e54" RelX="1.0" RelY="0.0" />
-      <Point X="1139.0404280164905" Y="1089.1461857751096" GraphRef="da842" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="1139.0404280164905" Y="1089.1461857751096" GraphRef="da842" RelX="-1.0" RelY="0.0" ArrowHead="mim-translocation" />
       <Anchor Position="0.4" Shape="None" GraphId="d2a66" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -437,7 +437,7 @@ For further details, see [https://www.ncbi.nlm.nih.gov/pubmed/31286677].</Commen
     <BiopaxRef>ac7</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="656.0501066098067" Y="1120.4157782515992" GraphRef="ccbd0" RelX="-1.0" RelY="0.0" />
-      <Point X="489.3834399431411" Y="1120.4157782515992" GraphRef="e7adc" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="489.3834399431411" Y="1120.4157782515992" GraphRef="e7adc" RelX="1.0" RelY="0.0" ArrowHead="mim-translocation" />
       <Anchor Position="0.4" Shape="None" GraphId="db1b9" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -535,7 +535,7 @@ For further details, see [https://www.ncbi.nlm.nih.gov/pubmed/31286677].</Commen
     <BiopaxRef>ac7</BiopaxRef>
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="499.9786780383787" Y="1089.1461857751096" GraphRef="a796a" RelX="1.0" RelY="0.0" />
-      <Point X="645.4548685145685" Y="1089.1461857751096" GraphRef="ef69c" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="645.4548685145685" Y="1089.1461857751096" GraphRef="ef69c" RelX="-1.0" RelY="0.0" ArrowHead="mim-translocation" />
       <Anchor Position="0.4" Shape="None" GraphId="e2c5e" />
     </Graphics>
     <Xref Database="" ID="" />
