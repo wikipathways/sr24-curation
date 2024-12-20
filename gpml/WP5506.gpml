@@ -3,13 +3,13 @@
   <Comment Source="WikiPathways-description">Disorders of Niacin and NAD Metabolism
 
 </Comment>
-  <Graphics BoardWidth="897.0" BoardHeight="580.0" />
+  <Graphics BoardWidth="885.0" BoardHeight="580.0" />
   <DataNode TextLabel="NAD(P)HX epimerase&#xA;" GraphId="c73e9" Type="GeneProduct">
     <Graphics CenterX="399.5" CenterY="439.25" Width="141.0" Height="45.5" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Ensembl" ID="ENSG00000163382" />
   </DataNode>
   <DataNode TextLabel="NAD&#xA;SYNTHETASE 1" GraphId="c9255" Type="GeneProduct">
-    <Graphics CenterX="281.25" CenterY="149.25" Width="125.5" Height="41.5" ZOrder="32768" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="327.25" CenterY="137.25" Width="125.5" Height="41.5" ZOrder="32768" FontSize="12" Valign="Middle" />
     <Xref Database="Ensembl" ID="ENSG00000172890" />
   </DataNode>
   <DataNode TextLabel="NAD(+)" GraphId="ec136" Type="Metabolite">
@@ -18,7 +18,7 @@
   </DataNode>
   <DataNode TextLabel="deamido-NAD(+)" GraphId="f5fa5" Type="Metabolite">
     <Comment>nicotinate adenine dinucleotide</Comment>
-    <Graphics CenterX="407.375" CenterY="101.625" Width="125.25" Height="32.75" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Graphics CenterX="235.375" CenterY="203.625" Width="125.25" Height="32.75" ZOrder="32768" FontSize="12" Valign="Middle" Color="0000ff" />
     <Xref Database="ChEBI" ID="CHEBI:18304" />
   </DataNode>
   <DataNode TextLabel="NADH" GraphId="a0e1e" Type="Metabolite">
@@ -39,22 +39,71 @@
     <Xref Database="InChIKey" ID="XHATZBPBVXWMQQ-GGFUHNOESA-N" />
   </DataNode>
   <DataNode TextLabel="NAD(P)HX &#xA;DEHYDRATASE&#xA;" GraphId="b7dc1" Type="GeneProduct">
-    <Graphics CenterX="196.5" CenterY="225.25" Width="141.0" Height="45.5" ZOrder="32780" FontSize="12" Valign="Middle" />
+    <Graphics CenterX="200.5" CenterY="299.25" Width="141.0" Height="45.5" ZOrder="32780" FontSize="12" Valign="Middle" />
     <Xref Database="Ensembl" ID="ENSG00000213995" />
+  </DataNode>
+  <DataNode TextLabel="nicotamide" GraphId="c3f0c" Type="Metabolite">
+    <Comment>nicotinate adenine dinucleotide</Comment>
+    <Graphics CenterX="626.375" CenterY="202.125" Width="99.25" Height="25.75" ZOrder="32786" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="ChEBI" ID="CHEBI:17154" />
+  </DataNode>
+  <DataNode TextLabel=" ADP-D-ribose" GraphId="e5a26" Type="Metabolite">
+    <Comment>nicotinate adenine dinucleotide</Comment>
+    <Graphics CenterX="615.375" CenterY="137.125" Width="99.25" Height="25.75" ZOrder="32787" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="ChEBI" ID="CHEBI:16960" />
+  </DataNode>
+  <DataNode TextLabel=" cyclic ADP-D-ribose" GraphId="d825d" Type="Metabolite">
+    <Comment>nicotinate adenine dinucleotide</Comment>
+    <Graphics CenterX="576.375" CenterY="65.625" Width="125.25" Height="32.75" ZOrder="32788" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="ChEBI" ID="CHEBI:31445" />
+  </DataNode>
+  <DataNode TextLabel=" NMN(+)" GraphId="d122f" Type="Metabolite">
+    <Comment>nicotinate mononucleotide</Comment>
+    <Graphics CenterX="805.375" CenterY="194.125" Width="99.25" Height="25.75" ZOrder="32789" FontSize="12" Valign="Middle" Color="0000ff" />
+    <Xref Database="ChEBI" ID="CHEBI:14648" />
+  </DataNode>
+  <DataNode TextLabel="CD38" GraphId="fc2ce" Type="GeneProduct">
+    <Graphics CenterX="490.25" CenterY="100.75" Width="63.5" Height="28.5" ZOrder="32791" FontSize="12" Valign="Middle" />
+    <Xref Database="Ensembl" ID="ENSG00000004468" />
+  </DataNode>
+  <DataNode TextLabel="BST" GraphId="f65d5" Type="GeneProduct">
+    <Graphics CenterX="456.25" CenterY="134.75" Width="63.5" Height="28.5" ZOrder="32793" FontSize="12" Valign="Middle" />
+    <Xref Database="Ensembl" ID="ENSG00000109743" />
   </DataNode>
   <Interaction>
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="407.375" Y="118.0" GraphRef="f5fa5" RelX="0.0" RelY="1.0" />
-      <Point X="406.0" Y="190.5" GraphRef="ec136" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="451.0" Y="209.25" GraphRef="ec136" RelX="1.0" RelY="0.5" />
+      <Point X="576.75" Y="208.5625" GraphRef="c3f0c" RelX="-1.0" RelY="0.5" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction>
     <Graphics ZOrder="12288" LineThickness="1.0">
-      <Point X="344.0" Y="149.25" GraphRef="c9255" RelX="1.0" RelY="0.0" />
-      <Point X="409.0" Y="149.0" ArrowHead="mim-catalysis" />
+      <Point X="523.0" Y="210.0" />
+      <Point X="590.5625" Y="150.0" GraphRef="e5a26" RelX="-0.5" RelY="1.0" ArrowHead="Arrow" />
     </Graphics>
-    <Xref Database="Rhea" ID="RHEA:24385" />
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction>
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="504.0" Y="195.0" />
+      <Point X="576.375" Y="82.0" GraphRef="d825d" RelX="0.0" RelY="1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction>
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="506.125" Y="115.0" GraphRef="fc2ce" RelX="0.5" RelY="1.0" />
+      <Point X="487.0" Y="196.0" ArrowHead="mim-catalysis" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction>
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="607.6875" Y="82.0" GraphRef="d825d" RelX="0.5" RelY="1.0" />
+      <Point X="615.375" Y="124.25" GraphRef="e5a26" RelX="0.0" RelY="-1.0" ArrowHead="mim-conversion" />
+    </Graphics>
+    <Xref Database="Rhea" ID="RHEA:38615" />
   </Interaction>
   <Interaction GraphId="id681c2324">
     <Graphics ZOrder="12288" LineThickness="1.0">
@@ -62,6 +111,13 @@
       <Point X="401.0" Y="365.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="id7374853e">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="327.25" Y="158.0" GraphRef="c9255" RelX="0.0" RelY="1.0" />
+      <Point X="328.0" Y="207.0" ArrowHead="mim-catalysis" />
+    </Graphics>
+    <Xref Database="Rhea" ID="RHEA:24385" />
   </Interaction>
   <Interaction GraphId="idb0a77086">
     <Graphics ZOrder="12288" LineStyle="Broken" LineThickness="1.0">
@@ -99,6 +155,13 @@
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
+  <Interaction GraphId="idfd836518">
+    <Graphics ZOrder="12288" LineThickness="1.0">
+      <Point X="298.0" Y="203.625" GraphRef="f5fa5" RelX="1.0" RelY="0.0" />
+      <Point X="361.0" Y="203.0" GraphRef="ec136" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
   <Interaction GraphId="idfe78d24b">
     <Graphics ZOrder="12288" LineThickness="1.0">
       <Point X="268.5" Y="352.5" GraphRef="a3578" RelX="-0.5" RelY="-1.0" />
@@ -129,22 +192,50 @@
   </Interaction>
   <Interaction GraphId="cf5b1">
     <Graphics ZOrder="32782" LineStyle="Broken" LineThickness="1.0">
-      <Point X="196.5" Y="248.0" GraphRef="b7dc1" RelX="0.0" RelY="1.0" />
-      <Point X="139.0" Y="297.0" GraphRef="f7ea7" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
+      <Point X="200.5" Y="322.0" GraphRef="b7dc1" RelX="0.0" RelY="1.0" />
+      <Point X="149.0" Y="362.0" GraphRef="f7ea7" RelX="0.0" RelY="-1.0" ArrowHead="Arrow" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="bd2f5">
     <Graphics ZOrder="32783" LineThickness="1.0">
-      <Point X="231.75" Y="248.0" GraphRef="b7dc1" RelX="0.5" RelY="1.0" />
+      <Point X="271.0" Y="299.25" GraphRef="b7dc1" RelX="1.0" RelY="0.0" />
       <Point X="318.0" Y="320.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
   <Interaction GraphId="be17d">
     <Graphics ZOrder="32785" LineStyle="Broken" LineThickness="1.0">
-      <Point X="218.5" Y="149.25" GraphRef="c9255" RelX="-1.0" RelY="0.0" />
-      <Point X="172.0" Y="148.5" GraphRef="d7a82" RelX="1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="327.25" Y="116.5" GraphRef="c9255" RelX="0.0" RelY="-1.0" />
+      <Point X="328.0" Y="81.0" GraphRef="d7a82" RelX="0.0" RelY="1.0" ArrowHead="Arrow" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="e4a6c">
+    <Graphics ZOrder="32790" LineThickness="1.0">
+      <Point X="451.0" Y="196.75" GraphRef="ec136" RelX="1.0" RelY="-0.5" />
+      <Point X="576.75" Y="195.6875" GraphRef="c3f0c" RelX="-1.0" RelY="-0.5" ArrowHead="mim-conversion" />
+    </Graphics>
+    <Xref Database="Rhea" ID="RHEA:38611" />
+  </Interaction>
+  <Interaction GraphId="e19e8">
+    <Graphics ZOrder="32792" LineThickness="1.0">
+      <Point X="522.0" Y="100.75" GraphRef="fc2ce" RelX="1.0" RelY="0.0" />
+      <Point X="611.0" Y="96.0" ArrowHead="mim-catalysis" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="f9be5">
+    <Graphics ZOrder="32794" LineThickness="1.0">
+      <Point X="472.125" Y="149.0" GraphRef="f65d5" RelX="0.5" RelY="1.0" />
+      <Point X="471.0" Y="196.0" ArrowHead="mim-catalysis" />
+    </Graphics>
+    <Xref Database="" ID="" />
+  </Interaction>
+  <Interaction GraphId="f2383">
+    <Graphics ZOrder="32795" LineThickness="1.0">
+      <Point X="488.0" Y="134.75" GraphRef="f65d5" RelX="1.0" RelY="0.0" />
+      <Point X="612.0" Y="109.0" ArrowHead="mim-catalysis" />
     </Graphics>
     <Xref Database="" ID="" />
   </Interaction>
@@ -189,7 +280,7 @@
     <Comment>IEM Nosology Code: IEM0244</Comment>
     <Comment>OMIM: # 618321</Comment>
     <BiopaxRef>eec</BiopaxRef>
-    <Graphics CenterX="139.0" CenterY="318.5" Width="130.0" Height="43.0" ZOrder="32781" FillColor="ffdddd" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+    <Graphics CenterX="149.0" CenterY="383.5" Width="130.0" Height="43.0" ZOrder="32781" FillColor="ffdddd" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
   </Label>
   <Label TextLabel="NAD &#xA;synthetase 1 &#xA;deficiency" GraphId="d7a82" Href="https://omim.org/entry/618845">
     <Comment>DISEASE</Comment>
@@ -197,25 +288,32 @@
     <Comment>IEM Nosology Code: IEM1559</Comment>
     <Comment>OMIM: # 618845</Comment>
     <BiopaxRef>eca</BiopaxRef>
-    <Graphics CenterX="107.0" CenterY="148.5" Width="130.0" Height="43.0" ZOrder="32784" FillColor="ffdddd" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
+    <Graphics CenterX="328.0" CenterY="59.5" Width="130.0" Height="43.0" ZOrder="32784" FillColor="ffdddd" FontSize="12" Valign="Middle" ShapeType="RoundedRectangle" Color="0000ff" />
   </Label>
   <InfoBox CenterX="0.0" CenterY="0.0" />
   <Biopax>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="b45">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">35637064</bp:ID>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="eca">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31883644</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NAXE deficiency: A neurometabolic disorder of NAD(P)HX repair amenable for metabolic correction.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mol Genet Metab</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manor J</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Calame D</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gijavanekar C</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fisher K</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hunter J</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mizerik E</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bacino C</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Scaglia F</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Elsea SH</bp:AUTHORS>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bi-allelic Mutations in NADSYN1 Cause Multiple Organ Defects and Expand the Genotypic Spectrum of Congenital NAD Deficiency Disorders.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Am J Hum Genet</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2020</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Szot JO</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Campagnolo C</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cao Y</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iyer KR</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cuny H</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Drysdale T</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Flores-Daboub JA</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bi W</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Westerfield L</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Liu P</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Leung TN</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Choy KW</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chapman G</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Xiao R</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Siu VM</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dunwoodie SL</bp:AUTHORS>
     </bp:PublicationXref>
     <bp:openControlledVocabulary xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#">
       <bp:TERM xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:datatype="http://www.w3.org/2001/XMLSchema#string">disease pathway</bp:TERM>
@@ -264,28 +362,21 @@
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ellard S</bp:AUTHORS>
       <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hakonarson H</bp:AUTHORS>
     </bp:PublicationXref>
-    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="eca">
-      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31883644</bp:ID>
+    <bp:PublicationXref xmlns:bp="http://www.biopax.org/release/biopax-level3.owl#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:id="b45">
+      <bp:ID rdf:datatype="http://www.w3.org/2001/XMLSchema#string">35637064</bp:ID>
       <bp:DB rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PubMed</bp:DB>
-      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bi-allelic Mutations in NADSYN1 Cause Multiple Organ Defects and Expand the Genotypic Spectrum of Congenital NAD Deficiency Disorders.</bp:TITLE>
-      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Am J Hum Genet</bp:SOURCE>
-      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2020</bp:YEAR>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Szot JO</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Campagnolo C</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cao Y</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Iyer KR</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cuny H</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Drysdale T</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Flores-Daboub JA</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bi W</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Westerfield L</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Liu P</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Leung TN</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Choy KW</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chapman G</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Xiao R</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Siu VM</bp:AUTHORS>
-      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dunwoodie SL</bp:AUTHORS>
+      <bp:TITLE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">NAXE deficiency: A neurometabolic disorder of NAD(P)HX repair amenable for metabolic correction.</bp:TITLE>
+      <bp:SOURCE rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mol Genet Metab</bp:SOURCE>
+      <bp:YEAR rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2022</bp:YEAR>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manor J</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Calame D</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gijavanekar C</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fisher K</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hunter J</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mizerik E</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bacino C</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Scaglia F</bp:AUTHORS>
+      <bp:AUTHORS rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Elsea SH</bp:AUTHORS>
     </bp:PublicationXref>
   </Biopax>
 </Pathway>
