@@ -1097,7 +1097,7 @@ Proteins on this pathway have targeted assays available via the [https://assays.
   </DataNode>
   <DataNode TextLabel="OH-isovaleryl-CoA" GraphId="acd64" Type="Metabolite">
     <Graphics CenterX="1104.4702194357362" CenterY="330.978056426332" Width="96.0" Height="20.0" ZOrder="32788" FontSize="10" Valign="Middle" Color="0000ff" />
-    <Xref Database="HMDB" ID="HMDB0006870" />
+    <Xref Database="ChEBI" ID="28291" />
   </DataNode>
   <DataNode TextLabel="Methylacetoacetyl-CoA" GraphId="e2c7d" Type="Metabolite">
     <Graphics CenterX="1177.8297320656868" CenterY="416.5768025078364" Width="117.0" Height="20.0" ZOrder="32789" FontSize="10" Valign="Middle" Color="0000ff" />

@@ -300,7 +300,7 @@ Among these, galactosemia is the most common and most severe. This pathway was i
   <Interaction GraphId="a4ae6">
     <Graphics ZOrder="32892" LineThickness="1.0">
       <Point X="111.51816779881543" Y="492.431753978844" GraphRef="d8563" RelX="1.0" RelY="0.0" />
-      <Point X="249.7623149863154" Y="492.431753978844" GraphRef="cf3e0" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="249.7623149863154" Y="492.431753978844" GraphRef="cf3e0" RelX="-1.0" RelY="0.0" ArrowHead="mim-translocation" />
       <Anchor Position="0.6242009915469469" Shape="None" GraphId="e32a3" />
     </Graphics>
     <Xref Database="" ID="" />
@@ -334,7 +334,7 @@ Among these, galactosemia is the most common and most severe. This pathway was i
   <Interaction GraphId="f075d">
     <Graphics ZOrder="32896" LineThickness="1.0">
       <Point X="339.7623149863154" Y="492.431753978844" GraphRef="cf3e0" RelX="1.0" RelY="0.0" />
-      <Point X="659.4303015488155" Y="492.431753978844" GraphRef="cce8e" RelX="-1.0" RelY="0.0" ArrowHead="Arrow" />
+      <Point X="659.4303015488155" Y="492.431753978844" GraphRef="cce8e" RelX="-1.0" RelY="0.0" ArrowHead="mim-translocation" />
       <Anchor Position="0.3911751186578073" Shape="None" GraphId="b9bcb" />
     </Graphics>
     <Xref Database="" ID="" />
