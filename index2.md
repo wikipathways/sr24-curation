@@ -1,13 +1,6 @@
 <img style="float: right; width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Wplogo_with_text_500.png/640px-Wplogo_with_text_500.png" />
 # Validation Reports
 
-## At least one reference
-
-
-Read more about why these fails happen and how to fix them in these [instructions](https://www.wikipathways.org/WikiPathwaysCurator/ReferencesTests/atLeastOneReference).
-
-[WP477](reports/WP477#at-least-one-reference) [WP4815](reports/WP4815#at-least-one-reference) 
-
 ## ChEBI identifier without a match in Wikidata
 
 
