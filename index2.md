@@ -53,7 +53,7 @@ Read more about why these fails happen and how to fix them in these [instruction
 
 [WP5507](reports/WP5507#the-pathway-contains-stock-comments) 
 
-## WikidataTests.hmdbWithoutMapping
+## WikidataTests.inchikeyWithoutMapping
 
-[WP5506](reports/WP5506#wikidatatestshmdbwithoutmapping) 
+[WP5506](reports/WP5506#wikidatatestsinchikeywithoutmapping) 
 
