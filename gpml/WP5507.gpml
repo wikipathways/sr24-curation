@@ -101,7 +101,6 @@
   </Interaction>
   <Interaction GraphId="idb392db48">
     <Comment>Maybe also reversed reaction possible through GLUD1, GLUD1 can use both NAD(H) and NADP(H) which are different RHEA entries</Comment>
-    <Comment>Type your comment here</Comment>
     <Graphics ConnectorType="Elbow" ZOrder="12288" LineThickness="1.0">
       <Point X="729.1047455000078" Y="202.62899536778963" GraphRef="f811b" RelX="-0.5" RelY="1.0" />
       <Point X="525.0116986306139" Y="200.1289953677896" GraphRef="a61ab" RelX="0.5" RelY="1.0" ArrowHead="mim-conversion" />

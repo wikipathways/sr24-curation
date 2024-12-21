@@ -21,7 +21,7 @@ Read more about why these fails happen and how to fix them in these [instruction
 
 ## IEMPathwayTests.allMetabolitesInteract
 
-[WP111](reports/WP111#iempathwaytestsallmetabolitesinteract) [WP143](reports/WP143#iempathwaytestsallmetabolitesinteract) [WP176](reports/WP176#iempathwaytestsallmetabolitesinteract) [WP1982](reports/WP1982#iempathwaytestsallmetabolitesinteract) [WP3925](reports/WP3925#iempathwaytestsallmetabolitesinteract) [WP3942](reports/WP3942#iempathwaytestsallmetabolitesinteract) [WP4022](reports/WP4022#iempathwaytestsallmetabolitesinteract) [WP430](reports/WP430#iempathwaytestsallmetabolitesinteract) [WP4341](reports/WP4341#iempathwaytestsallmetabolitesinteract) [WP4396](reports/WP4396#iempathwaytestsallmetabolitesinteract) [WP4718](reports/WP4718#iempathwaytestsallmetabolitesinteract) [WP4917](reports/WP4917#iempathwaytestsallmetabolitesinteract) [WP4920](reports/WP4920#iempathwaytestsallmetabolitesinteract) [WP4922](reports/WP4922#iempathwaytestsallmetabolitesinteract) [WP5083](reports/WP5083#iempathwaytestsallmetabolitesinteract) [WP5112](reports/WP5112#iempathwaytestsallmetabolitesinteract) [WP5173](reports/WP5173#iempathwaytestsallmetabolitesinteract) [WP5176](reports/WP5176#iempathwaytestsallmetabolitesinteract) [WP5178](reports/WP5178#iempathwaytestsallmetabolitesinteract) [WP5504](reports/WP5504#iempathwaytestsallmetabolitesinteract) [WP5507](reports/WP5507#iempathwaytestsallmetabolitesinteract) [WP561](reports/WP561#iempathwaytestsallmetabolitesinteract) 
+[WP143](reports/WP143#iempathwaytestsallmetabolitesinteract) [WP176](reports/WP176#iempathwaytestsallmetabolitesinteract) [WP1982](reports/WP1982#iempathwaytestsallmetabolitesinteract) [WP3925](reports/WP3925#iempathwaytestsallmetabolitesinteract) [WP3942](reports/WP3942#iempathwaytestsallmetabolitesinteract) [WP4022](reports/WP4022#iempathwaytestsallmetabolitesinteract) [WP430](reports/WP430#iempathwaytestsallmetabolitesinteract) [WP4341](reports/WP4341#iempathwaytestsallmetabolitesinteract) [WP4396](reports/WP4396#iempathwaytestsallmetabolitesinteract) [WP4718](reports/WP4718#iempathwaytestsallmetabolitesinteract) [WP4917](reports/WP4917#iempathwaytestsallmetabolitesinteract) [WP4920](reports/WP4920#iempathwaytestsallmetabolitesinteract) [WP4922](reports/WP4922#iempathwaytestsallmetabolitesinteract) [WP5083](reports/WP5083#iempathwaytestsallmetabolitesinteract) [WP5112](reports/WP5112#iempathwaytestsallmetabolitesinteract) [WP5173](reports/WP5173#iempathwaytestsallmetabolitesinteract) [WP5176](reports/WP5176#iempathwaytestsallmetabolitesinteract) [WP5178](reports/WP5178#iempathwaytestsallmetabolitesinteract) [WP5504](reports/WP5504#iempathwaytestsallmetabolitesinteract) [WP5507](reports/WP5507#iempathwaytestsallmetabolitesinteract) [WP561](reports/WP561#iempathwaytestsallmetabolitesinteract) 
 
 ## IEMPathwayTests.metabolicConversionIdentifiersCommon
 
@@ -45,13 +45,6 @@ Read more about why these fails happen and how to fix them in these [instruction
 Read more about why these fails happen and how to fix them in these [instructions](https://www.wikipathways.org/WikiPathwaysCurator/InteractionTests/possibleTranslocations).
 
 [WP176](reports/WP176#possible-mim-translocation) [WP1982](reports/WP1982#possible-mim-translocation) [WP4018](reports/WP4018#possible-mim-translocation) [WP4290](reports/WP4290#possible-mim-translocation) [WP4341](reports/WP4341#possible-mim-translocation) [WP4917](reports/WP4917#possible-mim-translocation) [WP5083](reports/WP5083#possible-mim-translocation) [WP5176](reports/WP5176#possible-mim-translocation) [WP5178](reports/WP5178#possible-mim-translocation) [WP534](reports/WP534#possible-mim-translocation) [WP5507](reports/WP5507#possible-mim-translocation) 
-
-## The pathway contains stock comments
-
-
-Read more about why these fails happen and how to fix them in these [instructions](https://www.wikipathways.org/WikiPathwaysCurator/GeneralTests/stockComments).
-
-[WP5507](reports/WP5507#the-pathway-contains-stock-comments) 
 
 ## WikidataTests.inchikeyWithoutMapping
 
