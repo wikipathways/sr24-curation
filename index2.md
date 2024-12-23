@@ -1,6 +1,13 @@
 <img style="float: right; width: 200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Wplogo_with_text_500.png/640px-Wplogo_with_text_500.png" />
 # Validation Reports
 
+## All metabolites are involved in interactions
+
+
+Read more about why these fails happen and how to fix them in these [instructions](https://www.wikipathways.org/WikiPathwaysCurator/IEMPathwayTests/allMetabolitesInteract).
+
+[WP143](reports/WP143#all-metabolites-are-involved-in-interactions) [WP176](reports/WP176#all-metabolites-are-involved-in-interactions) [WP1982](reports/WP1982#all-metabolites-are-involved-in-interactions) [WP3925](reports/WP3925#all-metabolites-are-involved-in-interactions) [WP3942](reports/WP3942#all-metabolites-are-involved-in-interactions) [WP4022](reports/WP4022#all-metabolites-are-involved-in-interactions) [WP430](reports/WP430#all-metabolites-are-involved-in-interactions) [WP4341](reports/WP4341#all-metabolites-are-involved-in-interactions) [WP4396](reports/WP4396#all-metabolites-are-involved-in-interactions) [WP4718](reports/WP4718#all-metabolites-are-involved-in-interactions) [WP4917](reports/WP4917#all-metabolites-are-involved-in-interactions) [WP4920](reports/WP4920#all-metabolites-are-involved-in-interactions) [WP4922](reports/WP4922#all-metabolites-are-involved-in-interactions) [WP5083](reports/WP5083#all-metabolites-are-involved-in-interactions) [WP5112](reports/WP5112#all-metabolites-are-involved-in-interactions) [WP5173](reports/WP5173#all-metabolites-are-involved-in-interactions) [WP5176](reports/WP5176#all-metabolites-are-involved-in-interactions) [WP5178](reports/WP5178#all-metabolites-are-involved-in-interactions) [WP5504](reports/WP5504#all-metabolites-are-involved-in-interactions) [WP5507](reports/WP5507#all-metabolites-are-involved-in-interactions) [WP561](reports/WP561#all-metabolites-are-involved-in-interactions) 
+
 ## ChEBI identifier without a match in Wikidata
 
 
@@ -14,10 +21,6 @@ Read more about why these fails happen and how to fix them in these [instruction
 Read more about why these fails happen and how to fix them in these [instructions](https://www.wikipathways.org/WikiPathwaysCurator/DataNodesTests/unknownTypes).
 
 [WP5112](reports/WP5112#datanodes-of-unknown-type) 
-
-## IEMPathwayTests.allMetabolitesInteract
-
-[WP143](reports/WP143#iempathwaytestsallmetabolitesinteract) [WP176](reports/WP176#iempathwaytestsallmetabolitesinteract) [WP1982](reports/WP1982#iempathwaytestsallmetabolitesinteract) [WP3925](reports/WP3925#iempathwaytestsallmetabolitesinteract) [WP3942](reports/WP3942#iempathwaytestsallmetabolitesinteract) [WP4022](reports/WP4022#iempathwaytestsallmetabolitesinteract) [WP430](reports/WP430#iempathwaytestsallmetabolitesinteract) [WP4341](reports/WP4341#iempathwaytestsallmetabolitesinteract) [WP4396](reports/WP4396#iempathwaytestsallmetabolitesinteract) [WP4718](reports/WP4718#iempathwaytestsallmetabolitesinteract) [WP4917](reports/WP4917#iempathwaytestsallmetabolitesinteract) [WP4920](reports/WP4920#iempathwaytestsallmetabolitesinteract) [WP4922](reports/WP4922#iempathwaytestsallmetabolitesinteract) [WP5083](reports/WP5083#iempathwaytestsallmetabolitesinteract) [WP5112](reports/WP5112#iempathwaytestsallmetabolitesinteract) [WP5173](reports/WP5173#iempathwaytestsallmetabolitesinteract) [WP5176](reports/WP5176#iempathwaytestsallmetabolitesinteract) [WP5178](reports/WP5178#iempathwaytestsallmetabolitesinteract) [WP5504](reports/WP5504#iempathwaytestsallmetabolitesinteract) [WP5507](reports/WP5507#iempathwaytestsallmetabolitesinteract) [WP561](reports/WP561#iempathwaytestsallmetabolitesinteract) 
 
 ## IEMPathwayTests.metabolicConversionIdentifiersCommon
 
