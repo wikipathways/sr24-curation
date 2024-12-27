@@ -29,6 +29,10 @@ Read more about why these fails happen and how to fix them in these [instruction
 
 [WP5112](reports/WP5112#datanodes-of-unknown-type) 
 
+## InChIKey without a match in Wikidata
+
+[WP5506](reports/WP5506#inchikey-without-a-match-in-wikidata) 
+
 ## Interactions with Labels
 
 
@@ -43,10 +47,6 @@ Read more about why these fails happen and how to fix them in these [instruction
 
 [WP111](reports/WP111#interactions-without-references) [WP143](reports/WP143#interactions-without-references) [WP176](reports/WP176#interactions-without-references) [WP1982](reports/WP1982#interactions-without-references) [WP2884](reports/WP2884#interactions-without-references) [WP3925](reports/WP3925#interactions-without-references) [WP3942](reports/WP3942#interactions-without-references) [WP4018](reports/WP4018#interactions-without-references) [WP4022](reports/WP4022#interactions-without-references) [WP4156](reports/WP4156#interactions-without-references) [WP4290](reports/WP4290#interactions-without-references) [WP430](reports/WP430#interactions-without-references) [WP4324](reports/WP4324#interactions-without-references) [WP4341](reports/WP4341#interactions-without-references) [WP4396](reports/WP4396#interactions-without-references) [WP4705](reports/WP4705#interactions-without-references) [WP4718](reports/WP4718#interactions-without-references) [WP477](reports/WP477#interactions-without-references) [WP4784](reports/WP4784#interactions-without-references) [WP4815](reports/WP4815#interactions-without-references) [WP4917](reports/WP4917#interactions-without-references) [WP4920](reports/WP4920#interactions-without-references) [WP4922](reports/WP4922#interactions-without-references) [WP5083](reports/WP5083#interactions-without-references) [WP5112](reports/WP5112#interactions-without-references) [WP5173](reports/WP5173#interactions-without-references) [WP5176](reports/WP5176#interactions-without-references) [WP5178](reports/WP5178#interactions-without-references) [WP534](reports/WP534#interactions-without-references) [WP5504](reports/WP5504#interactions-without-references) [WP5505](reports/WP5505#interactions-without-references) [WP5506](reports/WP5506#interactions-without-references) [WP5507](reports/WP5507#interactions-without-references) [WP561](reports/WP561#interactions-without-references) [WP623](reports/WP623#interactions-without-references) [WP702](reports/WP702#interactions-without-references) 
 
-## MetabolitesTests.tooManyInChIKeys
-
-[WP111](reports/WP111#metabolitesteststoomanyinchikeys) [WP143](reports/WP143#metabolitesteststoomanyinchikeys) [WP176](reports/WP176#metabolitesteststoomanyinchikeys) [WP4022](reports/WP4022#metabolitesteststoomanyinchikeys) [WP4156](reports/WP4156#metabolitesteststoomanyinchikeys) [WP4290](reports/WP4290#metabolitesteststoomanyinchikeys) [WP4784](reports/WP4784#metabolitesteststoomanyinchikeys) [WP4922](reports/WP4922#metabolitesteststoomanyinchikeys) [WP5083](reports/WP5083#metabolitesteststoomanyinchikeys) [WP5176](reports/WP5176#metabolitesteststoomanyinchikeys) [WP5506](reports/WP5506#metabolitesteststoomanyinchikeys) [WP561](reports/WP561#metabolitesteststoomanyinchikeys) 
-
 ## Possible MIM translocation
 
 
@@ -54,14 +54,17 @@ Read more about why these fails happen and how to fix them in these [instruction
 
 [WP176](reports/WP176#possible-mim-translocation) [WP1982](reports/WP1982#possible-mim-translocation) [WP4018](reports/WP4018#possible-mim-translocation) [WP4290](reports/WP4290#possible-mim-translocation) [WP4341](reports/WP4341#possible-mim-translocation) [WP4917](reports/WP4917#possible-mim-translocation) [WP5083](reports/WP5083#possible-mim-translocation) [WP5176](reports/WP5176#possible-mim-translocation) [WP5178](reports/WP5178#possible-mim-translocation) [WP534](reports/WP534#possible-mim-translocation) [WP5507](reports/WP5507#possible-mim-translocation) 
 
+## Too many InChIKeys for the used identifier
+
+
+Read more about why these fails happen and how to fix them in these [instructions](https://www.wikipathways.org/WikiPathwaysCurator/MetabolitesTests/tooManyInChIKeys).
+
+[WP111](reports/WP111#too-many-inchikeys-for-the-used-identifier) [WP143](reports/WP143#too-many-inchikeys-for-the-used-identifier) [WP176](reports/WP176#too-many-inchikeys-for-the-used-identifier) [WP4022](reports/WP4022#too-many-inchikeys-for-the-used-identifier) [WP4156](reports/WP4156#too-many-inchikeys-for-the-used-identifier) [WP4290](reports/WP4290#too-many-inchikeys-for-the-used-identifier) [WP4784](reports/WP4784#too-many-inchikeys-for-the-used-identifier) [WP4922](reports/WP4922#too-many-inchikeys-for-the-used-identifier) [WP5083](reports/WP5083#too-many-inchikeys-for-the-used-identifier) [WP5176](reports/WP5176#too-many-inchikeys-for-the-used-identifier) [WP5506](reports/WP5506#too-many-inchikeys-for-the-used-identifier) [WP561](reports/WP561#too-many-inchikeys-for-the-used-identifier) 
+
 ## Unexpected metabolic conversion
 
 
 Read more about why these fails happen and how to fix them in these [instructions](https://www.wikipathways.org/WikiPathwaysCurator/IEMPathwayTests/metabolicConversions).
 
 [WP176](reports/WP176#unexpected-metabolic-conversion) 
-
-## WikidataTests.inchikeyWithoutMapping
-
-[WP5506](reports/WP5506#wikidatatestsinchikeywithoutmapping) 
 
