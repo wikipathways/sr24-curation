@@ -30,9 +30,12 @@ Read more about why these fails happen and how to fix them in these [instruction
 
 [WP176](reports/WP176#iempathwaytestsmetabolicconversions) 
 
-## InteractionTests.interactionsWithLabels
+## Interactions with Labels
 
-[WP1982](reports/WP1982#interactiontestsinteractionswithlabels) [WP2884](reports/WP2884#interactiontestsinteractionswithlabels) [WP4290](reports/WP4290#interactiontestsinteractionswithlabels) [WP4324](reports/WP4324#interactiontestsinteractionswithlabels) [WP4341](reports/WP4341#interactiontestsinteractionswithlabels) [WP4396](reports/WP4396#interactiontestsinteractionswithlabels) [WP4705](reports/WP4705#interactiontestsinteractionswithlabels) [WP4784](reports/WP4784#interactiontestsinteractionswithlabels) [WP4815](reports/WP4815#interactiontestsinteractionswithlabels) [WP5083](reports/WP5083#interactiontestsinteractionswithlabels) [WP5173](reports/WP5173#interactiontestsinteractionswithlabels) [WP5176](reports/WP5176#interactiontestsinteractionswithlabels) [WP5178](reports/WP5178#interactiontestsinteractionswithlabels) [WP5504](reports/WP5504#interactiontestsinteractionswithlabels) [WP5506](reports/WP5506#interactiontestsinteractionswithlabels) 
+
+Read more about why these fails happen and how to fix them in these [instructions](https://www.wikipathways.org/WikiPathwaysCurator/InteractionTests/interactionsWithLabels).
+
+[WP1982](reports/WP1982#interactions-with-labels) [WP2884](reports/WP2884#interactions-with-labels) [WP4290](reports/WP4290#interactions-with-labels) [WP4324](reports/WP4324#interactions-with-labels) [WP4341](reports/WP4341#interactions-with-labels) [WP4396](reports/WP4396#interactions-with-labels) [WP4705](reports/WP4705#interactions-with-labels) [WP4784](reports/WP4784#interactions-with-labels) [WP4815](reports/WP4815#interactions-with-labels) [WP5083](reports/WP5083#interactions-with-labels) [WP5173](reports/WP5173#interactions-with-labels) [WP5176](reports/WP5176#interactions-with-labels) [WP5178](reports/WP5178#interactions-with-labels) [WP5504](reports/WP5504#interactions-with-labels) [WP5506](reports/WP5506#interactions-with-labels) 
 
 ## Interactions without references
 
