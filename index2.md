@@ -36,10 +36,6 @@ Read more about why these fails happen and how to fix them in these [instruction
 
 [WP5112](reports/WP5112#datanodes-of-unknown-type) 
 
-## IEMPathwayTests.catalystsWithCommonDataSource
-
-[WP4156](reports/WP4156#iempathwaytestscatalystswithcommondatasource) [WP4705](reports/WP4705#iempathwaytestscatalystswithcommondatasource) [WP5083](reports/WP5083#iempathwaytestscatalystswithcommondatasource) [WP5176](reports/WP5176#iempathwaytestscatalystswithcommondatasource) [WP5504](reports/WP5504#iempathwaytestscatalystswithcommondatasource) 
-
 ## InChIKey without a match in Wikidata
 
 [WP5506](reports/WP5506#inchikey-without-a-match-in-wikidata) 
