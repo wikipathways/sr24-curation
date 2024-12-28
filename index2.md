@@ -22,12 +22,23 @@ Read more about why these fails happen and how to fix them in these [instruction
 
 [WP5173](reports/WP5173#common-metabolite-metabolite-conversion-identifier) 
 
+## Data nodes without an identifier
+
+
+Read more about why these fails happen and how to fix them in these [instructions](https://www.wikipathways.org/WikiPathwaysCurator/DataNodesTests/dataNodesWithoutIdentifier).
+
+[WP3925](reports/WP3925#data-nodes-without-an-identifier) [WP3942](reports/WP3942#data-nodes-without-an-identifier) [WP4018](reports/WP4018#data-nodes-without-an-identifier) [WP4022](reports/WP4022#data-nodes-without-an-identifier) [WP4290](reports/WP4290#data-nodes-without-an-identifier) [WP4341](reports/WP4341#data-nodes-without-an-identifier) [WP4396](reports/WP4396#data-nodes-without-an-identifier) [WP4705](reports/WP4705#data-nodes-without-an-identifier) [WP4718](reports/WP4718#data-nodes-without-an-identifier) [WP4815](reports/WP4815#data-nodes-without-an-identifier) [WP5176](reports/WP5176#data-nodes-without-an-identifier) [WP5505](reports/WP5505#data-nodes-without-an-identifier) 
+
 ## Datanodes of unknown type
 
 
 Read more about why these fails happen and how to fix them in these [instructions](https://www.wikipathways.org/WikiPathwaysCurator/DataNodesTests/unknownTypes).
 
 [WP5112](reports/WP5112#datanodes-of-unknown-type) 
+
+## IEMPathwayTests.catalystsWithCommonDataSource
+
+[WP4156](reports/WP4156#iempathwaytestscatalystswithcommondatasource) [WP4705](reports/WP4705#iempathwaytestscatalystswithcommondatasource) [WP5083](reports/WP5083#iempathwaytestscatalystswithcommondatasource) [WP5176](reports/WP5176#iempathwaytestscatalystswithcommondatasource) [WP5504](reports/WP5504#iempathwaytestscatalystswithcommondatasource) 
 
 ## InChIKey without a match in Wikidata
 

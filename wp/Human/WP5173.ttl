@@ -51,7 +51,7 @@
         wp:bdbPubChem       <http://rdf.ncbi.nlm.nih.gov/pubchem/compound/CID5461127> ;
         wp:bdbWikidata      <http://www.wikidata.org/entity/Q27108961> ;
         wp:isAbout          <http://rdf.wikipathways.org/Pathway/WP5173_r136172/DataNode/c37f6> ;
-        foaf:page           <http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:12931> .
+        foaf:page           <https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:12931> .
 
 <https://identifiers.org/chebi/CHEBI:16077>
         rdf:type            wp:DataNode , wp:Metabolite ;
@@ -67,7 +67,7 @@
         wp:bdbPubChem       <http://rdf.ncbi.nlm.nih.gov/pubchem/compound/CID439165> ;
         wp:bdbWikidata      <http://www.wikidata.org/entity/Q27098367> ;
         wp:isAbout          <http://rdf.wikipathways.org/Pathway/WP5173_r136172/DataNode/f3f45> ;
-        foaf:page           <http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16077> .
+        foaf:page           <https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:16077> .
 
 <https://identifiers.org/ensembl/ENSG00000111713>
         rdf:type            wp:DataNode , wp:GeneProduct ;
@@ -137,7 +137,7 @@
         wp:bdbPubChem       <http://rdf.ncbi.nlm.nih.gov/pubchem/compound/CID18068> ;
         wp:bdbWikidata      <http://www.wikidata.org/entity/Q259015> ;
         wp:isAbout          <http://rdf.wikipathways.org/Pathway/WP5173_r136172/DataNode/b5362> ;
-        foaf:page           <http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:67119> .
+        foaf:page           <https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:67119> .
 
 <https://identifiers.org/ec-code/1.1.1.48>
         rdf:type            wp:DataNode , wp:Protein ;
@@ -206,7 +206,7 @@
         wp:bdbPubChem       <http://rdf.ncbi.nlm.nih.gov/pubchem/compound/CID123912> ;
         wp:bdbWikidata      <http://www.wikidata.org/entity/Q3082858> ;
         wp:isAbout          <http://rdf.wikipathways.org/Pathway/WP5173_r136172/DataNode/f1673> ;
-        foaf:page           <http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:17973> .
+        foaf:page           <https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:17973> .
 
 <http://rdf.wikipathways.org/Pathway/WP5173_r136172/WP/Interaction/fe651>
         rdf:type            wp:DirectedInteraction , wp:Conversion , wp:Interaction ;
@@ -269,7 +269,7 @@ obo:NCBITaxon_9606  obo:NCIT_C179773  "9606" .
         wp:bdbPubChem       <http://rdf.ncbi.nlm.nih.gov/pubchem/compound/CID439177> ;
         wp:bdbWikidata      <http://www.wikidata.org/entity/Q174936> ;
         wp:isAbout          <http://rdf.wikipathways.org/Pathway/WP5173_r136172/DataNode/c5f5f> ;
-        foaf:page           <http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:28087> .
+        foaf:page           <https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:28087> .
 
 <https://identifiers.org/chebi/CHEBI:18066>
         rdf:type            wp:DataNode , wp:Metabolite ;
@@ -286,7 +286,7 @@ obo:NCBITaxon_9606  obo:NCIT_C179773  "9606" .
         wp:bdbPubChem       <http://rdf.ncbi.nlm.nih.gov/pubchem/compound/CID439156> ;
         wp:bdbWikidata      <http://www.wikidata.org/entity/Q27102800> ;
         wp:isAbout          <http://rdf.wikipathways.org/Pathway/WP5173_r136172/DataNode/c96ce> ;
-        foaf:page           <http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:18066> .
+        foaf:page           <https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:18066> .
 
 <https://identifiers.org/wikipathways/WP500>
         rdf:type            wp:DataNode , wp:Pathway ;
@@ -328,7 +328,7 @@ obo:NCBITaxon_9606  obo:NCIT_C179773  "9606" .
         wp:bdbKeggCompound  <https://identifiers.org/kegg.compound/C01582> ;
         wp:bdbWikidata      <http://www.wikidata.org/entity/Q66589593> ;
         wp:isAbout          <http://rdf.wikipathways.org/Pathway/WP5173_r136172/DataNode/cf3e0> , <http://rdf.wikipathways.org/Pathway/WP5173_r136172/DataNode/d8563> , <http://rdf.wikipathways.org/Pathway/WP5173_r136172/DataNode/cce8e> ;
-        foaf:page           <http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:28260> .
+        foaf:page           <https://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:28260> .
 
 <https://identifiers.org/wikipathways/WP5173_r136172>
         rdf:type               skos:Collection , wp:Pathway ;
