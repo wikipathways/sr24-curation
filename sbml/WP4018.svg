@@ -8,20 +8,20 @@
   /><g
   ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
     ><rect x="-1" width="1416" height="1180" y="-1" stroke="none"
-      /><path fill="none" d="M429.1596 278.1596 L409.2568 278.4958" stroke="black"
-      /><path fill="none" d="M411 241.9237 L409.2568 278.4958" stroke="black"
-      /><path fill="none" d="M389.3304 278.8323 L379.4025 279" stroke="black"
-      /><path fill="black" d="M393.1618 273.0265 L379.4025 279 L393.3557 284.5054 Z" stroke="none"
-      /><path fill="none" d="M409.2568 278.4958 L399.2935 278.664" stroke="black"
-      /><circle fill="black" r="1.5" cx="409.2568" cy="278.4958" stroke="none"
-      /><circle fill="none" r="1.5" cx="409.2568" cy="278.4958" stroke="black"
-      /><text fill="black" x="410" xml:space="preserve" y="283" stroke="none"
+      /><path fill="none" d="M188 664.1667 L200.3395 664.36" stroke="black"
+      /><path fill="none" d="M200.8054 750.8665 L200.3395 664.36" stroke="black"
+      /><path fill="none" d="M214.2215 664.5776 L218.8488 664.65" stroke="black"
+      /><path fill="black" d="M204.9024 670.1725 L218.8488 664.65 L205.0823 658.6934 Z" stroke="none"
+      /><path fill="none" d="M200.3395 664.36 L207.2805 664.4688" stroke="black"
+      /><circle fill="black" r="1.5" cx="200.3395" cy="664.36" stroke="none"
+      /><circle fill="none" r="1.5" cx="200.3395" cy="664.36" stroke="black"
+      /><text fill="black" x="201" xml:space="preserve" y="669" stroke="none"
       ></text
-      ><rect x="389.312" width="10" height="10" y="273.7482" transform="translate(394.312,278.7482) rotate(179.0323) translate(-394.312,-278.7482)" stroke="none"
-      /><rect x="389.312" y="273.7482" transform="translate(394.312,278.7482) rotate(179.0323) translate(-394.312,-278.7482)" fill="none" width="10" height="10" stroke="black"
+      ><rect x="205.751" width="10" height="10" y="659.5232" transform="translate(210.751,664.5232) rotate(0.8977) translate(-210.751,-664.5232)" stroke="none"
+      /><rect x="205.751" y="659.5232" transform="translate(210.751,664.5232) rotate(0.8977) translate(-210.751,-664.5232)" fill="none" width="10" height="10" stroke="black"
     /></g
     ><g font-size="10px" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" color-interpolation="linearRGB" font-weight="bold"
-    ><text x="394" xml:space="preserve" y="282" stroke="none"
+    ><text x="210" xml:space="preserve" y="668" stroke="none"
       ></text
       ><path fill="none" d="M357.2672 385.2196 L460.6011 385.1342"
       /><path fill="none" d="M460.2141 358.8503 L460.6011 385.1342"
@@ -42,22 +42,22 @@
     ><g font-size="10px" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" color-interpolation="linearRGB" font-weight="bold"
     ><text x="479" xml:space="preserve" y="389" stroke="none"
       ></text
-      ><path fill="none" d="M188 664.1667 L200.3395 664.36"
-      /><path fill="none" d="M200.8054 750.8665 L200.3395 664.36"
-      /><path fill="none" d="M214.2215 664.5776 L218.8488 664.65"
-      /><path d="M204.9024 670.1725 L218.8488 664.65 L205.0823 658.6934 Z" stroke="none"
-      /><path fill="none" d="M200.3395 664.36 L207.2805 664.4688"
-      /><circle r="1.5" cx="200.3395" cy="664.36" stroke="none"
-      /><circle fill="none" r="1.5" cx="200.3395" cy="664.36"
-      /><text x="201" font-size="12px" y="669" font-family="'Dialog'" stroke="none" font-weight="normal" xml:space="preserve"
+      ><path fill="none" d="M429.1596 278.1596 L409.2568 278.4958"
+      /><path fill="none" d="M411 241.9237 L409.2568 278.4958"
+      /><path fill="none" d="M389.3304 278.8323 L379.4025 279"
+      /><path d="M393.1618 273.0265 L379.4025 279 L393.3557 284.5054 Z" stroke="none"
+      /><path fill="none" d="M409.2568 278.4958 L399.2935 278.664"
+      /><circle r="1.5" cx="409.2568" cy="278.4958" stroke="none"
+      /><circle fill="none" r="1.5" cx="409.2568" cy="278.4958"
+      /><text x="410" font-size="12px" y="283" font-family="'Dialog'" stroke="none" font-weight="normal" xml:space="preserve"
       ></text
     ></g
-    ><g transform="translate(210.751,664.5232) rotate(0.8977) translate(-210.751,-664.5232)" fill="white" text-rendering="geometricPrecision" color-rendering="optimizeQuality" image-rendering="optimizeQuality" color-interpolation="linearRGB" stroke="white"
-    ><rect x="205.751" width="10" height="10" y="659.5232" stroke="none"
-      /><rect fill="none" x="205.751" width="10" height="10" y="659.5232" stroke="black"
+    ><g transform="translate(394.312,278.7482) rotate(179.0323) translate(-394.312,-278.7482)" fill="white" text-rendering="geometricPrecision" color-rendering="optimizeQuality" image-rendering="optimizeQuality" color-interpolation="linearRGB" stroke="white"
+    ><rect x="389.312" width="10" height="10" y="273.7482" stroke="none"
+      /><rect fill="none" x="389.312" width="10" height="10" y="273.7482" stroke="black"
     /></g
     ><g font-size="10px" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" color-interpolation="linearRGB" font-weight="bold"
-    ><text x="210" xml:space="preserve" y="668" stroke="none"
+    ><text x="394" xml:space="preserve" y="282" stroke="none"
       ></text
     ></g
     ><g fill="rgb(248,247,240)" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="rgb(248,247,240)" image-rendering="optimizeQuality"
@@ -69,22 +69,41 @@
       /><rect fill="none" x="216" width="60" height="25" y="297" stroke="black"
       /><text fill="black" x="221" xml:space="preserve" y="314" font-family="sans-serif" stroke="none"
       >DEPTOR</text
-      ><path fill="none" d="M602 157.8479 L610.5005 157.7212" stroke="black"
+      ><path d="M634 124.4454 L700 124.4454 L705 129.4454 L705 185.4454 L700 190.4454 L634 190.4454 L629 185.4454 L629 129.4454 Z" stroke="none" fill-rule="evenodd"
+      /><path fill="none" stroke-dasharray="8,8" d="M634 124.4454 L700 124.4454 L705 129.4454 L705 185.4454 L700 190.4454 L634 190.4454 L629 185.4454 L629 129.4454 Z" fill-rule="evenodd" stroke="black"
+      /><text fill="black" x="647" xml:space="preserve" y="185" font-family="sans-serif" stroke="none"
+      >d2a36</text
+      ><path fill="none" stroke-dasharray="8,8" d="M325.3057 1058.9333 L184.0428 1058.9333 L184.0428 923.4584" stroke="black"
+      /><path fill="none" stroke-dasharray="8,8" d="M184.0428 913.4584 L184.0428 780.9836" stroke="black"
+      /><line y2="780.9836" fill="none" x1="189.0428" x2="179.0428" stroke="black" y1="780.9836"
+      /><line fill="none" x1="184.0428" x2="184.0428" y1="913.4584" y2="923.4584" stroke-dasharray="8,8" stroke="black"
+      /><path fill="none" d="M602 157.8479 L610.5005 157.7212" stroke="black"
       /><path fill="none" d="M620.4995 157.5721 L626.0003 157.4901" stroke="black"
       /><line y2="152.4907" fill="none" x1="626.0749" x2="625.9258" stroke="black" y1="162.4896"
       /><path fill="none" d="M610.5005 157.7212 L610.5005 157.7212" stroke="black"
       /><path fill="none" d="M620.4995 157.5721 L620.4995 157.5721" stroke="black"
       /><line y2="157.7212" fill="none" x1="620.4994" x2="610.5006" stroke="black" y1="157.5721"
-      /><path fill="none" d="M562.9941 385.1007 L590.7021 385.089" stroke="black"
-      /><path fill="none" d="M600.7021 385.0848 L628.4102 385.073" stroke="black"
-      /><path fill="black" d="M614.5544 390.8192 L628.4102 385.073 L614.5495 379.3387 Z" stroke="none"
-      /><path fill="none" d="M590.7021 385.089 L590.7021 385.089" stroke="black"
-      /><path fill="none" d="M600.7021 385.0848 L600.7021 385.0848" stroke="black"
-      /><rect x="590.7021" y="380.0869" transform="translate(595.7021,385.0869) rotate(-0.0243) translate(-595.7021,-385.0869)" fill="white" width="10" height="10" stroke="none"
-      /><rect x="590.7021" y="380.0869" transform="translate(595.7021,385.0869) rotate(-0.0243) translate(-595.7021,-385.0869)" fill="none" width="10" height="10" stroke="black"
+      /><path fill="none" d="M539 157.8479 L519.6746 168.0192" stroke="black"
+      /><path fill="none" d="M510.8254 172.6767 L491.5 182.8479" stroke="black"
+      /><path fill="black" d="M501.0899 171.3139 L491.5 182.8479 L506.4369 181.4732 Z" stroke="none"
+      /><rect x="510.25" y="165.3479" transform="translate(515.25,170.3479) rotate(152.2415) translate(-515.25,-170.3479)" fill="white" width="10" height="10" stroke="none"
+      /><rect x="510.25" y="165.3479" transform="translate(515.25,170.3479) rotate(152.2415) translate(-515.25,-170.3479)" fill="none" width="10" height="10" stroke="black"
     /></g
     ><g font-size="10px" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" color-interpolation="linearRGB" font-weight="bold"
-    ><text x="595" xml:space="preserve" y="389" stroke="none"
+    ><text x="515" xml:space="preserve" y="174" stroke="none"
+      ></text
+      ><path fill="none" d="M187.8976 215.1667 L187.9336 203.3333"
+      /><path fill="none" d="M187.964 193.3334 L188 181.5"
+      /><path d="M193.6981 195.3756 L188 181.5 L182.2176 195.3407 Z" stroke="none"
+      /><path fill="none" d="M187.9336 203.3333 L187.9336 203.3333"
+      /><path fill="none" d="M187.964 193.3334 L187.964 193.3334"
+    /></g
+    ><g transform="translate(187.9488,198.3333) rotate(-89.8258) translate(-187.9488,-198.3333)" fill="white" text-rendering="geometricPrecision" color-rendering="optimizeQuality" image-rendering="optimizeQuality" color-interpolation="linearRGB" stroke="white"
+    ><rect x="182.9488" width="10" height="10" y="193.3333" stroke="none"
+      /><rect fill="none" x="182.9488" width="10" height="10" y="193.3333" stroke="black"
+    /></g
+    ><g font-size="10px" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" color-interpolation="linearRGB" font-weight="bold"
+    ><text x="187" xml:space="preserve" y="202" stroke="none"
       ></text
       ><path fill="none" d="M200.8054 777.9836 L200.8054 827.0227 L324.5097 827.0227"
       /><path fill="none" d="M334.5097 827.0227 L458.214 827.0227"
@@ -97,32 +116,6 @@
     ><g font-size="10px" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" color-interpolation="linearRGB" font-weight="bold"
     ><text x="329" xml:space="preserve" y="831" stroke="none"
       ></text
-      ><path fill="none" d="M520.2141 827.0227 L539.062 827.0227 L539.062 855 L70 855 L70 385.2196 L177.6336 385.2196"
-      /><path fill="none" d="M187.6336 385.2196 L295.2672 385.2196"
-      /><path d="M281.409 390.9599 L295.2672 385.2196 L281.409 379.4794 Z" stroke="none"
-    /></g
-    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="177.6336" width="10" height="10" y="380.2196" stroke="none"
-      /><rect fill="none" x="177.6336" width="10" height="10" y="380.2196" stroke="black"
-    /></g
-    ><g font-size="10px" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" color-interpolation="linearRGB" font-weight="bold"
-    ><text x="182" xml:space="preserve" y="389" stroke="none"
-      ></text
-    ></g
-    ><g fill="rgb(248,247,240)" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="rgb(248,247,240)" image-rendering="optimizeQuality"
-    ><path d="M634 124.4454 L700 124.4454 L705 129.4454 L705 185.4454 L700 190.4454 L634 190.4454 L629 185.4454 L629 129.4454 Z" stroke="none" fill-rule="evenodd"
-      /><path fill="none" stroke-dasharray="8,8" d="M634 124.4454 L700 124.4454 L705 129.4454 L705 185.4454 L700 190.4454 L634 190.4454 L629 185.4454 L629 129.4454 Z" fill-rule="evenodd" stroke="black"
-      /><text fill="black" x="647" xml:space="preserve" y="185" font-family="sans-serif" stroke="none"
-      >d2a36</text
-      ><path fill="none" d="M539 157.8479 L519.6746 168.0192" stroke="black"
-      /><path fill="none" d="M510.8254 172.6767 L491.5 182.8479" stroke="black"
-      /><path fill="black" d="M501.0899 171.3139 L491.5 182.8479 L506.4369 181.4732 Z" stroke="none"
-      /><rect x="510.25" y="165.3479" transform="translate(515.25,170.3479) rotate(152.2415) translate(-515.25,-170.3479)" fill="white" width="10" height="10" stroke="none"
-      /><rect x="510.25" y="165.3479" transform="translate(515.25,170.3479) rotate(152.2415) translate(-515.25,-170.3479)" fill="none" width="10" height="10" stroke="black"
-    /></g
-    ><g font-size="10px" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" color-interpolation="linearRGB" font-weight="bold"
-    ><text x="515" xml:space="preserve" y="174" stroke="none"
-      ></text
       ><path fill="none" d="M455.6204 763.8254 L349.9756 764.1117"
       /><path fill="none" d="M339.9756 764.1388 L234.3308 764.425"
       /><path d="M248.1734 758.6473 L234.3308 764.425 L248.2045 770.1277 Z" stroke="none"
@@ -134,22 +127,29 @@
     ><g font-size="10px" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" color-interpolation="linearRGB" font-weight="bold"
     ><text x="344" xml:space="preserve" y="768" stroke="none"
       ></text
-    ></g
-    ><g text-rendering="geometricPrecision" stroke-dasharray="8,8" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><path fill="none" d="M325.3057 1058.9333 L184.0428 1058.9333 L184.0428 923.4584"
-      /><path fill="none" d="M184.0428 913.4584 L184.0428 780.9836"
-      /><line y2="780.9836" fill="none" stroke-dasharray="none" x1="189.0428" x2="179.0428" y1="780.9836"
-      /><line y2="923.4584" fill="none" x1="184.0428" x2="184.0428" y1="913.4584"
-      /><path stroke-dasharray="none" fill="none" d="M187.8976 215.1667 L187.9336 203.3333"
-      /><path stroke-dasharray="none" fill="none" d="M187.964 193.3334 L188 181.5"
-      /><path stroke-dasharray="none" d="M193.6981 195.3756 L188 181.5 L182.2176 195.3407 Z" stroke="none"
-      /><path stroke-dasharray="none" fill="none" d="M187.9336 203.3333 L187.9336 203.3333"
-      /><path stroke-dasharray="none" fill="none" d="M187.964 193.3334 L187.964 193.3334"
-      /><rect x="182.9488" y="193.3333" transform="translate(187.9488,198.3333) rotate(-89.8258) translate(-187.9488,-198.3333)" fill="white" width="10" stroke-dasharray="none" height="10" stroke="none"
-      /><rect x="182.9488" y="193.3333" transform="translate(187.9488,198.3333) rotate(-89.8258) translate(-187.9488,-198.3333)" fill="none" width="10" stroke-dasharray="none" height="10"
+      ><path fill="none" d="M562.9941 385.1007 L590.7021 385.089"
+      /><path fill="none" d="M600.7021 385.0848 L628.4102 385.073"
+      /><path d="M614.5544 390.8192 L628.4102 385.073 L614.5495 379.3387 Z" stroke="none"
+      /><path fill="none" d="M590.7021 385.089 L590.7021 385.089"
+      /><path fill="none" d="M600.7021 385.0848 L600.7021 385.0848"
+    /></g
+    ><g transform="translate(595.7021,385.0869) rotate(-0.0243) translate(-595.7021,-385.0869)" fill="white" text-rendering="geometricPrecision" color-rendering="optimizeQuality" image-rendering="optimizeQuality" color-interpolation="linearRGB" stroke="white"
+    ><rect x="590.7021" width="10" height="10" y="380.0869" stroke="none"
+      /><rect fill="none" x="590.7021" width="10" height="10" y="380.0869" stroke="black"
     /></g
     ><g font-size="10px" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" color-interpolation="linearRGB" font-weight="bold"
-    ><text x="187" xml:space="preserve" y="202" stroke="none"
+    ><text x="595" xml:space="preserve" y="389" stroke="none"
+      ></text
+      ><path fill="none" d="M520.2141 827.0227 L539.062 827.0227 L539.062 855 L70 855 L70 385.2196 L177.6336 385.2196"
+      /><path fill="none" d="M187.6336 385.2196 L295.2672 385.2196"
+      /><path d="M281.409 390.9599 L295.2672 385.2196 L281.409 379.4794 Z" stroke="none"
+    /></g
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><rect x="177.6336" width="10" height="10" y="380.2196" stroke="none"
+      /><rect fill="none" x="177.6336" width="10" height="10" y="380.2196" stroke="black"
+    /></g
+    ><g font-size="10px" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" color-interpolation="linearRGB" font-weight="bold"
+    ><text x="182" xml:space="preserve" y="389" stroke="none"
       ></text
     ></g
     ><g fill="rgb(248,247,240)" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="rgb(248,247,240)" image-rendering="optimizeQuality"
@@ -232,14 +232,14 @@
       ></text
     ></g
     ><g fill="rgb(248,247,240)" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="rgb(248,247,240)" image-rendering="optimizeQuality"
-    ><path d="M452.6204 544.9248 L524.6204 544.9248 L529.6204 549.9248 L529.6204 779.3254 L524.6204 784.3254 L452.6204 784.3254 L447.6204 779.3254 L447.6204 549.9248 Z" stroke="none" fill-rule="evenodd"
-      /><path fill="none" stroke-dasharray="8,8" d="M452.6204 544.9248 L524.6204 544.9248 L529.6204 549.9248 L529.6204 779.3254 L524.6204 784.3254 L452.6204 784.3254 L447.6204 779.3254 L447.6204 549.9248 Z" fill-rule="evenodd" stroke="black"
-      /><text fill="black" x="468" xml:space="preserve" y="779" font-family="sans-serif" stroke="none"
-      >d9098</text
-      ><path d="M227.8488 618.1334 L353.0427 618.1334 L358.0427 623.1334 L358.0427 706.1667 L353.0427 711.1667 L227.8488 711.1667 L222.8488 706.1667 L222.8488 623.1334 Z" stroke="none" fill-rule="evenodd"
+    ><path d="M227.8488 618.1334 L353.0427 618.1334 L358.0427 623.1334 L358.0427 706.1667 L353.0427 711.1667 L227.8488 711.1667 L222.8488 706.1667 L222.8488 623.1334 Z" stroke="none" fill-rule="evenodd"
       /><path fill="none" d="M227.8488 618.1334 L353.0427 618.1334 L358.0427 623.1334 L358.0427 706.1667 L353.0427 711.1667 L227.8488 711.1667 L222.8488 706.1667 L222.8488 623.1334 Z" fill-rule="evenodd" stroke="black"
       /><text fill="black" x="272" xml:space="preserve" y="706" font-family="sans-serif" stroke="none"
       >efdba</text
+      ><path d="M452.6204 544.9248 L524.6204 544.9248 L529.6204 549.9248 L529.6204 779.3254 L524.6204 784.3254 L452.6204 784.3254 L447.6204 779.3254 L447.6204 549.9248 Z" stroke="none" fill-rule="evenodd"
+      /><path fill="none" stroke-dasharray="8,8" d="M452.6204 544.9248 L524.6204 544.9248 L529.6204 549.9248 L529.6204 779.3254 L524.6204 784.3254 L452.6204 784.3254 L447.6204 779.3254 L447.6204 549.9248 Z" fill-rule="evenodd" stroke="black"
+      /><text fill="black" x="468" xml:space="preserve" y="779" font-family="sans-serif" stroke="none"
+      >d9098</text
       ><path fill="none" d="M357.5 171 L385.0002 170.7241" stroke="black"
       /><path fill="none" d="M394.9998 170.6238 L419.5002 170.378" stroke="black"
       /><line y2="165.3783" fill="none" x1="419.5503" x2="419.45" stroke="black" y1="175.3778"
@@ -277,6 +277,12 @@
     ><text x="326" xml:space="preserve" y="146" stroke="none"
       ></text
     ></g
+    ><g fill="gray" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="gray" image-rendering="optimizeQuality"
+    ><path d="M650.4102 370.073 L646.7941 377.8218 L646.7941 377.8218 C647.0693 377.9505 647.336 378.0944 647.5931 378.2524 L647.5931 378.2524 L651.4102 370.073 ZM643.4102 377.073 C638.9919 377.073 635.4102 380.6548 635.4102 385.073 C635.4102 388.2819 637.2994 391.0495 640.0262 392.3242 L640.0262 392.3242 L646.7941 377.8218 L646.7941 377.8218 C645.7663 377.3414 644.6196 377.073 643.4102 377.073 ZM647.5931 378.2524 L640.8691 392.661 L640.8691 392.661 C640.5804 392.5644 640.2992 392.4518 640.0262 392.3242 L640.0262 392.3242 L636.4102 400.073 L637.4102 400.073 L640.8691 392.661 L640.8691 392.661 C641.6674 392.9283 642.5219 393.073 643.4102 393.073 C647.8284 393.073 651.4102 389.4913 651.4102 385.073 C651.4102 382.1881 649.8831 379.6598 647.5931 378.2524 Z" stroke="none"
+      /><path fill="none" d="M650.4102 370.073 L646.7941 377.8218 L646.7941 377.8218 C647.0693 377.9505 647.336 378.0944 647.5931 378.2524 L647.5931 378.2524 L651.4102 370.073 ZM643.4102 377.073 C638.9919 377.073 635.4102 380.6548 635.4102 385.073 C635.4102 388.2819 637.2994 391.0495 640.0262 392.3242 L640.0262 392.3242 L646.7941 377.8218 L646.7941 377.8218 C645.7663 377.3414 644.6196 377.073 643.4102 377.073 ZM647.5931 378.2524 L640.8691 392.661 L640.8691 392.661 C640.5804 392.5644 640.2992 392.4518 640.0262 392.3242 L640.0262 392.3242 L636.4102 400.073 L637.4102 400.073 L640.8691 392.661 L640.8691 392.661 C641.6674 392.9283 642.5219 393.073 643.4102 393.073 C647.8284 393.073 651.4102 389.4913 651.4102 385.073 C651.4102 382.1881 649.8831 379.6598 647.5931 378.2524 Z" stroke="black"
+      /><text fill="black" x="643" xml:space="preserve" y="397" font-family="sans-serif" stroke="none"
+      ></text
+    ></g
     ><g fill-opacity="0.0314" fill="rgb(128,128,128)" text-rendering="geometricPrecision" color-rendering="optimizeQuality" image-rendering="optimizeQuality" stroke="rgb(128,128,128)" color-interpolation="linearRGB" stroke-opacity="0.0314"
     ><rect x="100.6452" y="417.5309" width="1040.4608" rx="10" ry="10" height="702.4691" stroke="none"
     /></g
@@ -290,10 +296,6 @@
     ><g fill="silver" text-rendering="geometricPrecision" color-rendering="optimizeQuality" image-rendering="optimizeQuality" font-family="sans-serif" stroke="silver" color-interpolation="linearRGB"
     ><text x="512" xml:space="preserve" y="975" stroke="none"
       >Malfunction of epigenetic machinery</text
-      ><path fill="gray" d="M650.4102 370.073 L646.7941 377.8218 L646.7941 377.8218 C647.0693 377.9505 647.336 378.0944 647.5931 378.2524 L647.5931 378.2524 L651.4102 370.073 ZM643.4102 377.073 C638.9919 377.073 635.4102 380.6548 635.4102 385.073 C635.4102 388.2819 637.2994 391.0495 640.0262 392.3242 L640.0262 392.3242 L646.7941 377.8218 L646.7941 377.8218 C645.7663 377.3414 644.6196 377.073 643.4102 377.073 ZM647.5931 378.2524 L640.8691 392.661 L640.8691 392.661 C640.5804 392.5644 640.2992 392.4518 640.0262 392.3242 L640.0262 392.3242 L636.4102 400.073 L637.4102 400.073 L640.8691 392.661 L640.8691 392.661 C641.6674 392.9283 642.5219 393.073 643.4102 393.073 C647.8284 393.073 651.4102 389.4913 651.4102 385.073 C651.4102 382.1881 649.8831 379.6598 647.5931 378.2524 Z" stroke="none"
-      /><path fill="none" d="M650.4102 370.073 L646.7941 377.8218 L646.7941 377.8218 C647.0693 377.9505 647.336 378.0944 647.5931 378.2524 L647.5931 378.2524 L651.4102 370.073 ZM643.4102 377.073 C638.9919 377.073 635.4102 380.6548 635.4102 385.073 C635.4102 388.2819 637.2994 391.0495 640.0262 392.3242 L640.0262 392.3242 L646.7941 377.8218 L646.7941 377.8218 C645.7663 377.3414 644.6196 377.073 643.4102 377.073 ZM647.5931 378.2524 L640.8691 392.661 L640.8691 392.661 C640.5804 392.5644 640.2992 392.4518 640.0262 392.3242 L640.0262 392.3242 L636.4102 400.073 L637.4102 400.073 L640.8691 392.661 L640.8691 392.661 C641.6674 392.9283 642.5219 393.073 643.4102 393.073 C647.8284 393.073 651.4102 389.4913 651.4102 385.073 C651.4102 382.1881 649.8831 379.6598 647.5931 378.2524 Z" stroke="black"
-      /><text fill="black" x="643" xml:space="preserve" y="397" stroke="none"
-      ></text
     ></g
     ><g fill-opacity="0.0314" fill="rgb(128,128,128)" text-rendering="geometricPrecision" color-rendering="optimizeQuality" image-rendering="optimizeQuality" stroke="rgb(128,128,128)" color-interpolation="linearRGB" stroke-opacity="0.0314"
     ><rect x="32.5" y="62.2151" width="1124.735" rx="10" ry="10" height="1080.2849" stroke="none"
@@ -316,32 +318,56 @@
       >Cell migration</text
       ><text x="638" xml:space="preserve" stroke-dasharray="none" y="259" font-family="sans-serif" stroke="none"
       >and invasion</text
-      ><rect x="699" y="434" fill="white" width="59" stroke-dasharray="none" height="25" stroke="none"
-      /><rect fill="none" x="699" width="59" stroke-dasharray="none" height="25" y="434"
-      /><text x="708" xml:space="preserve" stroke-dasharray="none" y="451" font-family="sans-serif" stroke="none"
-      >CAMK1</text
+      ><rect x="794" y="710" fill="white" width="55" stroke-dasharray="none" height="25" stroke="none"
+      /><rect fill="none" x="794" width="55" stroke-dasharray="none" height="25" y="710"
+      /><text x="807" xml:space="preserve" stroke-dasharray="none" y="727" font-family="sans-serif" stroke="none"
+      >FLT1</text
+      ><rect x="760" y="434" fill="white" width="65" stroke-dasharray="none" height="25" stroke="none"
+      /><rect fill="none" x="760" width="65" stroke-dasharray="none" height="25" y="434"
+      /><text x="769" xml:space="preserve" stroke-dasharray="none" y="451" font-family="sans-serif" stroke="none"
+      >EFCAB3</text
+      ><rect x="455" y="552" fill="white" width="66" stroke-dasharray="none" height="25" stroke="none"
+      /><rect fill="none" x="455" width="66" stroke-dasharray="none" height="25" y="552"
+      /><text x="472" xml:space="preserve" stroke-dasharray="none" y="569" font-family="sans-serif" stroke="none"
+      >EGFR</text
+      ><rect x="539" y="145" fill="white" width="63" stroke-dasharray="none" height="25" stroke="none"
+      /><rect fill="none" x="539" width="63" stroke-dasharray="none" height="25" y="145"
+      /><text x="554" xml:space="preserve" stroke-dasharray="none" y="162" font-family="sans-serif" stroke="none"
+      >AMPK</text
+      ><rect x="828" y="434" fill="white" width="65" stroke-dasharray="none" height="25" stroke="none"
+      /><rect fill="none" x="828" width="65" stroke-dasharray="none" height="25" y="434"
+      /><text x="840" xml:space="preserve" stroke-dasharray="none" y="451" font-family="sans-serif" stroke="none"
+      >ENPP3</text
+      ><rect x="636" y="532" fill="white" width="57" stroke-dasharray="none" height="25" stroke="none"
+      /><rect fill="none" x="636" width="57" stroke-dasharray="none" height="25" y="532"
+      /><text x="653" xml:space="preserve" stroke-dasharray="none" y="549" font-family="sans-serif" stroke="none"
+      >HK3</text
       ><rect x="724" y="710" fill="white" width="70" stroke-dasharray="none" height="25" stroke="none"
       /><rect fill="none" x="724" width="70" stroke-dasharray="none" height="25" y="710"
       /><text x="734" xml:space="preserve" stroke-dasharray="none" y="727" font-family="sans-serif" stroke="none"
       >PDGFRA</text
-      ><path fill="white" stroke-dasharray="none" d="M569.6774 579.8657 L582.1774 567.3657 L628.2201 567.3657 L640.7201 579.8657 L628.2201 592.3657 L582.1774 592.3657 Z" fill-rule="evenodd" stroke="none"
-      /><path fill="none" stroke-dasharray="none" d="M569.6774 579.8657 L582.1774 567.3657 L628.2201 567.3657 L640.7201 579.8657 L628.2201 592.3657 L582.1774 592.3657 Z" fill-rule="evenodd" stroke="rgb(20,150,30)"
+      ><ellipse fill="white" rx="37.1667" stroke-dasharray="none" cx="187.8976" ry="12.5" cy="227.6667" stroke="none"
+      /><ellipse fill="none" rx="37.1667" stroke-dasharray="none" cx="187.8976" ry="12.5" cy="227.6667" stroke="blue"
     /></g
-    ><g fill="rgb(20,150,30)" text-rendering="geometricPrecision" color-rendering="optimizeQuality" image-rendering="optimizeQuality" font-family="sans-serif" stroke="rgb(20,150,30)" color-interpolation="linearRGB"
-    ><text x="575" xml:space="preserve" y="584" stroke="none"
-      >Glycolysis</text
-      ><rect fill="white" x="794" width="55" height="25" y="710" stroke="none"
-      /><rect fill="none" x="794" width="55" height="25" y="710" stroke="black"
-      /><text fill="black" x="807" xml:space="preserve" y="727" stroke="none"
-      >FLT1</text
-      ><path fill="white" d="M593.4085 476.4356 L605.9085 463.9356 L677.9085 463.9356 L690.4085 476.4356 L677.9085 488.9356 L605.9085 488.9356 Z" fill-rule="evenodd" stroke="none"
-      /><path fill="none" d="M593.4085 476.4356 L605.9085 463.9356 L677.9085 463.9356 L690.4085 476.4356 L677.9085 488.9356 L605.9085 488.9356 Z" fill-rule="evenodd"
-      /><text x="590" xml:space="preserve" y="480" stroke="none"
-      >Cell proliferation</text
-      ><rect fill="white" x="828" width="65" height="25" y="434" stroke="none"
-      /><rect fill="none" x="828" width="65" height="25" y="434" stroke="black"
-      /><text fill="black" x="840" xml:space="preserve" y="451" stroke="none"
-      >ENPP3</text
+    ><g fill="blue" text-rendering="geometricPrecision" color-rendering="optimizeQuality" image-rendering="optimizeQuality" font-family="sans-serif" stroke="blue" color-interpolation="linearRGB"
+    ><text x="162" xml:space="preserve" y="232" stroke="none"
+      >Glucose</text
+      ><rect fill="white" x="637" width="60" height="25" y="132" stroke="none"
+      /><rect fill="none" x="637" width="60" height="25" y="132" stroke="black"
+      /><text fill="black" x="647" xml:space="preserve" y="149" stroke="none"
+      >ACACA</text
+      ><rect fill="white" x="167" width="67" height="27" y="750" stroke="none"
+      /><rect fill="none" x="167" width="67" height="27" y="750" stroke="black"
+      /><text fill="black" x="181" xml:space="preserve" y="768" stroke="none"
+      >STAT3</text
+      ><rect fill="white" x="699" width="59" height="25" y="434" stroke="none"
+      /><rect fill="none" x="699" width="59" height="25" y="434" stroke="black"
+      /><text fill="black" x="708" xml:space="preserve" y="451" stroke="none"
+      >CAMK1</text
+      ><path fill="white" d="M733 157.9454 L745.5 145.4454 L858.5 145.4454 L871 157.9454 L858.5 170.4454 L745.5 170.4454 Z" fill-rule="evenodd" stroke="none"
+      /><path fill="none" d="M733 157.9454 L745.5 145.4454 L858.5 145.4454 L871 157.9454 L858.5 170.4454 L745.5 170.4454 Z" fill-rule="evenodd" stroke="rgb(20,150,30)"
+      /><text fill="rgb(20,150,30)" x="740" xml:space="preserve" y="162" stroke="none"
+      >Fatty acid synthesis</text
       ><rect fill="white" x="966" width="65" height="25" y="459" stroke="none"
       /><rect fill="none" x="966" width="65" height="25" y="459" stroke="black"
       /><text fill="black" x="981" xml:space="preserve" y="476" stroke="none"
@@ -350,50 +376,26 @@
       /><rect fill="none" x="874" width="65" height="25" y="132" stroke="black"
       /><text fill="black" x="891" xml:space="preserve" y="149" stroke="none"
       >FASN</text
-      ><path fill="white" d="M733 157.9454 L745.5 145.4454 L858.5 145.4454 L871 157.9454 L858.5 170.4454 L745.5 170.4454 Z" fill-rule="evenodd" stroke="none"
-      /><path fill="none" d="M733 157.9454 L745.5 145.4454 L858.5 145.4454 L871 157.9454 L858.5 170.4454 L745.5 170.4454 Z" fill-rule="evenodd"
-      /><text x="740" xml:space="preserve" y="162" stroke="none"
-      >Fatty acid synthesis</text
-      ><rect fill="white" x="760" width="65" height="25" y="434" stroke="none"
-      /><rect fill="none" x="760" width="65" height="25" y="434" stroke="black"
-      /><text fill="black" x="769" xml:space="preserve" y="451" stroke="none"
-      >EFCAB3</text
+      ><path fill="white" d="M593.4085 476.4356 L605.9085 463.9356 L677.9085 463.9356 L690.4085 476.4356 L677.9085 488.9356 L605.9085 488.9356 Z" fill-rule="evenodd" stroke="none"
+      /><path fill="none" d="M593.4085 476.4356 L605.9085 463.9356 L677.9085 463.9356 L690.4085 476.4356 L677.9085 488.9356 L605.9085 488.9356 Z" fill-rule="evenodd" stroke="rgb(20,150,30)"
+      /><text fill="rgb(20,150,30)" x="590" xml:space="preserve" y="480" stroke="none"
+      >Cell proliferation</text
+      ><path fill="white" d="M569.6774 579.8657 L582.1774 567.3657 L628.2201 567.3657 L640.7201 579.8657 L628.2201 592.3657 L582.1774 592.3657 Z" fill-rule="evenodd" stroke="none"
+      /><path fill="none" d="M569.6774 579.8657 L582.1774 567.3657 L628.2201 567.3657 L640.7201 579.8657 L628.2201 592.3657 L582.1774 592.3657 Z" fill-rule="evenodd" stroke="rgb(20,150,30)"
+      /><text fill="rgb(20,150,30)" x="575" xml:space="preserve" y="584" stroke="none"
+      >Glycolysis</text
       ><path fill="white" d="M620.7983 219.6042 L633.2983 207.1042 L733.1302 207.1042 L745.6302 219.6042 L733.1302 232.1042 L633.2983 232.1042 Z" fill-rule="evenodd" stroke="none"
-      /><path fill="none" d="M620.7983 219.6042 L633.2983 207.1042 L733.1302 207.1042 L745.6302 219.6042 L733.1302 232.1042 L633.2983 232.1042 Z" fill-rule="evenodd"
-      /><text x="624" xml:space="preserve" y="224" stroke="none"
+      /><path fill="none" d="M620.7983 219.6042 L633.2983 207.1042 L733.1302 207.1042 L745.6302 219.6042 L733.1302 232.1042 L633.2983 232.1042 Z" fill-rule="evenodd" stroke="rgb(20,150,30)"
+      /><text fill="rgb(20,150,30)" x="624" xml:space="preserve" y="224" stroke="none"
       >Protein translation</text
-      ><rect fill="white" x="167" width="67" height="27" y="750" stroke="none"
-      /><rect fill="none" x="167" width="67" height="27" y="750" stroke="black"
-      /><text fill="black" x="181" xml:space="preserve" y="768" stroke="none"
-      >STAT3</text
-      ><rect fill="white" x="539" width="63" height="25" y="145" stroke="none"
-      /><rect fill="none" x="539" width="63" height="25" y="145" stroke="black"
-      /><text fill="black" x="554" xml:space="preserve" y="162" stroke="none"
-      >AMPK</text
-      ><rect fill="white" x="636" width="57" height="25" y="532" stroke="none"
-      /><rect fill="none" x="636" width="57" height="25" y="532" stroke="black"
-      /><text fill="black" x="653" xml:space="preserve" y="549" stroke="none"
-      >HK3</text
-      ><rect fill="white" x="455" width="66" height="25" y="552" stroke="none"
-      /><rect fill="none" x="455" width="66" height="25" y="552" stroke="black"
-      /><text fill="black" x="472" xml:space="preserve" y="569" stroke="none"
-      >EGFR</text
-      ><ellipse rx="37.1667" fill="white" ry="12.5" cx="187.8976" cy="227.6667" stroke="none"
-      /><ellipse rx="37.1667" fill="none" ry="12.5" cx="187.8976" cy="227.6667" stroke="blue"
-      /><text fill="blue" x="162" xml:space="preserve" y="232" stroke="none"
-      >Glucose</text
-      ><rect fill="white" x="637" width="60" height="25" y="132" stroke="none"
-      /><rect fill="none" x="637" width="60" height="25" y="132" stroke="black"
-      /><text fill="black" x="647" xml:space="preserve" y="149" stroke="none"
-      >ACACA</text
       ><circle fill="white" r="7.5" cx="234.3308" cy="762.9836" stroke="none"
       /><circle fill="none" r="7.5" cx="234.3308" cy="762.9836" stroke="black"
       /><line y2="777" fill="none" x1="234" x2="234" stroke="black" y1="770"
       /><text fill="black" x="231" xml:space="preserve" font-size="10px" y="767" stroke="none"
       >P</text
       ><path fill="white" d="M619.4792 729.1874 L631.9792 716.6874 L696.9792 716.6874 L709.4792 729.1874 L696.9792 741.6874 L631.9792 741.6874 Z" fill-rule="evenodd" stroke="none"
-      /><path fill="none" d="M619.4792 729.1874 L631.9792 716.6874 L696.9792 716.6874 L709.4792 729.1874 L696.9792 741.6874 L631.9792 741.6874 Z" fill-rule="evenodd"
-      /><text x="622" xml:space="preserve" y="733" stroke="none"
+      /><path fill="none" d="M619.4792 729.1874 L631.9792 716.6874 L696.9792 716.6874 L709.4792 729.1874 L696.9792 741.6874 L631.9792 741.6874 Z" fill-rule="evenodd" stroke="rgb(20,150,30)"
+      /><text fill="rgb(20,150,30)" x="622" xml:space="preserve" y="733" stroke="none"
       >Angiogenesis</text
       ><rect fill="white" x="294" width="63" height="25" y="158" stroke="none"
       /><rect fill="none" x="294" width="63" height="25" y="158" stroke="black"
@@ -468,15 +470,15 @@
       /><rect fill="none" x="161" width="54" height="25" y="100" stroke="black"
       /><text fill="black" x="172" xml:space="preserve" y="117" stroke="none"
       >PTEN</text
-      ><rect fill="white" x="455" width="66" height="25" y="580" stroke="none"
-      /><rect fill="none" x="455" width="66" height="25" y="580" stroke="black"
-      /><text fill="black" x="469" xml:space="preserve" y="597" stroke="none"
-      >GLUT1</text
       ><circle fill="white" r="7.5" cx="161" cy="85.6521" stroke="none"
       /><circle fill="none" r="7.5" cx="161" cy="85.6521" stroke="black"
       /><line y2="100" fill="none" x1="161" x2="161" stroke="black" y1="93"
       /><text fill="black" x="159" xml:space="preserve" font-size="10px" y="90" stroke="none"
       >?</text
+      ><rect fill="white" x="455" width="66" height="25" y="580" stroke="none"
+      /><rect fill="none" x="455" width="66" height="25" y="580" stroke="black"
+      /><text fill="black" x="469" xml:space="preserve" y="597" stroke="none"
+      >GLUT1</text
       ><rect fill="white" x="455" width="66" height="25" y="608" stroke="none"
       /><rect fill="none" x="455" width="66" height="25" y="608" stroke="black"
       /><text fill="black" x="468" xml:space="preserve" y="625" stroke="none"
@@ -892,7 +894,41 @@
       /><rect fill="none" x="966" width="65" height="25" y="434" stroke="black"
       /><text fill="black" x="983" xml:space="preserve" y="451" font-family="sans-serif" stroke="none"
       >TOX2</text
-      ><text fill="black" x="1239" xml:space="preserve" y="66" stroke="none"
+      ><text fill="black" x="1057" xml:space="preserve" y="1099" stroke="none"
+      >Nucleus</text
+      ><text fill="black" x="217" xml:space="preserve" y="30" stroke="none"
+      >Activation of PI3K-mTOR pathway</text
+    ></g
+    ><g fill-opacity="0.0314" fill="rgb(248,247,240)" text-rendering="geometricPrecision" color-rendering="optimizeQuality" image-rendering="optimizeQuality" stroke="rgb(248,247,240)" color-interpolation="linearRGB" stroke-opacity="0.0314"
+    ><rect x="725" y="124.6676" width="294.0185" rx="10" ry="10" height="66" stroke="none"
+    /></g
+    ><g text-rendering="geometricPrecision" stroke-width="2" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
+    ><rect x="725" y="124.6676" fill="none" width="294.0185" rx="10" ry="10" height="66"
+      /><rect x="737" y="136.6676" fill="none" width="270.0185" rx="10" ry="10" height="42" stroke-width="1"
+    /></g
+    ><g fill-opacity="0.498" fill="rgb(248,247,240)" text-rendering="geometricPrecision" color-rendering="optimizeQuality" image-rendering="optimizeQuality" stroke="rgb(248,247,240)" color-interpolation="linearRGB" stroke-opacity="0.498"
+    ><path d="M997.0185 136.6676 C1002.5414 136.6676 1007.0185 141.1448 1007.0185 146.6676 L1007.0185 168.6676 C1007.0185 174.1905 1002.5414 178.6676 997.0185 178.6676 L747 178.6676 C741.4772 178.6676 737 174.1905 737 168.6676 L737 146.6676 C737 141.1448 741.4772 136.6676 747 136.6676 ZM735 124.6676 C729.4772 124.6676 725 129.1448 725 134.6676 L725 180.6676 C725 186.1905 729.4772 190.6676 735 190.6676 L1009.0185 190.6676 C1014.5414 190.6676 1019.0185 186.1905 1019.0185 180.6676 L1019.0185 134.6676 C1019.0185 129.1448 1014.5414 124.6676 1009.0185 124.6676 Z" stroke="none"
+    /></g
+    ><g text-rendering="geometricPrecision" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
+    ><text x="725" xml:space="preserve" y="132" stroke="none"
+      >c813d</text
+      ><text x="1237" xml:space="preserve" y="100" font-family="'Dialog'" stroke="none"
+      >Activating mutation</text
+    ></g
+    ><g fill-opacity="0.0314" fill="rgb(248,247,240)" text-rendering="geometricPrecision" color-rendering="optimizeQuality" image-rendering="optimizeQuality" stroke="rgb(248,247,240)" color-interpolation="linearRGB" stroke-opacity="0.0314"
+    ><rect x="561.6774" y="521.236" width="573.2279" rx="10" ry="10" height="143.3611" stroke="none"
+    /></g
+    ><g text-rendering="geometricPrecision" stroke-width="2" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
+    ><rect x="561.6774" y="521.236" fill="none" width="573.2279" rx="10" ry="10" height="143.3611"
+      /><rect x="573.6774" y="533.236" fill="none" width="549.2279" rx="10" ry="10" height="119.3611" stroke-width="1"
+    /></g
+    ><g fill-opacity="0.498" fill="rgb(248,247,240)" text-rendering="geometricPrecision" color-rendering="optimizeQuality" image-rendering="optimizeQuality" stroke="rgb(248,247,240)" color-interpolation="linearRGB" stroke-opacity="0.498"
+    ><path d="M1112.9053 533.236 C1118.4281 533.236 1122.9053 537.7131 1122.9053 543.236 L1122.9053 642.5971 C1122.9053 648.1199 1118.4281 652.5971 1112.9053 652.5971 L583.6774 652.5971 C578.1546 652.5971 573.6774 648.1199 573.6774 642.5971 L573.6774 543.236 C573.6774 537.7131 578.1546 533.236 583.6774 533.236 ZM571.6774 521.236 C566.1546 521.236 561.6774 525.7131 561.6774 531.236 L561.6774 654.5971 C561.6774 660.1199 566.1546 664.5971 571.6774 664.5971 L1124.9053 664.5971 C1130.4281 664.5971 1134.9053 660.1199 1134.9053 654.5971 L1134.9053 531.236 C1134.9053 525.7131 1130.4281 521.236 1124.9053 521.236 Z" stroke="none"
+    /></g
+    ><g text-rendering="geometricPrecision" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
+    ><text x="561" xml:space="preserve" y="528" stroke="none"
+      >b5d23</text
+      ><text x="1239" xml:space="preserve" y="66" font-family="'Dialog'" stroke="none"
       >Legend</text
     ></g
     ><g fill-opacity="0.0314" fill="rgb(248,247,240)" text-rendering="geometricPrecision" color-rendering="optimizeQuality" image-rendering="optimizeQuality" stroke="rgb(248,247,240)" color-interpolation="linearRGB" stroke-opacity="0.0314"
@@ -908,8 +944,6 @@
     ><g text-rendering="geometricPrecision" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
     ><text x="611" xml:space="preserve" y="709" stroke="none"
       >e6209</text
-      ><text x="1237" xml:space="preserve" y="100" font-family="'Dialog'" stroke="none"
-      >Activating mutation</text
     ></g
     ><g fill-opacity="0.0314" fill="rgb(248,247,240)" text-rendering="geometricPrecision" color-rendering="optimizeQuality" image-rendering="optimizeQuality" stroke="rgb(248,247,240)" color-interpolation="linearRGB" stroke-opacity="0.0314"
     ><rect x="585.4085" y="426.776" width="454.3782" rx="10" ry="10" height="91.2101" stroke="none"
@@ -924,40 +958,8 @@
     ><g text-rendering="geometricPrecision" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
     ><text x="585" xml:space="preserve" y="434" stroke="none"
       >fd254</text
-      ><text x="1057" xml:space="preserve" y="1099" font-family="'Dialog'" stroke="none"
-      >Nucleus</text
-    ></g
-    ><g fill-opacity="0.0314" fill="rgb(248,247,240)" text-rendering="geometricPrecision" color-rendering="optimizeQuality" image-rendering="optimizeQuality" stroke="rgb(248,247,240)" color-interpolation="linearRGB" stroke-opacity="0.0314"
-    ><rect x="725" y="124.6676" width="294.0185" rx="10" ry="10" height="66" stroke="none"
-    /></g
-    ><g text-rendering="geometricPrecision" stroke-width="2" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><rect x="725" y="124.6676" fill="none" width="294.0185" rx="10" ry="10" height="66"
-      /><rect x="737" y="136.6676" fill="none" width="270.0185" rx="10" ry="10" height="42" stroke-width="1"
-    /></g
-    ><g fill-opacity="0.498" fill="rgb(248,247,240)" text-rendering="geometricPrecision" color-rendering="optimizeQuality" image-rendering="optimizeQuality" stroke="rgb(248,247,240)" color-interpolation="linearRGB" stroke-opacity="0.498"
-    ><path d="M997.0185 136.6676 C1002.5414 136.6676 1007.0185 141.1448 1007.0185 146.6676 L1007.0185 168.6676 C1007.0185 174.1905 1002.5414 178.6676 997.0185 178.6676 L747 178.6676 C741.4772 178.6676 737 174.1905 737 168.6676 L737 146.6676 C737 141.1448 741.4772 136.6676 747 136.6676 ZM735 124.6676 C729.4772 124.6676 725 129.1448 725 134.6676 L725 180.6676 C725 186.1905 729.4772 190.6676 735 190.6676 L1009.0185 190.6676 C1014.5414 190.6676 1019.0185 186.1905 1019.0185 180.6676 L1019.0185 134.6676 C1019.0185 129.1448 1014.5414 124.6676 1009.0185 124.6676 Z" stroke="none"
-    /></g
-    ><g text-rendering="geometricPrecision" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="725" xml:space="preserve" y="132" stroke="none"
-      >c813d</text
-      ><text x="217" xml:space="preserve" y="30" font-family="'Dialog'" stroke="none"
-      >Activation of PI3K-mTOR pathway</text
       ><text x="1227" xml:space="preserve" y="135" font-family="'Dialog'" stroke="none"
       >Inactivating mutation</text
-    ></g
-    ><g fill-opacity="0.0314" fill="rgb(248,247,240)" text-rendering="geometricPrecision" color-rendering="optimizeQuality" image-rendering="optimizeQuality" stroke="rgb(248,247,240)" color-interpolation="linearRGB" stroke-opacity="0.0314"
-    ><rect x="561.6774" y="521.236" width="573.2279" rx="10" ry="10" height="143.3611" stroke="none"
-    /></g
-    ><g text-rendering="geometricPrecision" stroke-width="2" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><rect x="561.6774" y="521.236" fill="none" width="573.2279" rx="10" ry="10" height="143.3611"
-      /><rect x="573.6774" y="533.236" fill="none" width="549.2279" rx="10" ry="10" height="119.3611" stroke-width="1"
-    /></g
-    ><g fill-opacity="0.498" fill="rgb(248,247,240)" text-rendering="geometricPrecision" color-rendering="optimizeQuality" image-rendering="optimizeQuality" stroke="rgb(248,247,240)" color-interpolation="linearRGB" stroke-opacity="0.498"
-    ><path d="M1112.9053 533.236 C1118.4281 533.236 1122.9053 537.7131 1122.9053 543.236 L1122.9053 642.5971 C1122.9053 648.1199 1118.4281 652.5971 1112.9053 652.5971 L583.6774 652.5971 C578.1546 652.5971 573.6774 648.1199 573.6774 642.5971 L573.6774 543.236 C573.6774 537.7131 578.1546 533.236 583.6774 533.236 ZM571.6774 521.236 C566.1546 521.236 561.6774 525.7131 561.6774 531.236 L561.6774 654.5971 C561.6774 660.1199 566.1546 664.5971 571.6774 664.5971 L1124.9053 664.5971 C1130.4281 664.5971 1134.9053 660.1199 1134.9053 654.5971 L1134.9053 531.236 C1134.9053 525.7131 1130.4281 521.236 1124.9053 521.236 Z" stroke="none"
-    /></g
-    ><g text-rendering="geometricPrecision" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="561" xml:space="preserve" y="528" stroke="none"
-      >b5d23</text
     ></g
   ></g
 ></svg

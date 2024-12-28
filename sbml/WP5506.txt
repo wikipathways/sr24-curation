@@ -2,10 +2,17 @@ Disorders of Niacin and NAD Metabolism
 
 
 
-[CATALYSIS:id26150]	Interaction is not connected
+[CATALYSIS:id43adc656]	Interaction is not connected
 [CATALYSIS:id681c2324]	Interaction is not connected
+[CATALYSIS:id7374853e]	Interaction is not connected
+[ARROW:id9efe3bda]	Interaction is not connected
+[ARROW:idb6b2dde8]	Interaction is not connected
 [CONVERSION:idbe850b0b]	Interaction is not connected
 [CATALYSIS:bd2f5]	Interaction is not connected
+[CATALYSIS:e19e8]	Interaction is not connected
+[CATALYSIS:f9be5]	Interaction is not connected
+[CATALYSIS:f2383]	Interaction is not connected
 [Label:d7a82]	 Label cannot be part of reaction. Tranforming to Unknown
 [Label:cf0ea]	 Label cannot be part of reaction. Tranforming to Unknown
 [Label:f7ea7]	 Label cannot be part of reaction. Tranforming to Unknown
+[BiopaxReference:cdb]	Publication is invalid.

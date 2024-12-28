@@ -94,8 +94,8 @@ The pathway summarizes non-genomic actions of the hormonally active form of vita
 [Label:a70e0]	 Label cannot be part of reaction. Tranforming to Unknown
 [Label:da643]	 Label cannot be part of reaction. Tranforming to Unknown
 [Label:b4453]	 Label cannot be part of reaction. Tranforming to Unknown
-[:babb9]	RECTANGLE cannot be part of a complex. Skipping.
 [:ecad9]	RECTANGLE cannot be part of a complex. Skipping.
+[:babb9]	RECTANGLE cannot be part of a complex. Skipping.
 [HeterodimerAssociationReaction:id859e2b99]	Reaction should contain at least 2 reactants. GraphId: id859e2b99
 [HeterodimerAssociationReaction:idbd396ec]	Reaction should contain at least 2 reactants. GraphId: idbd396ec
 [ReducedPhysicalStimulationReaction:id8d780d66]	Reaction should contain only one reactant and one product.
@@ -110,5 +110,5 @@ The pathway summarizes non-genomic actions of the hormonally active form of vita
 [HeterodimerAssociationReaction:df3b9]	Reaction should contain at least 2 reactants. GraphId: df3b9
 [ReducedPhysicalStimulationReaction:e53d3]	Reaction should contain only one reactant and one product.
 [HeterodimerAssociationReaction:ffd3f]	Reaction should contain at least 2 reactants. GraphId: ffd3f
-[Complex:bedba]	Empty element is invalid
 [Complex:beb55]	Empty element is invalid
+[Complex:bedba]	Empty element is invalid

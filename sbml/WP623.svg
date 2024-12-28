@@ -28,19 +28,15 @@
     ><g font-size="10px" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" color-interpolation="linearRGB" font-weight="bold"
     ><text x="589" xml:space="preserve" y="134" stroke="none"
       ></text
-    ></g
-    ><g fill="rgb(248,247,240)" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="rgb(248,247,240)" image-rendering="optimizeQuality"
-    ><path d="M75 164 L401 164 L406 169 L406 395 L401 400 L75 400 L70 395 L70 169 Z" stroke="none" fill-rule="evenodd"
-      /><path fill="none" d="M75 164 L401 164 L406 169 L406 395 L401 400 L75 400 L70 395 L70 169 Z" fill-rule="evenodd" stroke="black"
-      /><text fill="black" x="224" xml:space="preserve" y="395" font-family="sans-serif" stroke="none"
-      >fa6ff</text
-      ><path fill="none" d="M186 81 L233.5 81" stroke="black"
-      /><path fill="none" d="M259.5 81 L291 81" stroke="black"
-      /><path fill="black" d="M277.1418 86.7402 L291 81 L277.1418 75.2598 Z" stroke="none"
-      /><path fill="none" d="M259.5 81 L391.25 30 L523 70" stroke="black"
-      /><path fill="black" d="M508.0719 71.4667 L523 70 L511.4071 60.4814 Z" stroke="none"
-      /><path fill="none" d="M238 160 L238.5 86" stroke="black"
-      /><circle fill="white" r="4" cx="238.473" cy="89.9999" stroke="none"
+      ><path fill="none" d="M186 81 L233.5 81"
+      /><path fill="none" d="M259.5 81 L291 81"
+      /><path d="M277.1418 86.7402 L291 81 L277.1418 75.2598 Z" stroke="none"
+      /><path fill="none" d="M259.5 81 L391.25 30 L523 70"
+      /><path d="M508.0719 71.4667 L523 70 L511.4071 60.4814 Z" stroke="none"
+      /><path fill="none" d="M238 160 L238.5 86"
+    /></g
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><circle r="4" cx="238.473" cy="89.9999" stroke="none"
       /><circle fill="none" r="4" cx="238.473" cy="89.9999" stroke="black"
       /><path fill="none" d="M259.5 81 L246.5 81" stroke="black"
       /><circle fill="black" r="1.5" cx="259.5" cy="81" stroke="none"
@@ -49,7 +45,7 @@
       ></text
       ><path fill="none" d="M233.5 81 L235 81" stroke="black"
       /><path fill="none" d="M245 81 L246.5 81" stroke="black"
-      /><rect fill="white" x="235" width="10" height="10" y="76" stroke="none"
+      /><rect x="235" width="10" height="10" y="76" stroke="none"
       /><rect fill="none" x="235" width="10" height="10" y="76" stroke="black"
     /></g
     ><g font-size="10px" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" color-interpolation="linearRGB" font-weight="bold"
@@ -61,228 +57,32 @@
       /><path fill="none" d="M466 193.4833 L712 193.4833 L717 198.4833 L717 344.4833 L712 349.4833 L466 349.4833 L461 344.4833 L461 198.4833 Z" fill-rule="evenodd" stroke="black"
       /><text fill="black" x="571" xml:space="preserve" y="344" font-family="sans-serif" stroke="none"
       >cf0ee</text
-      ><rect fill="white" x="469" width="80" height="20" y="201" stroke="none"
-      /><rect fill="none" x="469" width="80" height="20" y="201" stroke="black"
+      ><path d="M75 164 L401 164 L406 169 L406 395 L401 400 L75 400 L70 395 L70 169 Z" stroke="none" fill-rule="evenodd"
+      /><path fill="none" d="M75 164 L401 164 L406 169 L406 395 L401 400 L75 400 L70 395 L70 169 Z" fill-rule="evenodd" stroke="black"
+      /><text fill="black" x="224" xml:space="preserve" y="395" font-family="sans-serif" stroke="none"
+      >fa6ff</text
+      ><rect fill="white" x="629" width="80" height="20" y="301" stroke="none"
+      /><rect fill="none" x="629" width="80" height="20" y="301" stroke="black"
     /></g
     ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="493" xml:space="preserve" y="214" stroke="none"
-      >ATP5S</text
+    ><text x="656" xml:space="preserve" y="314" stroke="none"
+      >ATP6</text
     ></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><ellipse rx="41.7583" ry="10" cx="470.2417" cy="130.9833" stroke="none"
-      /><ellipse rx="41.7583" fill="none" ry="10" cx="470.2417" cy="130.9833" stroke="blue"
-    /></g
-    ><g font-size="10px" fill="blue" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" stroke="blue" color-interpolation="linearRGB"
-    ><text x="459" xml:space="preserve" y="134" stroke="none"
-      >ADP</text
-    ></g
-    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="78" width="80" height="20" y="332" stroke="none"
-      /><rect fill="none" x="78" width="80" height="20" y="332" stroke="black"
+    ><rect x="158" width="80" height="20" y="332" stroke="none"
+      /><rect fill="none" x="158" width="80" height="20" y="332" stroke="black"
     /></g
     ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="98" xml:space="preserve" y="345" stroke="none"
-      >CI-75Kd</text
+    ><text x="175" xml:space="preserve" y="345" stroke="none"
+      >CI-SGDH</text
     ></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="238" width="80" height="20" y="372" stroke="none"
-      /><rect fill="none" x="238" width="80" height="20" y="372" stroke="black"
+    ><rect x="238" width="80" height="20" y="192" stroke="none"
+      /><rect fill="none" x="238" width="80" height="20" y="192" stroke="black"
     /></g
     ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="256" xml:space="preserve" y="385" stroke="none"
-      >NDUFV2</text
-    ></g
-    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="158" width="80" height="20" y="312" stroke="none"
-      /><rect fill="none" x="158" width="80" height="20" y="312" stroke="black"
-    /></g
-    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="188" xml:space="preserve" y="325" stroke="none"
-      >B14</text
-    ></g
-    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><ellipse rx="40" ry="10" cx="523" cy="80" stroke="none"
-      /><ellipse rx="40" fill="none" ry="10" cx="523" cy="80" stroke="blue"
-    /></g
-    ><g font-size="10px" fill="blue" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" stroke="blue" color-interpolation="linearRGB"
-    ><text x="499" xml:space="preserve" y="83" stroke="none"
-      >Hydrogen</text
-    ></g
-    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="78" width="80" height="20" y="292" stroke="none"
-      /><rect fill="none" x="78" width="80" height="20" y="292" stroke="black"
-    /></g
-    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="96" xml:space="preserve" y="305" stroke="none"
-      >NDUFA4</text
-    ></g
-    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="238" width="80" height="20" y="292" stroke="none"
-      /><rect fill="none" x="238" width="80" height="20" y="292" stroke="black"
-    /></g
-    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="256" xml:space="preserve" y="305" stroke="none"
-      >NDUFA8</text
-    ></g
-    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="549" width="80" height="20" y="261" stroke="none"
-      /><rect fill="none" x="549" width="80" height="20" y="261" stroke="black"
-    /></g
-    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="572" xml:space="preserve" y="274" stroke="none"
-      >ATP5D</text
-    ></g
-    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="158" width="80" height="20" y="252" stroke="none"
-      /><rect fill="none" x="158" width="80" height="20" y="252" stroke="black"
-    /></g
-    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="176" xml:space="preserve" y="265" stroke="none"
-      >NDUFS2</text
-    ></g
-    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="469" width="80" height="20" y="261" stroke="none"
-      /><rect fill="none" x="469" width="80" height="20" y="261" stroke="black"
-    /></g
-    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="486" xml:space="preserve" y="274" stroke="none"
-      >ATP6AP1</text
-    ></g
-    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="158" width="80" height="20" y="232" stroke="none"
-      /><rect fill="none" x="158" width="80" height="20" y="232" stroke="black"
-    /></g
-    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="188" xml:space="preserve" y="245" stroke="none"
-      >B15</text
-    ></g
-    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="78" width="80" height="20" y="192" stroke="none"
-      /><rect fill="none" x="78" width="80" height="20" y="192" stroke="black"
-    /></g
-    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="111" xml:space="preserve" y="205" stroke="none"
-      >B9</text
-    ></g
-    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="318" width="80" height="20" y="272" stroke="none"
-      /><rect fill="none" x="318" width="80" height="20" y="272" stroke="black"
-    /></g
-    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="337" xml:space="preserve" y="285" stroke="none"
-      >CI-42KD</text
-    ></g
-    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="158" width="80" height="20" y="212" stroke="none"
-      /><rect fill="none" x="158" width="80" height="20" y="212" stroke="black"
-    /></g
-    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="188" xml:space="preserve" y="225" stroke="none"
-      >B13</text
-    ></g
-    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="629" width="80" height="20" y="281" stroke="none"
-      /><rect fill="none" x="629" width="80" height="20" y="281" stroke="black"
-    /></g
-    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="652" xml:space="preserve" y="294" stroke="none"
-      >ATP5J2</text
-    ></g
-    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="549" width="80" height="20" y="201" stroke="none"
-      /><rect fill="none" x="549" width="80" height="20" y="201" stroke="black"
-    /></g
-    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="575" xml:space="preserve" y="214" stroke="none"
-      >ATP5I</text
-    ></g
-    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="549" width="80" height="20" y="221" stroke="none"
-      /><rect fill="none" x="549" width="80" height="20" y="221" stroke="black"
-    /></g
-    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="567" xml:space="preserve" y="234" stroke="none"
-      >MT-ATP6</text
-    ></g
-    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="549" width="80" height="20" y="321" stroke="none"
-      /><rect fill="none" x="549" width="80" height="20" y="321" stroke="black"
-    /></g
-    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="573" xml:space="preserve" y="334" stroke="none"
-      >ATP5L</text
-    ></g
-    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="549" width="80" height="20" y="301" stroke="none"
-      /><rect fill="none" x="549" width="80" height="20" y="301" stroke="black"
-    /></g
-    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="569" xml:space="preserve" y="314" stroke="none"
-      >ATP5G1</text
-    ></g
-    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="469" width="80" height="20" y="321" stroke="none"
-      /><rect fill="none" x="469" width="80" height="20" y="321" stroke="black"
-    /></g
-    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="490" xml:space="preserve" y="334" stroke="none"
-      >ATP5A1</text
-    ></g
-    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="469" width="80" height="20" y="281" stroke="none"
-      /><rect fill="none" x="469" width="80" height="20" y="281" stroke="black"
-    /></g
-    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="489" xml:space="preserve" y="294" stroke="none"
-      >ATP5G3</text
-    ></g
-    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="238" width="80" height="20" y="232" stroke="none"
-      /><rect fill="none" x="238" width="80" height="20" y="232" stroke="black"
-    /></g
-    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="268" xml:space="preserve" y="245" stroke="none"
-      >B17</text
-    ></g
-    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="629" width="80" height="20" y="221" stroke="none"
-      /><rect fill="none" x="629" width="80" height="20" y="221" stroke="black"
-    /></g
-    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="649" xml:space="preserve" y="234" stroke="none"
-      >ATP5G2</text
-    ></g
-    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="549" width="80" height="20" y="281" stroke="none"
-      /><rect fill="none" x="549" width="80" height="20" y="281" stroke="black"
-    /></g
-    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="569" xml:space="preserve" y="294" stroke="none"
-      >ATP5G1</text
-    ></g
-    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="78" width="80" height="20" y="351" stroke="none"
-      /><rect fill="none" x="78" width="80" height="20" y="351" stroke="black"
-    /></g
-    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="97" xml:space="preserve" y="365" stroke="none"
-      >FASN2A</text
-    ></g
-    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="158" width="80" height="20" y="272" stroke="none"
-      /><rect fill="none" x="158" width="80" height="20" y="272" stroke="black"
-    /></g
-    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="176" xml:space="preserve" y="285" stroke="none"
-      >NDUFB4</text
-    ></g
-    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="318" width="80" height="20" y="232" stroke="none"
-      /><rect fill="none" x="318" width="80" height="20" y="232" stroke="black"
-    /></g
-    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="336" xml:space="preserve" y="245" stroke="none"
-      >NDUFS5</text
+    ><text x="267" xml:space="preserve" y="205" stroke="none"
+      >ND3</text
     ></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
     ><rect x="469" width="80" height="20" y="221" stroke="none"
@@ -293,36 +93,28 @@
       >ATP5O</text
     ></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="78" width="80" height="20" y="312" stroke="none"
-      /><rect fill="none" x="78" width="80" height="20" y="312" stroke="black"
+    ><rect x="158" width="80" height="20" y="312" stroke="none"
+      /><rect fill="none" x="158" width="80" height="20" y="312" stroke="black"
     /></g
     ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="103" xml:space="preserve" y="325" stroke="none"
-      >GZMB</text
+    ><text x="188" xml:space="preserve" y="325" stroke="none"
+      >B14</text
     ></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="629" width="80" height="20" y="261" stroke="none"
-      /><rect fill="none" x="629" width="80" height="20" y="261" stroke="black"
+    ><rect x="238" width="80" height="20" y="332" stroke="none"
+      /><rect fill="none" x="238" width="80" height="20" y="332" stroke="black"
     /></g
     ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="647" xml:space="preserve" y="274" stroke="none"
-      >MT-ATP8</text
+    ><text x="262" xml:space="preserve" y="345" stroke="none"
+      >AQDQ</text
     ></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><ellipse rx="40" ry="10" cx="700" cy="130" stroke="none"
-      /><ellipse rx="40" fill="none" ry="10" cx="700" cy="130" stroke="blue"
-    /></g
-    ><g font-size="10px" fill="blue" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" stroke="blue" color-interpolation="linearRGB"
-    ><text x="690" xml:space="preserve" y="133" stroke="none"
-      >ATP</text
-    ></g
-    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="238" width="80" height="20" y="212" stroke="none"
-      /><rect fill="none" x="238" width="80" height="20" y="212" stroke="black"
+    ><rect x="158" width="80" height="20" y="232" stroke="none"
+      /><rect fill="none" x="158" width="80" height="20" y="232" stroke="black"
     /></g
     ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="261" xml:space="preserve" y="225" stroke="none"
-      >B14.5a</text
+    ><text x="188" xml:space="preserve" y="245" stroke="none"
+      >B15</text
     ></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
     ><rect x="318" width="80" height="20" y="172" stroke="none"
@@ -333,12 +125,60 @@
       >ND4L</text
     ></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="238" width="80" height="20" y="172" stroke="none"
-      /><rect fill="none" x="238" width="80" height="20" y="172" stroke="black"
+    ><rect x="318" width="80" height="20" y="212" stroke="none"
+      /><rect fill="none" x="318" width="80" height="20" y="212" stroke="black"
     /></g
     ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="256" xml:space="preserve" y="185" stroke="none"
-      >NDUFS3</text
+    ><text x="345" xml:space="preserve" y="225" stroke="none"
+      >ASHI</text
+    ></g
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><rect x="318" width="80" height="20" y="232" stroke="none"
+      /><rect fill="none" x="318" width="80" height="20" y="232" stroke="black"
+    /></g
+    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
+    ><text x="336" xml:space="preserve" y="245" stroke="none"
+      >NDUFS5</text
+    ></g
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><ellipse rx="40" ry="10" cx="331" cy="81" stroke="none"
+      /><ellipse rx="40" fill="none" ry="10" cx="331" cy="81" stroke="blue"
+    /></g
+    ><g font-size="10px" fill="blue" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" stroke="blue" color-interpolation="linearRGB"
+    ><text x="319" xml:space="preserve" y="84" stroke="none"
+      >NAD</text
+    ></g
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><rect x="469" width="80" height="20" y="281" stroke="none"
+      /><rect fill="none" x="469" width="80" height="20" y="281" stroke="black"
+    /></g
+    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
+    ><text x="489" xml:space="preserve" y="294" stroke="none"
+      >ATP5G3</text
+    ></g
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><rect x="158" width="80" height="20" y="352" stroke="none"
+      /><rect fill="none" x="158" width="80" height="20" y="352" stroke="black"
+    /></g
+    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
+    ><text x="173" xml:space="preserve" y="365" stroke="none"
+      >NDUFB10</text
+    ></g
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><rect x="238" width="80" height="20" y="372" stroke="none"
+      /><rect fill="none" x="238" width="80" height="20" y="372" stroke="black"
+    /></g
+    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
+    ><text x="256" xml:space="preserve" y="385" stroke="none"
+      >NDUFV2</text
+    ></g
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><rect x="318" width="80" height="20" y="192" stroke="none"
+      /><rect fill="none" x="318" width="80" height="20" y="192" stroke="black"
+    /></g
+    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
+    ><text x="336" xml:space="preserve" y="205" stroke="none"
+      >NDUFA9</text
     ></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
     ><rect x="158" width="80" height="20" y="292" stroke="none"
@@ -349,12 +189,36 @@
       >ND2</text
     ></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="318" width="80" height="20" y="292" stroke="none"
-      /><rect fill="none" x="318" width="80" height="20" y="292" stroke="black"
+    ><rect x="238" width="80" height="20" y="312" stroke="none"
+      /><rect fill="none" x="238" width="80" height="20" y="312" stroke="black"
     /></g
     ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="348" xml:space="preserve" y="305" stroke="none"
-      >B22</text
+    ><text x="268" xml:space="preserve" y="325" stroke="none"
+      >B18</text
+    ></g
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><rect x="469" width="80" height="20" y="261" stroke="none"
+      /><rect fill="none" x="469" width="80" height="20" y="261" stroke="black"
+    /></g
+    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
+    ><text x="486" xml:space="preserve" y="274" stroke="none"
+      >ATP6AP1</text
+    ></g
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><rect x="78" width="80" height="20" y="231" stroke="none"
+      /><rect fill="none" x="78" width="80" height="20" y="231" stroke="black"
+    /></g
+    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
+    ><text x="101" xml:space="preserve" y="245" stroke="none"
+      >B14.5b</text
+    ></g
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><rect x="158" width="80" height="20" y="272" stroke="none"
+      /><rect fill="none" x="158" width="80" height="20" y="272" stroke="black"
+    /></g
+    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
+    ><text x="176" xml:space="preserve" y="285" stroke="none"
+      >NDUFB4</text
     ></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
     ><rect x="318" width="80" height="20" y="352" stroke="none"
@@ -365,20 +229,12 @@
       >NDUFA2</text
     ></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="78" width="80" height="20" y="372" stroke="none"
-      /><rect fill="none" x="78" width="80" height="20" y="372" stroke="black"
+    ><rect x="469" width="80" height="20" y="321" stroke="none"
+      /><rect fill="none" x="469" width="80" height="20" y="321" stroke="black"
     /></g
     ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="95" xml:space="preserve" y="385" stroke="none"
-      >CI-SGDH</text
-    ></g
-    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="158" width="80" height="20" y="372" stroke="none"
-      /><rect fill="none" x="158" width="80" height="20" y="372" stroke="black"
-    /></g
-    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="186" xml:space="preserve" y="385" stroke="none"
-      >KFYI</text
+    ><text x="490" xml:space="preserve" y="334" stroke="none"
+      >ATP5A1</text
     ></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
     ><rect x="318" width="80" height="20" y="332" stroke="none"
@@ -389,44 +245,44 @@
       >ND6</text
     ></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="78" width="80" height="20" y="272" stroke="none"
-      /><rect fill="none" x="78" width="80" height="20" y="272" stroke="black"
+    ><rect x="549" width="80" height="20" y="241" stroke="none"
+      /><rect fill="none" x="549" width="80" height="20" y="241" stroke="black"
     /></g
     ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="96" xml:space="preserve" y="285" stroke="none"
-      >NDUFS7</text
+    ><text x="573" xml:space="preserve" y="254" stroke="none"
+      >ATP5E</text
     ></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="78" width="80" height="20" y="252" stroke="none"
-      /><rect fill="none" x="78" width="80" height="20" y="252" stroke="black"
+    ><rect x="549" width="80" height="20" y="281" stroke="none"
+      /><rect fill="none" x="549" width="80" height="20" y="281" stroke="black"
     /></g
     ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="96" xml:space="preserve" y="265" stroke="none"
-      >NDUFV3</text
+    ><text x="569" xml:space="preserve" y="294" stroke="none"
+      >ATP5G1</text
     ></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="238" width="80" height="20" y="312" stroke="none"
-      /><rect fill="none" x="238" width="80" height="20" y="312" stroke="black"
+    ><rect x="549" width="80" height="20" y="201" stroke="none"
+      /><rect fill="none" x="549" width="80" height="20" y="201" stroke="black"
     /></g
     ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="268" xml:space="preserve" y="325" stroke="none"
-      >B18</text
+    ><text x="575" xml:space="preserve" y="214" stroke="none"
+      >ATP5I</text
     ></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="78" width="80" height="20" y="172" stroke="none"
-      /><rect fill="none" x="78" width="80" height="20" y="172" stroke="black"
+    ><rect x="549" width="80" height="20" y="261" stroke="none"
+      /><rect fill="none" x="549" width="80" height="20" y="261" stroke="black"
     /></g
     ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="93" xml:space="preserve" y="185" stroke="none"
-      >NDUFA11</text
+    ><text x="572" xml:space="preserve" y="274" stroke="none"
+      >ATP5D</text
     ></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="158" width="80" height="20" y="172" stroke="none"
-      /><rect fill="none" x="158" width="80" height="20" y="172" stroke="black"
+    ><rect x="469" width="80" height="20" y="241" stroke="none"
+      /><rect fill="none" x="469" width="80" height="20" y="241" stroke="black"
     /></g
     ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="178" xml:space="preserve" y="185" stroke="none"
-      >NUOMS</text
+    ><text x="490" xml:space="preserve" y="254" stroke="none"
+      >ATP5F1</text
     ></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
     ><rect x="158" width="80" height="20" y="192" stroke="none"
@@ -445,28 +301,20 @@
       >NDUFS8</text
     ></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="158" width="80" height="20" y="352" stroke="none"
-      /><rect fill="none" x="158" width="80" height="20" y="352" stroke="black"
+    ><rect x="78" width="80" height="20" y="312" stroke="none"
+      /><rect fill="none" x="78" width="80" height="20" y="312" stroke="black"
     /></g
     ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="173" xml:space="preserve" y="365" stroke="none"
-      >NDUFB10</text
+    ><text x="103" xml:space="preserve" y="325" stroke="none"
+      >GZMB</text
     ></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="469" width="80" height="20" y="301" stroke="none"
-      /><rect fill="none" x="469" width="80" height="20" y="301" stroke="black"
+    ><rect x="318" width="80" height="20" y="272" stroke="none"
+      /><rect fill="none" x="318" width="80" height="20" y="272" stroke="black"
     /></g
     ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="493" xml:space="preserve" y="314" stroke="none"
-      >ATP5B</text
-    ></g
-    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="78" width="80" height="20" y="231" stroke="none"
-      /><rect fill="none" x="78" width="80" height="20" y="231" stroke="black"
-    /></g
-    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="101" xml:space="preserve" y="245" stroke="none"
-      >B14.5b</text
+    ><text x="337" xml:space="preserve" y="285" stroke="none"
+      >CI-42KD</text
     ></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
     ><rect x="629" width="80" height="20" y="321" stroke="none"
@@ -477,116 +325,92 @@
       >ATP5H</text
     ></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="238" width="80" height="20" y="252" stroke="none"
-      /><rect fill="none" x="238" width="80" height="20" y="252" stroke="black"
+    ><rect x="78" width="80" height="20" y="212" stroke="none"
+      /><rect fill="none" x="78" width="80" height="20" y="212" stroke="black"
     /></g
     ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="258" xml:space="preserve" y="265" stroke="none"
-      >CI-51kD</text
+    ><text x="96" xml:space="preserve" y="225" stroke="none"
+      >NDUFB2</text
     ></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="629" width="80" height="20" y="241" stroke="none"
-      /><rect fill="none" x="629" width="80" height="20" y="241" stroke="black"
+    ><rect x="238" width="80" height="20" y="232" stroke="none"
+      /><rect fill="none" x="238" width="80" height="20" y="232" stroke="black"
     /></g
     ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="646" xml:space="preserve" y="254" stroke="none"
-      >ATP6AP2</text
+    ><text x="268" xml:space="preserve" y="245" stroke="none"
+      >B17</text
     ></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="238" width="80" height="20" y="272" stroke="none"
-      /><rect fill="none" x="238" width="80" height="20" y="272" stroke="black"
+    ><rect x="78" width="80" height="20" y="192" stroke="none"
+      /><rect fill="none" x="78" width="80" height="20" y="192" stroke="black"
     /></g
     ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="267" xml:space="preserve" y="285" stroke="none"
-      >ND4</text
+    ><text x="111" xml:space="preserve" y="205" stroke="none"
+      >B9</text
     ></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><ellipse rx="40" ry="10" cx="331" cy="81" stroke="none"
-      /><ellipse rx="40" fill="none" ry="10" cx="331" cy="81" stroke="blue"
-    /></g
-    ><g font-size="10px" fill="blue" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" stroke="blue" color-interpolation="linearRGB"
-    ><text x="319" xml:space="preserve" y="84" stroke="none"
-      >NAD</text
-    ></g
-    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="549" width="80" height="20" y="241" stroke="none"
-      /><rect fill="none" x="549" width="80" height="20" y="241" stroke="black"
+    ><rect x="629" width="80" height="20" y="221" stroke="none"
+      /><rect fill="none" x="629" width="80" height="20" y="221" stroke="black"
     /></g
     ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="573" xml:space="preserve" y="254" stroke="none"
-      >ATP5E</text
+    ><text x="649" xml:space="preserve" y="234" stroke="none"
+      >ATP5G2</text
     ></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><ellipse rx="40" ry="10" cx="146" cy="81" stroke="none"
-      /><ellipse rx="40" fill="none" ry="10" cx="146" cy="81" stroke="blue"
-    /></g
-    ><g font-size="10px" fill="blue" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" stroke="blue" color-interpolation="linearRGB"
-    ><text x="130" xml:space="preserve" y="84" stroke="none"
-      >NADH</text
-    ></g
-    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="318" width="80" height="20" y="192" stroke="none"
-      /><rect fill="none" x="318" width="80" height="20" y="192" stroke="black"
+    ><rect x="78" width="80" height="20" y="272" stroke="none"
+      /><rect fill="none" x="78" width="80" height="20" y="272" stroke="black"
     /></g
     ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="336" xml:space="preserve" y="205" stroke="none"
-      >NDUFA9</text
+    ><text x="96" xml:space="preserve" y="285" stroke="none"
+      >NDUFS7</text
     ></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="158" width="80" height="20" y="332" stroke="none"
-      /><rect fill="none" x="158" width="80" height="20" y="332" stroke="black"
+    ><rect x="78" width="80" height="20" y="252" stroke="none"
+      /><rect fill="none" x="78" width="80" height="20" y="252" stroke="black"
     /></g
     ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="175" xml:space="preserve" y="345" stroke="none"
+    ><text x="96" xml:space="preserve" y="265" stroke="none"
+      >NDUFV3</text
+    ></g
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><rect x="238" width="80" height="20" y="212" stroke="none"
+      /><rect fill="none" x="238" width="80" height="20" y="212" stroke="black"
+    /></g
+    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
+    ><text x="261" xml:space="preserve" y="225" stroke="none"
+      >B14.5a</text
+    ></g
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><rect x="78" width="80" height="20" y="372" stroke="none"
+      /><rect fill="none" x="78" width="80" height="20" y="372" stroke="black"
+    /></g
+    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
+    ><text x="95" xml:space="preserve" y="385" stroke="none"
       >CI-SGDH</text
     ></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="238" width="80" height="20" y="332" stroke="none"
-      /><rect fill="none" x="238" width="80" height="20" y="332" stroke="black"
+    ><rect x="629" width="80" height="20" y="281" stroke="none"
+      /><rect fill="none" x="629" width="80" height="20" y="281" stroke="black"
     /></g
     ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="262" xml:space="preserve" y="345" stroke="none"
-      >AQDQ</text
+    ><text x="652" xml:space="preserve" y="294" stroke="none"
+      >ATP5J2</text
     ></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="629" width="80" height="20" y="301" stroke="none"
-      /><rect fill="none" x="629" width="80" height="20" y="301" stroke="black"
+    ><rect x="158" width="80" height="20" y="252" stroke="none"
+      /><rect fill="none" x="158" width="80" height="20" y="252" stroke="black"
     /></g
     ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="656" xml:space="preserve" y="314" stroke="none"
-      >ATP6</text
+    ><text x="176" xml:space="preserve" y="265" stroke="none"
+      >NDUFS2</text
     ></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="238" width="80" height="20" y="192" stroke="none"
-      /><rect fill="none" x="238" width="80" height="20" y="192" stroke="black"
+    ><rect x="158" width="80" height="20" y="212" stroke="none"
+      /><rect fill="none" x="158" width="80" height="20" y="212" stroke="black"
     /></g
     ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="267" xml:space="preserve" y="205" stroke="none"
-      >ND3</text
-    ></g
-    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="629" width="80" height="20" y="201" stroke="none"
-      /><rect fill="none" x="629" width="80" height="20" y="201" stroke="black"
-    /></g
-    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="655" xml:space="preserve" y="214" stroke="none"
-      >ATP5J</text
-    ></g
-    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="318" width="80" height="20" y="252" stroke="none"
-      /><rect fill="none" x="318" width="80" height="20" y="252" stroke="black"
-    /></g
-    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="347" xml:space="preserve" y="265" stroke="none"
-      >ND5</text
-    ></g
-    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="469" width="80" height="20" y="241" stroke="none"
-      /><rect fill="none" x="469" width="80" height="20" y="241" stroke="black"
-    /></g
-    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="490" xml:space="preserve" y="254" stroke="none"
-      >ATP5F1</text
+    ><text x="188" xml:space="preserve" y="225" stroke="none"
+      >B13</text
     ></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
     ><rect x="318" width="80" height="20" y="312" stroke="none"
@@ -597,23 +421,201 @@
       >NDUFS6</text
     ></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="78" width="80" height="20" y="212" stroke="none"
-      /><rect fill="none" x="78" width="80" height="20" y="212" stroke="black"
+    ><rect x="469" width="80" height="20" y="201" stroke="none"
+      /><rect fill="none" x="469" width="80" height="20" y="201" stroke="black"
     /></g
     ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="96" xml:space="preserve" y="225" stroke="none"
-      >NDUFB2</text
+    ><text x="493" xml:space="preserve" y="214" stroke="none"
+      >ATP5S</text
     ></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="318" width="80" height="20" y="212" stroke="none"
-      /><rect fill="none" x="318" width="80" height="20" y="212" stroke="black"
+    ><rect x="469" width="80" height="20" y="301" stroke="none"
+      /><rect fill="none" x="469" width="80" height="20" y="301" stroke="black"
     /></g
     ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
-    ><text x="345" xml:space="preserve" y="225" stroke="none"
-      >ASHI</text
-      ><text x="58" xml:space="preserve" font-size="12px" y="136" font-family="'Dialog'" stroke="none"
+    ><text x="493" xml:space="preserve" y="314" stroke="none"
+      >ATP5B</text
+    ></g
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><rect x="238" width="80" height="20" y="272" stroke="none"
+      /><rect fill="none" x="238" width="80" height="20" y="272" stroke="black"
+    /></g
+    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
+    ><text x="267" xml:space="preserve" y="285" stroke="none"
+      >ND4</text
+    ></g
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><rect x="78" width="80" height="20" y="351" stroke="none"
+      /><rect fill="none" x="78" width="80" height="20" y="351" stroke="black"
+    /></g
+    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
+    ><text x="97" xml:space="preserve" y="365" stroke="none"
+      >FASN2A</text
+    ></g
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><rect x="629" width="80" height="20" y="201" stroke="none"
+      /><rect fill="none" x="629" width="80" height="20" y="201" stroke="black"
+    /></g
+    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
+    ><text x="655" xml:space="preserve" y="214" stroke="none"
+      >ATP5J</text
+    ></g
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><rect x="549" width="80" height="20" y="301" stroke="none"
+      /><rect fill="none" x="549" width="80" height="20" y="301" stroke="black"
+    /></g
+    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
+    ><text x="569" xml:space="preserve" y="314" stroke="none"
+      >ATP5G1</text
+    ></g
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><rect x="78" width="80" height="20" y="292" stroke="none"
+      /><rect fill="none" x="78" width="80" height="20" y="292" stroke="black"
+    /></g
+    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
+    ><text x="96" xml:space="preserve" y="305" stroke="none"
+      >NDUFA4</text
+    ></g
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><rect x="629" width="80" height="20" y="241" stroke="none"
+      /><rect fill="none" x="629" width="80" height="20" y="241" stroke="black"
+    /></g
+    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
+    ><text x="646" xml:space="preserve" y="254" stroke="none"
+      >ATP6AP2</text
+    ></g
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><rect x="318" width="80" height="20" y="252" stroke="none"
+      /><rect fill="none" x="318" width="80" height="20" y="252" stroke="black"
+    /></g
+    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
+    ><text x="347" xml:space="preserve" y="265" stroke="none"
+      >ND5</text
+    ></g
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><rect x="238" width="80" height="20" y="172" stroke="none"
+      /><rect fill="none" x="238" width="80" height="20" y="172" stroke="black"
+    /></g
+    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
+    ><text x="256" xml:space="preserve" y="185" stroke="none"
+      >NDUFS3</text
+    ></g
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><rect x="238" width="80" height="20" y="292" stroke="none"
+      /><rect fill="none" x="238" width="80" height="20" y="292" stroke="black"
+    /></g
+    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
+    ><text x="256" xml:space="preserve" y="305" stroke="none"
+      >NDUFA8</text
+    ></g
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><rect x="78" width="80" height="20" y="172" stroke="none"
+      /><rect fill="none" x="78" width="80" height="20" y="172" stroke="black"
+    /></g
+    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
+    ><text x="93" xml:space="preserve" y="185" stroke="none"
+      >NDUFA11</text
+    ></g
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><rect x="549" width="80" height="20" y="221" stroke="none"
+      /><rect fill="none" x="549" width="80" height="20" y="221" stroke="black"
+    /></g
+    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
+    ><text x="567" xml:space="preserve" y="234" stroke="none"
+      >MT-ATP6</text
+    ></g
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><rect x="158" width="80" height="20" y="372" stroke="none"
+      /><rect fill="none" x="158" width="80" height="20" y="372" stroke="black"
+    /></g
+    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
+    ><text x="186" xml:space="preserve" y="385" stroke="none"
+      >KFYI</text
+    ></g
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><rect x="629" width="80" height="20" y="261" stroke="none"
+      /><rect fill="none" x="629" width="80" height="20" y="261" stroke="black"
+    /></g
+    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
+    ><text x="647" xml:space="preserve" y="274" stroke="none"
+      >MT-ATP8</text
+    ></g
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><rect x="318" width="80" height="20" y="292" stroke="none"
+      /><rect fill="none" x="318" width="80" height="20" y="292" stroke="black"
+    /></g
+    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
+    ><text x="348" xml:space="preserve" y="305" stroke="none"
+      >B22</text
+    ></g
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><rect x="549" width="80" height="20" y="321" stroke="none"
+      /><rect fill="none" x="549" width="80" height="20" y="321" stroke="black"
+    /></g
+    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
+    ><text x="573" xml:space="preserve" y="334" stroke="none"
+      >ATP5L</text
+    ></g
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><rect x="238" width="80" height="20" y="252" stroke="none"
+      /><rect fill="none" x="238" width="80" height="20" y="252" stroke="black"
+    /></g
+    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
+    ><text x="258" xml:space="preserve" y="265" stroke="none"
+      >CI-51kD</text
+    ></g
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><rect x="78" width="80" height="20" y="332" stroke="none"
+      /><rect fill="none" x="78" width="80" height="20" y="332" stroke="black"
+    /></g
+    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
+    ><text x="98" xml:space="preserve" y="345" stroke="none"
+      >CI-75Kd</text
+    ></g
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><ellipse rx="41.7583" ry="10" cx="470.2417" cy="130.9833" stroke="none"
+      /><ellipse rx="41.7583" fill="none" ry="10" cx="470.2417" cy="130.9833" stroke="blue"
+    /></g
+    ><g font-size="10px" fill="blue" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" stroke="blue" color-interpolation="linearRGB"
+    ><text x="459" xml:space="preserve" y="134" stroke="none"
+      >ADP</text
+    ></g
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><rect x="158" width="80" height="20" y="172" stroke="none"
+      /><rect fill="none" x="158" width="80" height="20" y="172" stroke="black"
+    /></g
+    ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
+    ><text x="178" xml:space="preserve" y="185" stroke="none"
+      >NUOMS</text
+    ></g
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><ellipse rx="40" ry="10" cx="700" cy="130" stroke="none"
+      /><ellipse rx="40" fill="none" ry="10" cx="700" cy="130" stroke="blue"
+    /></g
+    ><g font-size="10px" fill="blue" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" stroke="blue" color-interpolation="linearRGB"
+    ><text x="690" xml:space="preserve" y="133" stroke="none"
+      >ATP</text
+    ></g
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><ellipse rx="40" ry="10" cx="523" cy="80" stroke="none"
+      /><ellipse rx="40" fill="none" ry="10" cx="523" cy="80" stroke="blue"
+    /></g
+    ><g font-size="10px" fill="blue" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" stroke="blue" color-interpolation="linearRGB"
+    ><text x="499" xml:space="preserve" y="83" stroke="none"
+      >Hydrogen</text
+    ></g
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><ellipse rx="40" ry="10" cx="146" cy="81" stroke="none"
+      /><ellipse rx="40" fill="none" ry="10" cx="146" cy="81" stroke="blue"
+    /></g
+    ><g font-size="10px" fill="blue" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" stroke="blue" color-interpolation="linearRGB"
+    ><text x="130" xml:space="preserve" y="84" stroke="none"
+      >NADH</text
+    ></g
+    ><g text-rendering="geometricPrecision" color-rendering="optimizeQuality" color-interpolation="linearRGB" image-rendering="optimizeQuality"
+    ><text x="58" xml:space="preserve" y="136" stroke="none"
       >Nicotinamide nucleotide  transhydrogenase</text
-      ><text x="457" xml:space="preserve" font-size="12px" y="177" font-family="'Dialog'" stroke="none"
+      ><text x="457" xml:space="preserve" y="177" stroke="none"
       >ATP synthase</text
     ></g
   ></g

@@ -105,23 +105,23 @@ The relation between neuroinflammation and glutamatergic signaling
 [ReducedPhysicalStimulationReaction:df8de]	Reaction should contain only one reactant and one product.
 [-:-]	Miriam data (PUBMED: 33510058) for a9c41 already exists. Ignoring...
 [BiopaxReference:dbf]	Publication type is not supported.
-[Complex:c61ec]	Empty element is invalid
-[Complex:d83ce]	Empty element is invalid
 [Complex:bd6d6]	Empty element is invalid
-[Complex:bfaf7]	Empty element is invalid
-[Complex:fe926]	Empty element is invalid
-[Complex:f1b99]	Empty element is invalid
+[Complex:c112e]	Empty element is invalid
+[Complex:d0f97]	Empty element is invalid
 [Complex:a5773]	Empty element is invalid
-[Complex:ef6ec]	Empty element is invalid
+[Complex:f1b99]	Empty element is invalid
+[Complex:d83ce]	Empty element is invalid
 [Complex:b0c4f]	Empty element is invalid
 [Complex:b2793]	Empty element is invalid
-[Complex:d0b3b]	Empty element is invalid
-[Complex:c7787]	Empty element is invalid
-[Complex:adfd7]	Empty element is invalid
-[Complex:c159c]	Empty element is invalid
-[Complex:d0f97]	Empty element is invalid
 [Complex:cbfdb]	Empty element is invalid
+[Complex:c61ec]	Empty element is invalid
+[Complex:fe926]	Empty element is invalid
 [Complex:b9476]	Empty element is invalid
 [Complex:f16fd]	Empty element is invalid
+[Complex:ef6ec]	Empty element is invalid
 [Complex:bfbb5]	Empty element is invalid
-[Complex:c112e]	Empty element is invalid
+[Complex:c7787]	Empty element is invalid
+[Complex:c159c]	Empty element is invalid
+[Complex:d0b3b]	Empty element is invalid
+[Complex:adfd7]	Empty element is invalid
+[Complex:bfaf7]	Empty element is invalid

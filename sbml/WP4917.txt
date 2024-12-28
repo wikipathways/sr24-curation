@@ -8,8 +8,8 @@ This pathway provides an overview of all active transport that occurs in the pro
 [UnknownPositiveInfluenceReaction:d796d]	Reacion was marked as reversible but it cannot be reversible
 [UnknownPositiveInfluenceReaction:daacd]	Reacion was marked as reversible but it cannot be reversible
 [UnknownPositiveInfluenceReaction:a1e1e]	Reacion was marked as reversible but it cannot be reversible
-[Complex:c9ccc]	Empty element is invalid
-[Complex:cf4c2]	Empty element is invalid
-[Complex:d1a13]	Empty element is invalid
 [Complex:ed9e2]	Empty element is invalid
+[Complex:d1a13]	Empty element is invalid
+[Complex:cf4c2]	Empty element is invalid
+[Complex:c9ccc]	Empty element is invalid
 [BiopaxReference:cdc]	Publication type is not supported.

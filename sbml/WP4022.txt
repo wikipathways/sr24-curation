@@ -7,8 +7,8 @@ Pathway is based on [https://www.genome.jp/dbget-bin/www_bget?pathway+map00240 K
 
 Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP4022 CPTAC Assay Portal]
 
-[Complex:a563f]	Empty element is invalid
+[Complex:cac3c]	Empty element is invalid
 [Complex:a23b9]	Empty element is invalid
 [Complex:b53a9]	Empty element is invalid
-[Complex:cac3c]	Empty element is invalid
+[Complex:a563f]	Empty element is invalid
 [BiopaxReference:d2f]	Publication type is not supported.

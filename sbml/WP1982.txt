@@ -69,14 +69,14 @@ Proteins on this pathway have targeted assays available via the [https://assays.
 [HeterodimerAssociationReaction:id1a728c5d]	Reaction should contain at least 2 reactants. GraphId: id1a728c5d
 [HeterodimerAssociationReaction:id1e5c48e8]	Reaction should contain at least 2 reactants. GraphId: id1e5c48e8
 [UnknownTransitionReaction:id7a0d8e51]	Self loops are not supported. Removing
-[UnknownTransitionReaction:a64eb]	Self loops are not supported. Removing
-[UnknownTransitionReaction:idb64035fa]	Self loops are not supported. Removing
-[UnknownTransitionReaction:id432c05c1]	Self loops are not supported. Removing
-[UnknownTransitionReaction:eaace]	Self loops are not supported. Removing
 [UnknownTransitionReaction:iddd5f4a25]	Self loops are not supported. Removing
-[UnknownTransitionReaction:id59369fb2]	Self loops are not supported. Removing
-[UnknownTransitionReaction:idfcf18012]	Self loops are not supported. Removing
 [UnknownTransitionReaction:id92c94eaf]	Self loops are not supported. Removing
+[UnknownTransitionReaction:idfcf18012]	Self loops are not supported. Removing
 [UnknownTransitionReaction:b84e5]	Self loops are not supported. Removing
 [UnknownTransitionReaction:id38324c84]	Self loops are not supported. Removing
+[UnknownTransitionReaction:idb64035fa]	Self loops are not supported. Removing
+[UnknownTransitionReaction:a64eb]	Self loops are not supported. Removing
+[UnknownTransitionReaction:id59369fb2]	Self loops are not supported. Removing
+[UnknownTransitionReaction:eaace]	Self loops are not supported. Removing
+[UnknownTransitionReaction:id432c05c1]	Self loops are not supported. Removing
 [UnknownTransitionReaction:e33e9]	Self loops are not supported. Removing

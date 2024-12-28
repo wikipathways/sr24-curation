@@ -8,22 +8,20 @@ Source: Wikipedia ([[wikipedia:Electron_transport_chain]])
 Proteins on this pathway have targeted assays available via the [https://assays.cancer.gov/available_assays?wp_id=WP111 CPTAC Assay Portal]
 
 [ARROW:a0b32]	Curved connections are not supported.
+[CATALYSIS:a4aef]	Interaction is not connected
+[CATALYSIS:ad726]	Interaction is not connected
 [ARROW:b0e4a]	Curved connections are not supported.
 [ARROW:b17ae]	Curved connections are not supported.
-[-:-]	Unknown gpml interaction type: mim-translocation
-[-:-]	Unknown gpml interaction type: mim-translocation
 [ARROW:b92fd]	Curved connections are not supported.
-[-:-]	Unknown gpml interaction type: mim-translocation
 [ARROW:c4d38]	Curved connections are not supported.
 [ARROW:cdee2]	Curved connections are not supported.
-[-:-]	Unknown gpml interaction type: mim-translocation
+[CATALYSIS:cfb2a]	Interaction is not connected
 [ARROW:da1d5]	Curved connections are not supported.
 [ARROW:dbdc8]	Curved connections are not supported.
 [ARROW:e0a8b]	Curved connections are not supported.
-[-:-]	Unknown gpml interaction type: mim-translocation
 [ARROW:f713d]	Curved connections are not supported.
 [ARROW:fa8bc]	Curved connections are not supported.
-[-:-]	Unknown gpml interaction type: mim-translocation
+[CATALYSIS:feb3f]	Interaction is not connected
 [ARROW:id86f308da]	Curved connections are not supported.
 [LINE:iddb4b9fa]	Curved connections are not supported.
 [LINE:iddb4b9fa]	Interaction is not connected

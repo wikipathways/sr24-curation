@@ -2,11 +2,15 @@ Galactose is converted into glucose 1-phosphate (G1P) through a series of steps 
 There are two known disorders concerning the uptake transports of galactose (SGLT1 and GLUT2 deficiency) and three known disorders of galactose metabolism: galactokinase deficiency (GALK-D), galactose 1-phosphate uridyltransferase deficiency (galactosemia, GALT-D) and uridine diphosphate galactose 4-epimerase deficiency (GALE-D).
 Among these, galactosemia is the most common and most severe. This pathway was inspired by Chapter 18, figure 18.3 of the book of Blau (4th edition; ISBN: 978-3-642-40337-8). 
 
+[-:-]	Unknown gpml interaction type: mim-translocation
 [CONVERSION:e7a6e]	Curved connections are not supported.
+[-:-]	Unknown gpml interaction type: mim-translocation
 [CONVERSION:e7aaa]	Curved connections are not supported.
 [CONVERSION:cecc9]	Curved connections are not supported.
 [CONVERSION:a84b2]	Curved connections are not supported.
 [CONVERSION:ee7b6]	Curved connections are not supported.
+[LINE:f075d]	Invalid interaction type.
+[LINE:a4ae6]	Invalid interaction type.
 [ARROW:a5819]	Invalid interaction type "ARROW" as an output from reaction.
 [ARROW:ec0ac]	Invalid interaction type as an input to reaction.
 [ARROW:d0176]	Invalid interaction type as an input to reaction.

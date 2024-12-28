@@ -23,14 +23,14 @@ Complex IV or cytochrome c oxidase (COX) catalyses the oxidation of cytochrome c
 [HeterodimerAssociationReaction:id50a1dfd]	Reaction should contain at least 2 reactants. GraphId: id50a1dfd
 [HeterodimerAssociationReaction:id654e1754]	Reaction should contain at least 2 reactants. GraphId: id654e1754
 [HeterodimerAssociationReaction:id711b052a]	Reaction should contain at least 2 reactants. GraphId: id711b052a
-[Complex:dbcb5]	Empty element is invalid
-[Complex:a1343]	Empty element is invalid
 [Complex:a50c7]	Empty element is invalid
+[Complex:a1343]	Empty element is invalid
 [Complex:fdc26]	Empty element is invalid
-[Complex:b5b5c]	Empty element is invalid
+[Complex:dbcb5]	Empty element is invalid
 [Complex:fac64]	Empty element is invalid
-[Complex:d4eb1]	Empty element is invalid
-[Complex:a9d84]	Empty element is invalid
 [Complex:e448b]	Empty element is invalid
-[Complex:fc325]	Empty element is invalid
 [Complex:c37b0]	Empty element is invalid
+[Complex:a9d84]	Empty element is invalid
+[Complex:b5b5c]	Empty element is invalid
+[Complex:d4eb1]	Empty element is invalid
+[Complex:fc325]	Empty element is invalid

@@ -74,6 +74,10 @@
       /><rect fill="none" x="456.3694" width="10" height="10" y="126.5814" transform="translate(461.3694,131.5814) rotate(90.912) translate(-461.3694,-131.5814)"
       /><text x="461" font-size="10px" y="135" font-family="sans-serif" stroke="none" font-weight="bold" xml:space="preserve"
       ></text
+      ><path fill="rgb(248,247,240)" d="M631.3932 707.7995 L981.8843 707.7995 L986.8843 712.7995 L986.8843 1078.7994 L981.8843 1083.7994 L631.3932 1083.7994 L626.3932 1078.7994 L626.3932 712.7995 Z" fill-rule="evenodd" stroke="none"
+      /><path fill="none" stroke-dasharray="8,8" d="M631.3932 707.7995 L981.8843 707.7995 L986.8843 712.7995 L986.8843 1078.7994 L981.8843 1083.7994 L631.3932 1083.7994 L626.3932 1078.7994 L626.3932 712.7995 Z" fill-rule="evenodd"
+      /><text x="788" xml:space="preserve" y="1078" font-family="sans-serif" stroke="none"
+      >fdee3</text
     ></g
     ><g fill-opacity="0.0314" fill="rgb(128,128,128)" text-rendering="geometricPrecision" color-rendering="optimizeQuality" image-rendering="optimizeQuality" stroke="rgb(128,128,128)" color-interpolation="linearRGB" stroke-opacity="0.0314"
     ><rect x="68.3043" y="125" width="987.5468" rx="10" ry="10" height="1178.1915" stroke="none"
@@ -86,19 +90,11 @@
     ><path d="M1033.8511 137 C1039.3739 137 1043.8511 141.4772 1043.8511 147 L1043.8511 1281.1915 C1043.8511 1286.7144 1039.3739 1291.1915 1033.8511 1291.1915 L90.3043 1291.1915 C84.7814 1291.1915 80.3043 1286.7144 80.3043 1281.1915 L80.3043 147 C80.3043 141.4772 84.7814 137 90.3043 137 ZM78.3043 125 C72.7814 125 68.3043 129.4772 68.3043 135 L68.3043 1293.1915 C68.3043 1298.7144 72.7814 1303.1915 78.3043 1303.1915 L1045.8511 1303.1915 C1051.3739 1303.1915 1055.8511 1298.7144 1055.8511 1293.1915 L1055.8511 135 C1055.8511 129.4772 1051.3739 125 1045.8511 125 Z" stroke="none"
     /></g
     ><g font-size="10px" fill="silver" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" stroke="silver" color-interpolation="linearRGB"
-    ><text x="145" xml:space="preserve" y="786" stroke="none"
-      >Other</text
+    ><text x="496" xml:space="preserve" y="614" stroke="none"
+      >NRF2 target genes</text
     ></g
-    ><g fill="rgb(248,247,240)" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="rgb(248,247,240)" image-rendering="optimizeQuality"
-    ><path d="M631.3932 707.7995 L981.8843 707.7995 L986.8843 712.7995 L986.8843 1078.7994 L981.8843 1083.7994 L631.3932 1083.7994 L626.3932 1078.7994 L626.3932 712.7995 Z" stroke="none" fill-rule="evenodd"
-      /><path fill="none" stroke-dasharray="8,8" d="M631.3932 707.7995 L981.8843 707.7995 L986.8843 712.7995 L986.8843 1078.7994 L981.8843 1083.7994 L631.3932 1083.7994 L626.3932 1078.7994 L626.3932 712.7995 Z" fill-rule="evenodd" stroke="black"
-      /><text fill="black" x="788" xml:space="preserve" y="1078" font-family="sans-serif" stroke="none"
-      >fdee3</text
-      ><path d="M342.1705 680.83 L428.1705 680.83 L433.1705 685.83 L433.1705 951.83 L428.1705 956.83 L342.1705 956.83 L337.1705 951.83 L337.1705 685.83 Z" stroke="none" fill-rule="evenodd"
-      /><path fill="none" stroke-dasharray="8,8" d="M342.1705 680.83 L428.1705 680.83 L433.1705 685.83 L433.1705 951.83 L428.1705 956.83 L342.1705 956.83 L337.1705 951.83 L337.1705 685.83 Z" fill-rule="evenodd" stroke="black"
-      /><text fill="black" x="367" xml:space="preserve" y="951" font-family="sans-serif" stroke="none"
-      >a7f2b</text
-      ><rect fill="white" x="634" width="80" height="20" y="717" stroke="none"
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><rect x="634" width="80" height="20" y="717" stroke="none"
       /><rect fill="none" x="634" width="80" height="20" y="717" stroke="black"
     /></g
     ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
@@ -106,10 +102,10 @@
       >SLC2A1</text
     ></g
     ><g fill="rgb(248,247,240)" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="rgb(248,247,240)" image-rendering="optimizeQuality"
-    ><path d="M143.549 806.2512 L229.549 806.2512 L234.549 811.2512 L234.549 1017.2512 L229.549 1022.2512 L143.549 1022.2512 L138.549 1017.2512 L138.549 811.2512 Z" stroke="none" fill-rule="evenodd"
-      /><path fill="none" stroke-dasharray="8,8" d="M143.549 806.2512 L229.549 806.2512 L234.549 811.2512 L234.549 1017.2512 L229.549 1022.2512 L143.549 1022.2512 L138.549 1017.2512 L138.549 811.2512 Z" fill-rule="evenodd" stroke="black"
-      /><text fill="black" x="167" xml:space="preserve" y="1017" font-family="sans-serif" stroke="none"
-      >ceb59</text
+    ><path d="M342.1705 680.83 L428.1705 680.83 L433.1705 685.83 L433.1705 951.83 L428.1705 956.83 L342.1705 956.83 L337.1705 951.83 L337.1705 685.83 Z" stroke="none" fill-rule="evenodd"
+      /><path fill="none" stroke-dasharray="8,8" d="M342.1705 680.83 L428.1705 680.83 L433.1705 685.83 L433.1705 951.83 L428.1705 956.83 L342.1705 956.83 L337.1705 951.83 L337.1705 685.83 Z" fill-rule="evenodd" stroke="black"
+      /><text fill="black" x="367" xml:space="preserve" y="951" font-family="sans-serif" stroke="none"
+      >a7f2b</text
       ><rect fill="white" x="345" width="80" height="20" y="768" stroke="none"
       /><rect fill="none" x="345" width="80" height="20" y="768" stroke="black"
     /></g
@@ -117,20 +113,24 @@
     ><text x="371" xml:space="preserve" y="782" stroke="none"
       >CES3</text
     ></g
-    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="146" width="80" height="20" y="974" stroke="none"
+    ><g fill="rgb(248,247,240)" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="rgb(248,247,240)" image-rendering="optimizeQuality"
+    ><path d="M143.549 806.2512 L229.549 806.2512 L234.549 811.2512 L234.549 1017.2512 L229.549 1022.2512 L143.549 1022.2512 L138.549 1017.2512 L138.549 811.2512 Z" stroke="none" fill-rule="evenodd"
+      /><path fill="none" stroke-dasharray="8,8" d="M143.549 806.2512 L229.549 806.2512 L234.549 811.2512 L234.549 1017.2512 L229.549 1022.2512 L143.549 1022.2512 L138.549 1017.2512 L138.549 811.2512 Z" fill-rule="evenodd" stroke="black"
+      /><text fill="black" x="167" xml:space="preserve" y="1017" font-family="sans-serif" stroke="none"
+      >ceb59</text
+      ><path d="M245.9312 683.3516 L331.9312 683.3516 L336.9312 688.3516 L336.9312 1034.3516 L331.9312 1039.3516 L245.9312 1039.3516 L240.9312 1034.3516 L240.9312 688.3516 Z" stroke="none" fill-rule="evenodd"
+      /><path fill="none" stroke-dasharray="8,8" d="M245.9312 683.3516 L331.9312 683.3516 L336.9312 688.3516 L336.9312 1034.3516 L331.9312 1039.3516 L245.9312 1039.3516 L240.9312 1034.3516 L240.9312 688.3516 Z" fill-rule="evenodd" stroke="black"
+      /><text fill="black" x="271" xml:space="preserve" y="1034" font-family="sans-serif" stroke="none"
+      >dcf74</text
+      ><rect fill="white" x="146" width="80" height="20" y="974" stroke="none"
       /><rect fill="none" x="146" width="80" height="20" y="974" stroke="black"
     /></g
     ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
     ><text x="175" xml:space="preserve" y="987" stroke="none"
       >ME1</text
     ></g
-    ><g fill="rgb(248,247,240)" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="rgb(248,247,240)" image-rendering="optimizeQuality"
-    ><path d="M245.9312 683.3516 L331.9312 683.3516 L336.9312 688.3516 L336.9312 1034.3516 L331.9312 1039.3516 L245.9312 1039.3516 L240.9312 1034.3516 L240.9312 688.3516 Z" stroke="none" fill-rule="evenodd"
-      /><path fill="none" stroke-dasharray="8,8" d="M245.9312 683.3516 L331.9312 683.3516 L336.9312 688.3516 L336.9312 1034.3516 L331.9312 1039.3516 L245.9312 1039.3516 L240.9312 1034.3516 L240.9312 688.3516 Z" fill-rule="evenodd" stroke="black"
-      /><text fill="black" x="271" xml:space="preserve" y="1034" font-family="sans-serif" stroke="none"
-      >dcf74</text
-      ><rect fill="white" x="248" width="80" height="20" y="891" stroke="none"
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><rect x="248" width="80" height="20" y="891" stroke="none"
       /><rect fill="none" x="248" width="80" height="20" y="891" stroke="black"
     /></g
     ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
@@ -393,20 +393,20 @@
     ><text x="361" xml:space="preserve" y="762" stroke="none"
       >ALDH3A1</text
     ></g
-    ><g fill="rgb(248,247,240)" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="rgb(248,247,240)" image-rendering="optimizeQuality"
-    ><path d="M534.9722 675.5418 L620.9722 675.5418 L625.9722 680.5418 L625.9722 766.5418 L620.9722 771.5418 L534.9722 771.5418 L529.9722 766.5418 L529.9722 680.5418 Z" stroke="none" fill-rule="evenodd"
-      /><path fill="none" stroke-dasharray="8,8" d="M534.9722 675.5418 L620.9722 675.5418 L625.9722 680.5418 L625.9722 766.5418 L620.9722 771.5418 L534.9722 771.5418 L529.9722 766.5418 L529.9722 680.5418 Z" fill-rule="evenodd" stroke="black"
-      /><text fill="black" x="558" xml:space="preserve" y="766" font-family="sans-serif" stroke="none"
-      >ca661</text
-      ><rect fill="white" x="345" width="80" height="20" y="928" stroke="none"
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><rect x="345" width="80" height="20" y="928" stroke="none"
       /><rect fill="none" x="345" width="80" height="20" y="928" stroke="black"
     /></g
     ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
     ><text x="364" xml:space="preserve" y="942" stroke="none"
       >CYP2A6</text
     ></g
-    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><rect x="537" width="80" height="20" y="743" stroke="none"
+    ><g fill="rgb(248,247,240)" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="rgb(248,247,240)" image-rendering="optimizeQuality"
+    ><path d="M534.9722 675.5418 L620.9722 675.5418 L625.9722 680.5418 L625.9722 766.5418 L620.9722 771.5418 L534.9722 771.5418 L529.9722 766.5418 L529.9722 680.5418 Z" stroke="none" fill-rule="evenodd"
+      /><path fill="none" stroke-dasharray="8,8" d="M534.9722 675.5418 L620.9722 675.5418 L625.9722 680.5418 L625.9722 766.5418 L620.9722 771.5418 L534.9722 771.5418 L529.9722 766.5418 L529.9722 680.5418 Z" fill-rule="evenodd" stroke="black"
+      /><text fill="black" x="558" xml:space="preserve" y="766" font-family="sans-serif" stroke="none"
+      >ca661</text
+      ><rect fill="white" x="537" width="80" height="20" y="743" stroke="none"
       /><rect fill="none" x="537" width="80" height="20" y="743" stroke="black"
     /></g
     ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
@@ -872,8 +872,8 @@
     ><path d="M1019.2844 314.7523 C1024.8073 314.7523 1029.2844 319.2294 1029.2844 324.7523 L1029.2844 1262.4037 C1029.2844 1267.9265 1024.8073 1272.4037 1019.2844 1272.4037 L104.4828 1272.4037 C98.9599 1272.4037 94.4828 1267.9265 94.4828 1262.4037 L94.4828 324.7523 C94.4828 319.2294 98.9599 314.7523 104.4828 314.7523 ZM92.4828 302.7523 C86.9599 302.7523 82.4828 307.2294 82.4828 312.7523 L82.4828 1274.4037 C82.4828 1279.9265 86.9599 1284.4037 92.4828 1284.4037 L1031.2844 1284.4037 C1036.8073 1284.4037 1041.2844 1279.9265 1041.2844 1274.4037 L1041.2844 312.7523 C1041.2844 307.2294 1036.8073 302.7523 1031.2844 302.7523 Z" stroke="none"
     /></g
     ><g font-size="10px" fill="silver" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" stroke="silver" color-interpolation="linearRGB"
-    ><text x="496" xml:space="preserve" y="614" stroke="none"
-      >NRF2 target genes</text
+    ><text x="145" xml:space="preserve" y="786" stroke="none"
+      >Other</text
     ></g
     ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
     ><rect x="422" width="80" height="20" y="507" stroke="none"
@@ -1322,24 +1322,24 @@
     ><g text-rendering="geometricPrecision" font-size="10px" font-family="sans-serif" color-interpolation="linearRGB" color-rendering="optimizeQuality" image-rendering="optimizeQuality"
     ><text x="442" xml:space="preserve" y="540" stroke="none"
       >NFE2L2</text
-      ><text x="612" xml:space="preserve" font-size="12px" y="563" font-family="'Dialog'" stroke="none"
-      >TATA box</text
-      ><text x="439" xml:space="preserve" font-size="12px" y="668" font-family="'Dialog'" stroke="none"
-      >Phase 2 proteins</text
-      ><text x="746" xml:space="preserve" font-size="12px" y="524" font-family="'Dialog'" stroke="none"
-      >Transcription</text
-      ><text x="525" xml:space="preserve" font-size="12px" y="782" font-family="'Dialog'" stroke="none"
-      >Growth factor and receptors</text
-      ><text x="347" xml:space="preserve" font-size="12px" y="668" font-family="'Dialog'" stroke="none"
-      >Phase 1 proteins</text
-      ><text x="255" xml:space="preserve" font-size="12px" y="670" font-family="'Dialog'" stroke="none"
-      >Antioxidant proteins</text
-      ><text x="717" xml:space="preserve" font-size="12px" y="563" font-family="'Dialog'" stroke="none"
-      >Genes</text
       ><text x="523" xml:space="preserve" font-size="12px" y="664" font-family="'Dialog'" stroke="none"
       >Transcription Factors </text
       ><text x="769" xml:space="preserve" font-size="12px" y="686" font-family="'Dialog'" stroke="none"
       >Transport</text
+      ><text x="746" xml:space="preserve" font-size="12px" y="524" font-family="'Dialog'" stroke="none"
+      >Transcription</text
+      ><text x="439" xml:space="preserve" font-size="12px" y="668" font-family="'Dialog'" stroke="none"
+      >Phase 2 proteins</text
+      ><text x="717" xml:space="preserve" font-size="12px" y="563" font-family="'Dialog'" stroke="none"
+      >Genes</text
+      ><text x="255" xml:space="preserve" font-size="12px" y="670" font-family="'Dialog'" stroke="none"
+      >Antioxidant proteins</text
+      ><text x="612" xml:space="preserve" font-size="12px" y="563" font-family="'Dialog'" stroke="none"
+      >TATA box</text
+      ><text x="347" xml:space="preserve" font-size="12px" y="668" font-family="'Dialog'" stroke="none"
+      >Phase 1 proteins</text
+      ><text x="525" xml:space="preserve" font-size="12px" y="782" font-family="'Dialog'" stroke="none"
+      >Growth factor and receptors</text
     ></g
   ></g
 ></svg

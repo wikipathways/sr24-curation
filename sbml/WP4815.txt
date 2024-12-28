@@ -121,5 +121,6 @@ Linked with a dotted arrow to the GeneProduct nodes are diseases caused by mutat
 [Label:de785]	 Label cannot be part of reaction. Tranforming to Unknown
 [Label:f0ca2]	 Label cannot be part of reaction. Tranforming to Unknown
 [Label:cbbfa]	 Label cannot be part of reaction. Tranforming to Unknown
-[Complex:cf069]	Empty element is invalid
 [Complex:f6373]	Empty element is invalid
+[Complex:cf069]	Empty element is invalid
+[BiopaxReference:e3b]	Publication type is not supported.

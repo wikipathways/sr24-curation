@@ -14,12 +14,12 @@
       /><path fill="none" d="M683.8655 279.7857 L577.3009 547.8293" stroke="black"
       /><path d="M577.3009 547.8293 L577.1937 540.3301 L582.8425 533.8904 L582.5279 542.4507 Z" stroke="none"
       /><path fill="none" d="M577.3009 547.8293 L577.1937 540.3301 L582.8425 533.8904 L582.5279 542.4507 Z" stroke="black"
-      /><path fill="none" d="M809.895 682.7773 L577.2875 557.8293" stroke="black"
-      /><path d="M577.2875 557.8293 L584.7499 558.5798 L590.5018 564.9275 L582.0335 563.6367 Z" stroke="none"
-      /><path fill="none" d="M577.2875 557.8293 L584.7499 558.5798 L590.5018 564.9275 L582.0335 563.6367 Z" stroke="black"
       /><path fill="none" d="M742.647 519.0294 L577.3009 547.8293" stroke="black"
       /><path d="M577.3009 547.8293 L583.6348 543.8127 L592.0784 545.2554 L584.6198 549.4678 Z" stroke="none"
       /><path fill="none" d="M577.3009 547.8293 L583.6348 543.8127 L592.0784 545.2554 L584.6198 549.4678 Z" stroke="black"
+      /><path fill="none" d="M809.895 682.7773 L577.2875 557.8293" stroke="black"
+      /><path d="M577.2875 557.8293 L584.7499 558.5798 L590.5018 564.9275 L582.0335 563.6367 Z" stroke="none"
+      /><path fill="none" d="M577.2875 557.8293 L584.7499 558.5798 L590.5018 564.9275 L582.0335 563.6367 Z" stroke="black"
       /><rect x="567.2942" width="10" height="10" y="547.8226" transform="translate(572.2942,552.8226) rotate(0.0767) translate(-572.2942,-552.8226)" stroke="none"
       /><rect x="567.2942" y="547.8226" transform="translate(572.2942,552.8226) rotate(0.0767) translate(-572.2942,-552.8226)" fill="none" width="10" height="10" stroke="black"
     /></g
@@ -28,46 +28,10 @@
       >?</text
     ></g
     ><g fill="rgb(248,247,240)" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="rgb(248,247,240)" image-rendering="optimizeQuality"
-    ><path d="M694.647 428.0294 L790.647 428.0294 L795.647 433.0294 L795.647 514.0294 L790.647 519.0294 L694.647 519.0294 L689.647 514.0294 L689.647 433.0294 Z" stroke="none" fill-rule="evenodd"
-      /><path fill="none" stroke-dasharray="8,8" d="M694.647 428.0294 L790.647 428.0294 L795.647 433.0294 L795.647 514.0294 L790.647 519.0294 L694.647 519.0294 L689.647 514.0294 L689.647 433.0294 Z" fill-rule="evenodd" stroke="black"
-      /><text fill="black" x="725" xml:space="preserve" y="514" font-family="sans-serif" stroke="none"
-      >f4acc</text
-      ><path d="M1208.3025 652.8193 L1304.3025 652.8193 L1309.3025 657.8193 L1309.3025 763.8193 L1304.3025 768.8193 L1208.3025 768.8193 L1203.3025 763.8193 L1203.3025 657.8193 Z" stroke="none" fill-rule="evenodd"
+    ><path d="M1208.3025 652.8193 L1304.3025 652.8193 L1309.3025 657.8193 L1309.3025 763.8193 L1304.3025 768.8193 L1208.3025 768.8193 L1203.3025 763.8193 L1203.3025 657.8193 Z" stroke="none" fill-rule="evenodd"
       /><path fill="none" stroke-dasharray="8,8" d="M1208.3025 652.8193 L1304.3025 652.8193 L1309.3025 657.8193 L1309.3025 763.8193 L1304.3025 768.8193 L1208.3025 768.8193 L1203.3025 763.8193 L1203.3025 657.8193 Z" fill-rule="evenodd" stroke="black"
       /><text fill="black" x="1238" xml:space="preserve" y="763" font-family="sans-serif" stroke="none"
       >d056f</text
-      ><path d="M715.1512 682.7773 L904.6387 682.7773 L909.6387 687.7773 L909.6387 843.7773 L904.6387 848.7773 L715.1512 848.7773 L710.1512 843.7773 L710.1512 687.7773 Z" stroke="none" fill-rule="evenodd"
-      /><path fill="none" stroke-dasharray="8,8" d="M715.1512 682.7773 L904.6387 682.7773 L909.6387 687.7773 L909.6387 843.7773 L904.6387 848.7773 L715.1512 848.7773 L710.1512 843.7773 L710.1512 687.7773 Z" fill-rule="evenodd" stroke="black"
-      /><text fill="black" x="791" xml:space="preserve" y="843" font-family="sans-serif" stroke="none"
-      >f6130</text
-      ><path d="M587.5042 840.8445 L683.5042 840.8445 L688.5042 845.8445 L688.5042 976.8445 L683.5042 981.8445 L587.5042 981.8445 L582.5042 976.8445 L582.5042 845.8445 Z" stroke="none" fill-rule="evenodd"
-      /><path fill="none" stroke-dasharray="8,8" d="M587.5042 840.8445 L683.5042 840.8445 L688.5042 845.8445 L688.5042 976.8445 L683.5042 981.8445 L587.5042 981.8445 L582.5042 976.8445 L582.5042 845.8445 Z" fill-rule="evenodd" stroke="black"
-      /><text fill="black" x="621" xml:space="preserve" y="976" font-family="sans-serif" stroke="none"
-      >fefbf</text
-      ><path fill="none" d="M303 766.5966 L333.1025 766.5426" stroke="black"
-      /><path fill="none" d="M373.205 766.4706 L478.5126 766.2815" stroke="black"
-      /><path fill="black" d="M464.6647 772.0466 L478.5126 766.2815 L464.6441 760.5662 Z" stroke="none"
-      /><path fill="none" d="M373.205 766.4706 L374.4958 844.7689" stroke="black"
-      /><path fill="black" d="M368.5279 831.0072 L374.4958 844.7689 L380.0068 830.818 Z" stroke="none"
-      /><path fill="none" d="M373.205 766.4706 L353.1538 766.5066" stroke="black"
-      /><circle fill="black" r="1.5" cx="373.205" cy="766.4706" stroke="none"
-      /><circle fill="none" r="1.5" cx="373.205" cy="766.4706" stroke="black"
-      /><text fill="black" x="374" xml:space="preserve" y="771" stroke="none"
-      ></text
-      ><path fill="none" d="M333.1025 766.5426 L338.1282 766.5336" stroke="black"
-      /><path fill="none" d="M348.1281 766.5156 L353.1538 766.5066" stroke="black"
-      /><rect x="338.1282" y="761.5246" transform="translate(343.1282,766.5246) rotate(-0.1029) translate(-343.1282,-766.5246)" fill="white" width="10" height="10" stroke="none"
-      /><rect x="338.1282" y="761.5246" transform="translate(343.1282,766.5246) rotate(-0.1029) translate(-343.1282,-766.5246)" fill="none" width="10" height="10" stroke="black"
-    /></g
-    ><g font-size="10px" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" color-interpolation="linearRGB" font-weight="bold"
-    ><text x="340" xml:space="preserve" y="770" stroke="none"
-      >?</text
-    ></g
-    ><g fill="rgb(248,247,240)" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="rgb(248,247,240)" image-rendering="optimizeQuality"
-    ><path d="M635.8655 88.7857 L731.8655 88.7857 L736.8655 93.7857 L736.8655 274.7857 L731.8655 279.7857 L635.8655 279.7857 L630.8655 274.7857 L630.8655 93.7857 Z" stroke="none" fill-rule="evenodd"
-      /><path fill="none" stroke-dasharray="8,8" d="M635.8655 88.7857 L731.8655 88.7857 L736.8655 93.7857 L736.8655 274.7857 L731.8655 279.7857 L635.8655 279.7857 L630.8655 274.7857 L630.8655 93.7857 Z" fill-rule="evenodd" stroke="black"
-      /><text fill="black" x="663" xml:space="preserve" y="274" font-family="sans-serif" stroke="none"
-      >a40e0</text
       ><path fill="none" d="M117.479 185.347 L132.2825 185.0524" stroke="black"
       /><path fill="none" d="M142.2805 184.8534 L157.084 184.5588" stroke="black"
       /><path fill="black" d="M143.3428 190.5737 L157.084 184.5588 L143.1144 179.0954 Z" stroke="none"
@@ -79,27 +43,96 @@
       >?</text
     ></g
     ><g fill="rgb(248,247,240)" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="rgb(248,247,240)" image-rendering="optimizeQuality"
-    ><path d="M398.9748 113.4496 L494.9748 113.4496 L499.9748 118.4496 L499.9748 249.4496 L494.9748 254.4496 L398.9748 254.4496 L393.9748 249.4496 L393.9748 118.4496 Z" stroke="none" fill-rule="evenodd"
-      /><path fill="none" stroke-dasharray="8,8" d="M398.9748 113.4496 L494.9748 113.4496 L499.9748 118.4496 L499.9748 249.4496 L494.9748 254.4496 L398.9748 254.4496 L393.9748 249.4496 L393.9748 118.4496 Z" fill-rule="evenodd" stroke="black"
-      /><text fill="black" x="428" xml:space="preserve" y="249" font-family="sans-serif" stroke="none"
-      >b29f7</text
-      ><path fill="none" d="M502.9832 390.7563 L563.7874 315.2895" stroke="black"
-      /><path fill="none" d="M570.0614 307.5025 L630.8655 232.0357" stroke="black"
-      /><path fill="black" d="M626.6408 246.4285 L630.8655 232.0357 L617.701 239.2256 Z" stroke="none"
-      /><path fill="none" d="M563.7874 315.2895 L563.7874 315.2895" stroke="black"
-      /><path fill="none" d="M570.0614 307.5025 L570.0614 307.5025" stroke="black"
-      /><rect x="561.9244" y="306.396" transform="translate(566.9244,311.396) rotate(-51.1413) translate(-566.9244,-311.396)" fill="white" width="10" height="10" stroke="none"
-      /><rect x="561.9244" y="306.396" transform="translate(566.9244,311.396) rotate(-51.1413) translate(-566.9244,-311.396)" fill="none" width="10" height="10" stroke="black"
+    ><path d="M1898.0084 455.9706 L2275.9832 455.9706 L2280.9832 460.9706 L2280.9832 643.5252 L2275.9832 648.5252 L1898.0084 648.5252 L1893.0084 643.5252 L1893.0084 460.9706 Z" stroke="none" fill-rule="evenodd"
+      /><path fill="none" d="M1898.0084 455.9706 L2275.9832 455.9706 L2280.9832 460.9706 L2280.9832 643.5252 L2275.9832 648.5252 L1898.0084 648.5252 L1893.0084 643.5252 L1893.0084 460.9706 Z" fill-rule="evenodd" stroke="black"
+      /><text fill="black" x="2070" xml:space="preserve" y="643" font-family="sans-serif" stroke="none"
+      >a7ff8</text
+      ><path d="M1361.7479 456.4748 L1739.7227 456.4748 L1744.7227 461.4748 L1744.7227 644.0294 L1739.7227 649.0294 L1361.7479 649.0294 L1356.7479 644.0294 L1356.7479 461.4748 Z" stroke="none" fill-rule="evenodd"
+      /><path fill="none" stroke-dasharray="8,8" d="M1361.7479 456.4748 L1739.7227 456.4748 L1744.7227 461.4748 L1744.7227 644.0294 L1739.7227 649.0294 L1361.7479 649.0294 L1356.7479 644.0294 L1356.7479 461.4748 Z" fill-rule="evenodd" stroke="black"
+      /><text fill="black" x="1533" xml:space="preserve" y="644" font-family="sans-serif" stroke="none"
+      >cf448</text
+      ><path d="M715.1512 682.7773 L904.6387 682.7773 L909.6387 687.7773 L909.6387 843.7773 L904.6387 848.7773 L715.1512 848.7773 L710.1512 843.7773 L710.1512 687.7773 Z" stroke="none" fill-rule="evenodd"
+      /><path fill="none" stroke-dasharray="8,8" d="M715.1512 682.7773 L904.6387 682.7773 L909.6387 687.7773 L909.6387 843.7773 L904.6387 848.7773 L715.1512 848.7773 L710.1512 843.7773 L710.1512 687.7773 Z" fill-rule="evenodd" stroke="black"
+      /><text fill="black" x="791" xml:space="preserve" y="843" font-family="sans-serif" stroke="none"
+      >f6130</text
+      ><path fill="none" d="M584.5126 766.2815 L629.7681 766.0999" stroke="black"
+      /><path fill="none" d="M639.768 766.0598 L710.1512 765.7773" stroke="black"
+      /><path fill="black" d="M696.3162 771.5731 L710.1512 765.7773 L696.2701 760.0927 Z" stroke="none"
+      /><path fill="none" d="M635.5042 840.8445 L634.7881 771.0798" stroke="black"
+      /><path fill="white" d="M634.7881 771.0798 L637.7292 777.9791 L634.9421 786.079 L631.9893 778.038 Z" stroke="none"
+      /><path fill="none" d="M634.7881 771.0798 L637.7292 777.9791 L634.9421 786.079 L631.9893 778.038 Z" stroke="black"
+      /><path fill="none" d="M629.7681 766.0999 L629.7681 766.0999" stroke="black"
+      /><path fill="none" d="M639.768 766.0598 L639.768 766.0598" stroke="black"
+      /><rect x="629.7681" y="761.0798" transform="translate(634.7681,766.0798) rotate(-0.2299) translate(-634.7681,-766.0798)" fill="white" width="10" height="10" stroke="none"
+      /><rect x="629.7681" y="761.0798" transform="translate(634.7681,766.0798) rotate(-0.2299) translate(-634.7681,-766.0798)" fill="none" width="10" height="10" stroke="black"
     /></g
     ><g font-size="10px" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" color-interpolation="linearRGB" font-weight="bold"
-    ><text x="563" xml:space="preserve" y="315" stroke="none"
+    ><text x="631" xml:space="preserve" y="770" stroke="none"
+      >?</text
+      ><path fill="none" d="M313.9076 390.7563 L328.7227 390.7563"
+      /><path fill="none" d="M353.5378 390.7563 L412.9832 390.7563"
+      /><path d="M399.125 396.4966 L412.9832 390.7563 L399.125 385.0161 Z" stroke="none"
+      /><path fill="none" d="M353.5378 390.7563 L353.9916 454.937"
+      /><path d="M348.1535 441.1197 L353.9916 454.937 L359.6337 441.0385 Z" stroke="none"
+      /><path fill="none" d="M353.5378 390.7563 L341.1302 390.7563"
+      /><circle r="1.5" cx="353.5378" cy="390.7563" stroke="none"
+      /><circle fill="none" r="1.5" cx="353.5378" cy="390.7563"
+      /><text x="354" font-size="12px" y="395" font-family="'Dialog'" stroke="none" font-weight="normal" xml:space="preserve"
+      ></text
+      ><path fill="none" d="M328.7227 390.7563 L329.9265 390.7563"
+      /><path fill="none" d="M339.9265 390.7563 L341.1302 390.7563"
+    /></g
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><rect x="329.9265" width="10" height="10" y="385.7563" stroke="none"
+      /><rect fill="none" x="329.9265" width="10" height="10" y="385.7563" stroke="black"
+    /></g
+    ><g font-size="10px" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" color-interpolation="linearRGB" font-weight="bold"
+    ><text x="334" xml:space="preserve" y="394" stroke="none"
+      ></text
+      ><path fill="none" d="M499.9748 183.9496 L521.153 184.004"
+      /><path fill="none" d="M552.3311 184.084 L630.8655 184.2857"
+      /><path d="M616.9927 189.9904 L630.8655 184.2857 L617.0222 178.5099 Z" stroke="none"
+      /><path fill="none" d="M552.3311 184.084 L553.0672 233.8445"
+      /><path d="M547.1226 220.0728 L553.0672 233.8445 L558.6019 219.903 Z" stroke="none"
+      /><path fill="none" d="M552.3311 184.084 L536.742 184.044"
+      /><circle r="1.5" cx="552.3311" cy="184.084" stroke="none"
+      /><circle fill="none" r="1.5" cx="552.3311" cy="184.084"
+      /><text x="553" font-size="12px" y="189" font-family="'Dialog'" stroke="none" font-weight="normal" xml:space="preserve"
+      ></text
+      ><path fill="none" d="M521.153 184.004 L523.9475 184.0111"
+      /><path fill="none" d="M533.9474 184.0368 L536.742 184.044"
+    /></g
+    ><g transform="translate(528.9475,184.024) rotate(0.1471) translate(-528.9475,-184.024)" fill="white" text-rendering="geometricPrecision" color-rendering="optimizeQuality" image-rendering="optimizeQuality" color-interpolation="linearRGB" stroke="white"
+    ><rect x="523.9475" width="10" height="10" y="179.024" stroke="none"
+      /><rect fill="none" x="523.9475" width="10" height="10" y="179.024" stroke="black"
+    /></g
+    ><g font-size="10px" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" color-interpolation="linearRGB" font-weight="bold"
+    ><text x="525" xml:space="preserve" y="188" stroke="none"
+      >?</text
+      ><path fill="none" d="M1744.7227 552.7521 L1797.437 552.5679"
+      /><path fill="none" d="M1807.4369 552.533 L1889.0084 552.2479"
+      /><path d="M1875.1704 558.0366 L1889.0084 552.2479 L1875.1302 546.5561 Z" stroke="none"
+      /><path fill="none" d="M1802.521 656.6177 L1802.4545 557.5504"
+    /></g
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><path d="M1802.4545 557.5504 L1805.3292 564.4775 L1802.4645 572.5504 L1799.589 564.4814 Z" stroke="none"
+      /><path fill="none" d="M1802.4545 557.5504 L1805.3292 564.4775 L1802.4645 572.5504 L1799.589 564.4814 Z" stroke="black"
+      /><rect x="1797.437" width="10" height="10" y="547.5504" transform="translate(1802.437,552.5504) rotate(-0.2002) translate(-1802.437,-552.5504)" stroke="none"
+      /><rect x="1797.437" y="547.5504" transform="translate(1802.437,552.5504) rotate(-0.2002) translate(-1802.437,-552.5504)" fill="none" width="10" height="10" stroke="black"
+    /></g
+    ><g font-size="10px" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" color-interpolation="linearRGB" font-weight="bold"
+    ><text x="1799" xml:space="preserve" y="556" stroke="none"
       >?</text
     ></g
     ><g fill="rgb(248,247,240)" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="rgb(248,247,240)" image-rendering="optimizeQuality"
-    ><path d="M202 721.0966 L298 721.0966 L303 726.0966 L303 807.0966 L298 812.0966 L202 812.0966 L197 807.0966 L197 726.0966 Z" stroke="none" fill-rule="evenodd"
-      /><path fill="none" stroke-dasharray="8,8" d="M202 721.0966 L298 721.0966 L303 726.0966 L303 807.0966 L298 812.0966 L202 812.0966 L197 807.0966 L197 726.0966 Z" fill-rule="evenodd" stroke="black"
-      /><text fill="black" x="232" xml:space="preserve" y="807" font-family="sans-serif" stroke="none"
-      >bf476</text
+    ><path d="M635.8655 88.7857 L731.8655 88.7857 L736.8655 93.7857 L736.8655 274.7857 L731.8655 279.7857 L635.8655 279.7857 L630.8655 274.7857 L630.8655 93.7857 Z" stroke="none" fill-rule="evenodd"
+      /><path fill="none" stroke-dasharray="8,8" d="M635.8655 88.7857 L731.8655 88.7857 L736.8655 93.7857 L736.8655 274.7857 L731.8655 279.7857 L635.8655 279.7857 L630.8655 274.7857 L630.8655 93.7857 Z" fill-rule="evenodd" stroke="black"
+      /><text fill="black" x="663" xml:space="preserve" y="274" font-family="sans-serif" stroke="none"
+      >a40e0</text
+      ><path d="M901.1177 456.979 L1185.6471 456.979 L1190.6471 461.979 L1190.6471 644.5336 L1185.6471 649.5336 L901.1177 649.5336 L896.1177 644.5336 L896.1177 461.979 Z" stroke="none" fill-rule="evenodd"
+      /><path fill="none" stroke-dasharray="8,8" d="M901.1177 456.979 L1185.6471 456.979 L1190.6471 461.979 L1190.6471 644.5336 L1185.6471 649.5336 L901.1177 649.5336 L896.1177 644.5336 L896.1177 461.979 Z" fill-rule="evenodd" stroke="black"
+      /><text fill="black" x="1024" xml:space="preserve" y="644" font-family="sans-serif" stroke="none"
+      >cec93</text
       ><path fill="none" d="M597.1849 639.0966 L588.1989 645.1425" stroke="black"
       /><path fill="none" d="M570.916 656.7706 L531.5126 683.2815" stroke="black"
       /><path fill="black" d="M539.8063 670.7829 L531.5126 683.2815 L546.215 680.3082 Z" stroke="none"
@@ -117,6 +150,85 @@
     /></g
     ><g font-size="10px" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" color-interpolation="linearRGB" font-weight="bold"
     ><text x="580" xml:space="preserve" y="652" stroke="none"
+      >?</text
+    ></g
+    ><g fill="rgb(248,247,240)" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="rgb(248,247,240)" image-rendering="optimizeQuality"
+    ><path d="M587.5042 840.8445 L683.5042 840.8445 L688.5042 845.8445 L688.5042 976.8445 L683.5042 981.8445 L587.5042 981.8445 L582.5042 976.8445 L582.5042 845.8445 Z" stroke="none" fill-rule="evenodd"
+      /><path fill="none" stroke-dasharray="8,8" d="M587.5042 840.8445 L683.5042 840.8445 L688.5042 845.8445 L688.5042 976.8445 L683.5042 981.8445 L587.5042 981.8445 L582.5042 976.8445 L582.5042 845.8445 Z" fill-rule="evenodd" stroke="black"
+      /><text fill="black" x="621" xml:space="preserve" y="976" font-family="sans-serif" stroke="none"
+      >fefbf</text
+      ><path d="M202 721.0966 L298 721.0966 L303 726.0966 L303 807.0966 L298 812.0966 L202 812.0966 L197 807.0966 L197 726.0966 Z" stroke="none" fill-rule="evenodd"
+      /><path fill="none" stroke-dasharray="8,8" d="M202 721.0966 L298 721.0966 L303 726.0966 L303 807.0966 L298 812.0966 L202 812.0966 L197 807.0966 L197 726.0966 Z" fill-rule="evenodd" stroke="black"
+      /><text fill="black" x="232" xml:space="preserve" y="807" font-family="sans-serif" stroke="none"
+      >bf476</text
+      ><path fill="none" d="M1190.6471 553.2563 L1252.0874 553.0698" stroke="black"
+      /><path fill="none" d="M1262.0874 553.0394 L1356.7479 552.7521" stroke="black"
+      /><path fill="black" d="M1342.9072 558.5344 L1356.7479 552.7521 L1342.8723 547.054 Z" stroke="none"
+      /><path fill="none" d="M1256.3025 652.8193 L1257.1025 558.0546" stroke="black"
+      /><path fill="white" d="M1257.1025 558.0546 L1259.9141 565.0077 L1256.976 573.0541 L1254.1741 564.9592 Z" stroke="none"
+      /><path fill="none" d="M1257.1025 558.0546 L1259.9141 565.0077 L1256.976 573.0541 L1254.1741 564.9592 Z" stroke="black"
+      /><path fill="none" d="M1252.0874 553.0698 L1252.0874 553.0698" stroke="black"
+      /><path fill="none" d="M1262.0874 553.0394 L1262.0874 553.0394" stroke="black"
+      /><rect x="1252.0874" y="548.0546" transform="translate(1257.0874,553.0546) rotate(-0.1739) translate(-1257.0874,-553.0546)" fill="white" width="10" height="10" stroke="none"
+      /><rect x="1252.0874" y="548.0546" transform="translate(1257.0874,553.0546) rotate(-0.1739) translate(-1257.0874,-553.0546)" fill="none" width="10" height="10" stroke="black"
+    /></g
+    ><g font-size="10px" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" color-interpolation="linearRGB" font-weight="bold"
+    ><text x="1254" xml:space="preserve" y="557" stroke="none"
+      >?</text
+    ></g
+    ><g fill="rgb(248,247,240)" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="rgb(248,247,240)" image-rendering="optimizeQuality"
+    ><path d="M483.5126 683.2815 L579.5126 683.2815 L584.5126 688.2815 L584.5126 844.2815 L579.5126 849.2815 L483.5126 849.2815 L478.5126 844.2815 L478.5126 688.2815 Z" stroke="none" fill-rule="evenodd"
+      /><path fill="none" stroke-dasharray="8,8" d="M483.5126 683.2815 L579.5126 683.2815 L584.5126 688.2815 L584.5126 844.2815 L579.5126 849.2815 L483.5126 849.2815 L478.5126 844.2815 L478.5126 688.2815 Z" fill-rule="evenodd" stroke="black"
+      /><text fill="black" x="511" xml:space="preserve" y="844" font-family="sans-serif" stroke="none"
+      >e4503</text
+      ><path d="M787.084 141.2647 L883.084 141.2647 L888.084 146.2647 L888.084 202.2647 L883.084 207.2647 L787.084 207.2647 L782.084 202.2647 L782.084 146.2647 Z" stroke="none" fill-rule="evenodd"
+      /><path fill="none" stroke-dasharray="8,8" d="M787.084 141.2647 L883.084 141.2647 L888.084 146.2647 L888.084 202.2647 L883.084 207.2647 L787.084 207.2647 L782.084 202.2647 L782.084 146.2647 Z" fill-rule="evenodd" stroke="black"
+      /><text fill="black" x="817" xml:space="preserve" y="202" font-family="sans-serif" stroke="none"
+      >ceaf9</text
+      ><path d="M162.084 126.5588 L258.084 126.5588 L263.084 131.5588 L263.084 237.5588 L258.084 242.5588 L162.084 242.5588 L157.084 237.5588 L157.084 131.5588 Z" stroke="none" fill-rule="evenodd"
+      /><path fill="none" stroke-dasharray="8,8" d="M162.084 126.5588 L258.084 126.5588 L263.084 131.5588 L263.084 237.5588 L258.084 242.5588 L162.084 242.5588 L157.084 237.5588 L157.084 131.5588 Z" fill-rule="evenodd" stroke="black"
+      /><text fill="black" x="190" xml:space="preserve" y="237" font-family="sans-serif" stroke="none"
+      >a66a9</text
+      ><path d="M694.647 428.0294 L790.647 428.0294 L795.647 433.0294 L795.647 514.0294 L790.647 519.0294 L694.647 519.0294 L689.647 514.0294 L689.647 433.0294 Z" stroke="none" fill-rule="evenodd"
+      /><path fill="none" stroke-dasharray="8,8" d="M694.647 428.0294 L790.647 428.0294 L795.647 433.0294 L795.647 514.0294 L790.647 519.0294 L694.647 519.0294 L689.647 514.0294 L689.647 433.0294 Z" fill-rule="evenodd" stroke="black"
+      /><text fill="black" x="725" xml:space="preserve" y="514" font-family="sans-serif" stroke="none"
+      >f4acc</text
+      ><path fill="none" d="M502.9832 390.7563 L563.7874 315.2895" stroke="black"
+      /><path fill="none" d="M570.0614 307.5025 L630.8655 232.0357" stroke="black"
+      /><path fill="black" d="M626.6408 246.4285 L630.8655 232.0357 L617.701 239.2256 Z" stroke="none"
+      /><path fill="none" d="M563.7874 315.2895 L563.7874 315.2895" stroke="black"
+      /><path fill="none" d="M570.0614 307.5025 L570.0614 307.5025" stroke="black"
+      /><rect x="561.9244" y="306.396" transform="translate(566.9244,311.396) rotate(-51.1413) translate(-566.9244,-311.396)" fill="white" width="10" height="10" stroke="none"
+      /><rect x="561.9244" y="306.396" transform="translate(566.9244,311.396) rotate(-51.1413) translate(-566.9244,-311.396)" fill="none" width="10" height="10" stroke="black"
+    /></g
+    ><g font-size="10px" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" color-interpolation="linearRGB" font-weight="bold"
+    ><text x="563" xml:space="preserve" y="315" stroke="none"
+      >?</text
+    ></g
+    ><g fill="rgb(248,247,240)" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="rgb(248,247,240)" image-rendering="optimizeQuality"
+    ><path d="M398.9748 113.4496 L494.9748 113.4496 L499.9748 118.4496 L499.9748 249.4496 L494.9748 254.4496 L398.9748 254.4496 L393.9748 249.4496 L393.9748 118.4496 Z" stroke="none" fill-rule="evenodd"
+      /><path fill="none" stroke-dasharray="8,8" d="M398.9748 113.4496 L494.9748 113.4496 L499.9748 118.4496 L499.9748 249.4496 L494.9748 254.4496 L398.9748 254.4496 L393.9748 249.4496 L393.9748 118.4496 Z" fill-rule="evenodd" stroke="black"
+      /><text fill="black" x="428" xml:space="preserve" y="249" font-family="sans-serif" stroke="none"
+      >b29f7</text
+      ><path fill="none" d="M922.437 50.4202 L910.8156 55.8132" stroke="black"
+      /><path fill="none" d="M890.1232 65.4156 L736.8655 136.5357" stroke="black"
+      /><path fill="black" d="M747.0198 125.4953 L736.8655 136.5357 L751.8525 135.9092 Z" stroke="none"
+      /><path fill="none" d="M890.1232 65.4156 L835.084 141.2647" stroke="black"
+      /><path fill="black" d="M838.5771 126.6771 L835.084 141.2647 L847.869 133.4197 Z" stroke="none"
+      /><path fill="none" d="M890.1232 65.4156 L926.4706 105.1471" stroke="black"
+      /><path fill="black" d="M912.8812 98.7966 L926.4706 105.1471 L921.3519 91.0475 Z" stroke="none"
+      /><path fill="none" d="M890.1232 65.4156 L900.4694 60.6144" stroke="black"
+      /><circle fill="black" r="1.5" cx="890.1232" cy="65.4155" stroke="none"
+      /><circle fill="none" r="1.5" cx="890.1232" cy="65.4155" stroke="black"
+      /><text fill="black" x="891" xml:space="preserve" y="70" stroke="none"
+      ></text
+      ><path fill="none" d="M910.8156 55.8132 L910.1779 56.1091" stroke="black"
+      /><path fill="none" d="M901.1071 60.3185 L900.4694 60.6144" stroke="black"
+      /><rect x="900.6425" y="53.2138" transform="translate(905.6425,58.2138) rotate(155.1061) translate(-905.6425,-58.2138)" fill="white" width="10" height="10" stroke="none"
+      /><rect x="900.6425" y="53.2138" transform="translate(905.6425,58.2138) rotate(155.1061) translate(-905.6425,-58.2138)" fill="none" width="10" height="10" stroke="black"
+    /></g
+    ><g font-size="10px" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" color-interpolation="linearRGB" font-weight="bold"
+    ><text x="902" xml:space="preserve" y="62" stroke="none"
       >?</text
       ><path fill="none" d="M133.2353 390.7563 L146.3698 390.7563"
       /><path fill="none" d="M169.5042 390.7563 L223.9076 390.7563"
@@ -138,43 +250,17 @@
     ><g font-size="10px" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" color-interpolation="linearRGB" font-weight="bold"
     ><text x="152" xml:space="preserve" y="394" stroke="none"
       ></text
-      ><path fill="none" d="M922.437 50.4202 L910.8156 55.8132"
-      /><path fill="none" d="M890.1232 65.4156 L736.8655 136.5357"
-      /><path d="M747.0198 125.4953 L736.8655 136.5357 L751.8525 135.9092 Z" stroke="none"
-      /><path fill="none" d="M890.1232 65.4156 L926.4706 105.1471"
-      /><path d="M912.8812 98.7966 L926.4706 105.1471 L921.3519 91.0475 Z" stroke="none"
-      /><path fill="none" d="M890.1232 65.4156 L835.084 141.2647"
-      /><path d="M838.5771 126.6771 L835.084 141.2647 L847.869 133.4197 Z" stroke="none"
-      /><path fill="none" d="M890.1232 65.4156 L900.4694 60.6144"
-      /><circle r="1.5" cx="890.1232" cy="65.4155" stroke="none"
-      /><circle fill="none" r="1.5" cx="890.1232" cy="65.4155"
-      /><text x="891" font-size="12px" y="70" font-family="'Dialog'" stroke="none" font-weight="normal" xml:space="preserve"
-      ></text
-      ><path fill="none" d="M910.8156 55.8132 L910.1779 56.1091"
-      /><path fill="none" d="M901.1071 60.3185 L900.4694 60.6144"
+      ><path fill="none" d="M263.084 184.5588 L310.4404 184.3384"
+      /><path fill="none" d="M320.4403 184.2919 L393.9748 183.9496"
+      /><path d="M380.1435 189.7543 L393.9748 183.9496 L380.09 178.2739 Z" stroke="none"
+      /><path fill="none" d="M314.0756 244.8529 L315.4636 189.3151"
     /></g
-    ><g transform="translate(905.6425,58.2138) rotate(155.1061) translate(-905.6425,-58.2138)" fill="white" text-rendering="geometricPrecision" color-rendering="optimizeQuality" image-rendering="optimizeQuality" color-interpolation="linearRGB" stroke="white"
-    ><rect x="900.6425" width="10" height="10" y="53.2138" stroke="none"
-      /><rect fill="none" x="900.6425" width="10" height="10" y="53.2138" stroke="black"
-    /></g
-    ><g font-size="10px" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" color-interpolation="linearRGB" font-weight="bold"
-    ><text x="902" xml:space="preserve" y="62" stroke="none"
-      >?</text
-    ></g
-    ><g fill="rgb(248,247,240)" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="rgb(248,247,240)" image-rendering="optimizeQuality"
-    ><path d="M162.084 126.5588 L258.084 126.5588 L263.084 131.5588 L263.084 237.5588 L258.084 242.5588 L162.084 242.5588 L157.084 237.5588 L157.084 131.5588 Z" stroke="none" fill-rule="evenodd"
-      /><path fill="none" stroke-dasharray="8,8" d="M162.084 126.5588 L258.084 126.5588 L263.084 131.5588 L263.084 237.5588 L258.084 242.5588 L162.084 242.5588 L157.084 237.5588 L157.084 131.5588 Z" fill-rule="evenodd" stroke="black"
-      /><text fill="black" x="190" xml:space="preserve" y="237" font-family="sans-serif" stroke="none"
-      >a66a9</text
-      ><path fill="none" d="M263.084 184.5588 L310.4404 184.3384" stroke="black"
-      /><path fill="none" d="M320.4403 184.2919 L393.9748 183.9496" stroke="black"
-      /><path fill="black" d="M380.1435 189.7543 L393.9748 183.9496 L380.09 178.2739 Z" stroke="none"
-      /><path fill="none" d="M314.0756 244.8529 L315.4636 189.3151" stroke="black"
-      /><path fill="white" d="M315.4636 189.3151 L318.1597 196.3137 L315.0889 204.3104 L312.4213 196.1703 Z" stroke="none"
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><path d="M315.4636 189.3151 L318.1597 196.3137 L315.0889 204.3104 L312.4213 196.1703 Z" stroke="none"
       /><path fill="none" d="M315.4636 189.3151 L318.1597 196.3137 L315.0889 204.3104 L312.4213 196.1703 Z" stroke="black"
       /><path fill="none" d="M310.4404 184.3384 L310.4404 184.3384" stroke="black"
       /><path fill="none" d="M320.4403 184.2919 L320.4403 184.2919" stroke="black"
-      /><rect x="310.4403" y="179.3151" transform="translate(315.4403,184.3151) rotate(-0.2667) translate(-315.4403,-184.3151)" fill="white" width="10" height="10" stroke="none"
+      /><rect x="310.4403" width="10" height="10" y="179.3151" transform="translate(315.4403,184.3151) rotate(-0.2667) translate(-315.4403,-184.3151)" stroke="none"
       /><rect x="310.4403" y="179.3151" transform="translate(315.4403,184.3151) rotate(-0.2667) translate(-315.4403,-184.3151)" fill="none" width="10" height="10" stroke="black"
     /></g
     ><g font-size="10px" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" color-interpolation="linearRGB" font-weight="bold"
@@ -186,676 +272,590 @@
       /><path fill="none" stroke-dasharray="8,8" d="M313.3445 507.1111 L409.3445 507.1111 L414.3445 512.111 L414.3445 593.111 L409.3445 598.111 L313.3445 598.111 L308.3445 593.111 L308.3445 512.111 Z" fill-rule="evenodd" stroke="black"
       /><text fill="black" x="341" xml:space="preserve" y="593" font-family="sans-serif" stroke="none"
       >e235d</text
-      ><path fill="none" d="M313.9076 390.7563 L328.7227 390.7563" stroke="black"
-      /><path fill="none" d="M353.5378 390.7563 L412.9832 390.7563" stroke="black"
-      /><path fill="black" d="M399.125 396.4966 L412.9832 390.7563 L399.125 385.0161 Z" stroke="none"
-      /><path fill="none" d="M353.5378 390.7563 L353.9916 454.937" stroke="black"
-      /><path fill="black" d="M348.1535 441.1197 L353.9916 454.937 L359.6337 441.0385 Z" stroke="none"
-      /><path fill="none" d="M353.5378 390.7563 L341.1302 390.7563" stroke="black"
-      /><circle fill="black" r="1.5" cx="353.5378" cy="390.7563" stroke="none"
-      /><circle fill="none" r="1.5" cx="353.5378" cy="390.7563" stroke="black"
-      /><text fill="black" x="354" xml:space="preserve" y="395" stroke="none"
+      ><path fill="none" d="M303 766.5966 L333.1025 766.5426" stroke="black"
+      /><path fill="none" d="M373.205 766.4706 L478.5126 766.2815" stroke="black"
+      /><path fill="black" d="M464.6647 772.0466 L478.5126 766.2815 L464.6441 760.5662 Z" stroke="none"
+      /><path fill="none" d="M373.205 766.4706 L374.4958 844.7689" stroke="black"
+      /><path fill="black" d="M368.5279 831.0072 L374.4958 844.7689 L380.0068 830.818 Z" stroke="none"
+      /><path fill="none" d="M373.205 766.4706 L353.1538 766.5066" stroke="black"
+      /><circle fill="black" r="1.5" cx="373.205" cy="766.4706" stroke="none"
+      /><circle fill="none" r="1.5" cx="373.205" cy="766.4706" stroke="black"
+      /><text fill="black" x="374" xml:space="preserve" y="771" stroke="none"
       ></text
-      ><path fill="none" d="M328.7227 390.7563 L329.9265 390.7563" stroke="black"
-      /><path fill="none" d="M339.9265 390.7563 L341.1302 390.7563" stroke="black"
-      /><rect fill="white" x="329.9265" width="10" height="10" y="385.7563" stroke="none"
-      /><rect fill="none" x="329.9265" width="10" height="10" y="385.7563" stroke="black"
+      ><path fill="none" d="M333.1025 766.5426 L338.1282 766.5336" stroke="black"
+      /><path fill="none" d="M348.1281 766.5156 L353.1538 766.5066" stroke="black"
+      /><rect x="338.1282" y="761.5246" transform="translate(343.1282,766.5246) rotate(-0.1029) translate(-343.1282,-766.5246)" fill="white" width="10" height="10" stroke="none"
+      /><rect x="338.1282" y="761.5246" transform="translate(343.1282,766.5246) rotate(-0.1029) translate(-343.1282,-766.5246)" fill="none" width="10" height="10" stroke="black"
     /></g
     ><g font-size="10px" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" color-interpolation="linearRGB" font-weight="bold"
-    ><text x="334" xml:space="preserve" y="394" stroke="none"
-      ></text
-      ><path fill="none" d="M1744.7227 552.7521 L1797.437 552.5679"
-      /><path fill="none" d="M1807.4369 552.533 L1889.0084 552.2479"
-      /><path d="M1875.1704 558.0366 L1889.0084 552.2479 L1875.1302 546.5561 Z" stroke="none"
-      /><path fill="none" d="M1802.521 656.6177 L1802.4545 557.5504"
-    /></g
-    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><path d="M1802.4545 557.5504 L1805.3292 564.4775 L1802.4645 572.5504 L1799.589 564.4814 Z" stroke="none"
-      /><path fill="none" d="M1802.4545 557.5504 L1805.3292 564.4775 L1802.4645 572.5504 L1799.589 564.4814 Z" stroke="black"
-      /><rect x="1797.437" width="10" height="10" y="547.5504" transform="translate(1802.437,552.5504) rotate(-0.2002) translate(-1802.437,-552.5504)" stroke="none"
-      /><rect x="1797.437" y="547.5504" transform="translate(1802.437,552.5504) rotate(-0.2002) translate(-1802.437,-552.5504)" fill="none" width="10" height="10" stroke="black"
-    /></g
-    ><g font-size="10px" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" color-interpolation="linearRGB" font-weight="bold"
-    ><text x="1799" xml:space="preserve" y="556" stroke="none"
-      >?</text
-      ><path fill="none" d="M1190.6471 553.2563 L1252.0874 553.0698"
-      /><path fill="none" d="M1262.0874 553.0394 L1356.7479 552.7521"
-      /><path d="M1342.9072 558.5344 L1356.7479 552.7521 L1342.8723 547.054 Z" stroke="none"
-      /><path fill="none" d="M1256.3025 652.8193 L1257.1025 558.0546"
-    /></g
-    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
-    ><path d="M1257.1025 558.0546 L1259.9141 565.0077 L1256.976 573.0541 L1254.1741 564.9592 Z" stroke="none"
-      /><path fill="none" d="M1257.1025 558.0546 L1259.9141 565.0077 L1256.976 573.0541 L1254.1741 564.9592 Z" stroke="black"
-      /><path fill="none" d="M1252.0874 553.0698 L1252.0874 553.0698" stroke="black"
-      /><path fill="none" d="M1262.0874 553.0394 L1262.0874 553.0394" stroke="black"
-      /><rect x="1252.0874" width="10" height="10" y="548.0546" transform="translate(1257.0874,553.0546) rotate(-0.1739) translate(-1257.0874,-553.0546)" stroke="none"
-      /><rect x="1252.0874" y="548.0546" transform="translate(1257.0874,553.0546) rotate(-0.1739) translate(-1257.0874,-553.0546)" fill="none" width="10" height="10" stroke="black"
-    /></g
-    ><g font-size="10px" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" color-interpolation="linearRGB" font-weight="bold"
-    ><text x="1254" xml:space="preserve" y="557" stroke="none"
-      >?</text
-      ><path fill="none" d="M499.9748 183.9496 L521.153 184.004"
-      /><path fill="none" d="M552.3311 184.084 L630.8655 184.2857"
-      /><path d="M616.9927 189.9904 L630.8655 184.2857 L617.0222 178.5099 Z" stroke="none"
-      /><path fill="none" d="M552.3311 184.084 L553.0672 233.8445"
-      /><path d="M547.1226 220.0728 L553.0672 233.8445 L558.6019 219.903 Z" stroke="none"
-      /><path fill="none" d="M552.3311 184.084 L536.742 184.044"
-      /><circle r="1.5" cx="552.3311" cy="184.084" stroke="none"
-      /><circle fill="none" r="1.5" cx="552.3311" cy="184.084"
-      /><text x="553" font-size="12px" y="189" font-family="'Dialog'" stroke="none" font-weight="normal" xml:space="preserve"
-      ></text
-      ><path fill="none" d="M521.153 184.004 L523.9475 184.0111"
-      /><path fill="none" d="M533.9474 184.0368 L536.742 184.044"
-    /></g
-    ><g transform="translate(528.9475,184.024) rotate(0.1471) translate(-528.9475,-184.024)" fill="white" text-rendering="geometricPrecision" color-rendering="optimizeQuality" image-rendering="optimizeQuality" color-interpolation="linearRGB" stroke="white"
-    ><rect x="523.9475" width="10" height="10" y="179.024" stroke="none"
-      /><rect fill="none" x="523.9475" width="10" height="10" y="179.024" stroke="black"
-    /></g
-    ><g font-size="10px" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" color-interpolation="linearRGB" font-weight="bold"
-    ><text x="525" xml:space="preserve" y="188" stroke="none"
+    ><text x="340" xml:space="preserve" y="770" stroke="none"
       >?</text
     ></g
-    ><g fill="rgb(248,247,240)" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="rgb(248,247,240)" image-rendering="optimizeQuality"
-    ><path d="M1361.7479 456.4748 L1739.7227 456.4748 L1744.7227 461.4748 L1744.7227 644.0294 L1739.7227 649.0294 L1361.7479 649.0294 L1356.7479 644.0294 L1356.7479 461.4748 Z" stroke="none" fill-rule="evenodd"
-      /><path fill="none" stroke-dasharray="8,8" d="M1361.7479 456.4748 L1739.7227 456.4748 L1744.7227 461.4748 L1744.7227 644.0294 L1739.7227 649.0294 L1361.7479 649.0294 L1356.7479 644.0294 L1356.7479 461.4748 Z" fill-rule="evenodd" stroke="black"
-      /><text fill="black" x="1533" xml:space="preserve" y="644" font-family="sans-serif" stroke="none"
-      >cf448</text
-      ><path d="M901.1177 456.979 L1185.6471 456.979 L1190.6471 461.979 L1190.6471 644.5336 L1185.6471 649.5336 L901.1177 649.5336 L896.1177 644.5336 L896.1177 461.979 Z" stroke="none" fill-rule="evenodd"
-      /><path fill="none" stroke-dasharray="8,8" d="M901.1177 456.979 L1185.6471 456.979 L1190.6471 461.979 L1190.6471 644.5336 L1185.6471 649.5336 L901.1177 649.5336 L896.1177 644.5336 L896.1177 461.979 Z" fill-rule="evenodd" stroke="black"
-      /><text fill="black" x="1024" xml:space="preserve" y="644" font-family="sans-serif" stroke="none"
-      >cec93</text
-      ><path fill="none" d="M584.5126 766.2815 L629.7681 766.0999" stroke="black"
-      /><path fill="none" d="M639.768 766.0598 L710.1512 765.7773" stroke="black"
-      /><path fill="black" d="M696.3162 771.5731 L710.1512 765.7773 L696.2701 760.0927 Z" stroke="none"
-      /><path fill="none" d="M635.5042 840.8445 L634.7881 771.0798" stroke="black"
-      /><path fill="white" d="M634.7881 771.0798 L637.7292 777.9791 L634.9421 786.079 L631.9893 778.038 Z" stroke="none"
-      /><path fill="none" d="M634.7881 771.0798 L637.7292 777.9791 L634.9421 786.079 L631.9893 778.038 Z" stroke="black"
-      /><path fill="none" d="M629.7681 766.0999 L629.7681 766.0999" stroke="black"
-      /><path fill="none" d="M639.768 766.0598 L639.768 766.0598" stroke="black"
-      /><rect x="629.7681" y="761.0798" transform="translate(634.7681,766.0798) rotate(-0.2299) translate(-634.7681,-766.0798)" fill="white" width="10" height="10" stroke="none"
-      /><rect x="629.7681" y="761.0798" transform="translate(634.7681,766.0798) rotate(-0.2299) translate(-634.7681,-766.0798)" fill="none" width="10" height="10" stroke="black"
-    /></g
-    ><g font-size="10px" text-rendering="geometricPrecision" image-rendering="optimizeQuality" color-rendering="optimizeQuality" font-family="sans-serif" color-interpolation="linearRGB" font-weight="bold"
-    ><text x="631" xml:space="preserve" y="770" stroke="none"
-      >?</text
-    ></g
-    ><g fill="rgb(248,247,240)" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="rgb(248,247,240)" image-rendering="optimizeQuality"
-    ><path d="M483.5126 683.2815 L579.5126 683.2815 L584.5126 688.2815 L584.5126 844.2815 L579.5126 849.2815 L483.5126 849.2815 L478.5126 844.2815 L478.5126 688.2815 Z" stroke="none" fill-rule="evenodd"
-      /><path fill="none" stroke-dasharray="8,8" d="M483.5126 683.2815 L579.5126 683.2815 L584.5126 688.2815 L584.5126 844.2815 L579.5126 849.2815 L483.5126 849.2815 L478.5126 844.2815 L478.5126 688.2815 Z" fill-rule="evenodd" stroke="black"
-      /><text fill="black" x="511" xml:space="preserve" y="844" font-family="sans-serif" stroke="none"
-      >e4503</text
-      ><path d="M1898.0084 455.9706 L2275.9832 455.9706 L2280.9832 460.9706 L2280.9832 643.5252 L2275.9832 648.5252 L1898.0084 648.5252 L1893.0084 643.5252 L1893.0084 460.9706 Z" stroke="none" fill-rule="evenodd"
-      /><path fill="none" d="M1898.0084 455.9706 L2275.9832 455.9706 L2280.9832 460.9706 L2280.9832 643.5252 L2275.9832 648.5252 L1898.0084 648.5252 L1893.0084 643.5252 L1893.0084 460.9706 Z" fill-rule="evenodd" stroke="black"
-      /><text fill="black" x="2070" xml:space="preserve" y="643" font-family="sans-serif" stroke="none"
-      >a7ff8</text
-      ><path d="M787.084 141.2647 L883.084 141.2647 L888.084 146.2647 L888.084 202.2647 L883.084 207.2647 L787.084 207.2647 L782.084 202.2647 L782.084 146.2647 Z" stroke="none" fill-rule="evenodd"
-      /><path fill="none" stroke-dasharray="8,8" d="M787.084 141.2647 L883.084 141.2647 L888.084 146.2647 L888.084 202.2647 L883.084 207.2647 L787.084 207.2647 L782.084 202.2647 L782.084 146.2647 Z" fill-rule="evenodd" stroke="black"
-      /><text fill="black" x="817" xml:space="preserve" y="202" font-family="sans-serif" stroke="none"
-      >ceaf9</text
-      ><rect fill="white" x="165" width="90" height="25" y="184" stroke="none"
-      /><rect fill="none" x="165" width="90" height="25" y="184" stroke="black"
-      /><text fill="black" x="190" xml:space="preserve" y="201" font-family="sans-serif" stroke="none"
-      >COX14</text
-      ><rect fill="white" x="1211" width="90" height="25" y="710" stroke="none"
-      /><rect fill="none" x="1211" width="90" height="25" y="710" stroke="black"
-      /><text fill="black" x="1232" xml:space="preserve" y="727" font-family="sans-serif" stroke="none"
-      >COX6B1</text
-      ><rect fill="white" x="486" width="90" height="25" y="741" stroke="none"
-      /><rect fill="none" x="486" width="90" height="25" y="741" stroke="black"
-      /><text fill="black" x="515" xml:space="preserve" y="758" font-family="sans-serif" stroke="none"
-      >SCO2</text
-      ><rect fill="white" x="486" width="90" height="25" y="716" stroke="none"
-      /><rect fill="none" x="486" width="90" height="25" y="716" stroke="black"
-      /><text fill="black" x="515" xml:space="preserve" y="733" font-family="sans-serif" stroke="none"
-      >COA6</text
-      ><rect fill="white" x="590" width="90" height="25" y="873" stroke="none"
-      /><rect fill="none" x="590" width="90" height="25" y="873" stroke="black"
-      /><text fill="black" x="615" xml:space="preserve" y="890" font-family="sans-serif" stroke="none"
-      >COX6C</text
-      ><rect fill="white" x="205" width="90" height="25" y="779" stroke="none"
-      /><rect fill="none" x="205" width="90" height="25" y="779" stroke="black"
-      /><text fill="black" x="230" xml:space="preserve" y="796" font-family="sans-serif" stroke="none"
-      >COX18</text
-      ><rect fill="white" x="165" width="90" height="25" y="209" stroke="none"
-      /><rect fill="none" x="165" width="90" height="25" y="209" stroke="black"
-      /><text fill="black" x="193" xml:space="preserve" y="226" font-family="sans-serif" stroke="none"
-      >COA3</text
-      ><rect fill="white" x="486" width="90" height="25" y="691" stroke="none"
-      /><rect fill="none" x="486" width="90" height="25" y="691" stroke="black"
-      /><text fill="black" x="511" xml:space="preserve" y="708" font-family="sans-serif" stroke="none"
-      >COX16</text
-      ><rect fill="white" x="590" width="90" height="25" y="948" stroke="none"
-      /><rect fill="none" x="590" width="90" height="25" y="948" stroke="black"
-      /><text fill="black" x="615" xml:space="preserve" y="965" font-family="sans-serif" stroke="none"
-      >COX8A</text
-      ><ellipse rx="45" fill="white" ry="12.5" cx="457.9832" cy="390.7563" stroke="none"
-      /><ellipse rx="45" fill="none" ry="12.5" cx="457.9832" cy="390.7563" stroke="blue"
-      /><text fill="blue" x="433" xml:space="preserve" y="395" font-family="sans-serif" stroke="none"
-      >Heme A</text
-      ><rect fill="white" x="1211" width="90" height="25" y="735" stroke="none"
-      /><rect fill="none" x="1211" width="90" height="25" y="735" stroke="black"
-      /><text fill="black" x="1232" xml:space="preserve" y="752" font-family="sans-serif" stroke="none"
-      >COX7A2</text
-      ><rect fill="white" x="697" width="90" height="25" y="461" stroke="none"
-      /><rect fill="none" x="697" width="90" height="25" y="461" stroke="black"
-      /><text fill="black" x="719" xml:space="preserve" y="478" font-family="sans-serif" stroke="none"
-      >PET117</text
-      ><rect fill="white" x="316" width="90" height="25" y="515" stroke="none"
-      /><rect fill="none" x="316" width="90" height="25" y="515" stroke="black"
-      /><text fill="black" x="339" xml:space="preserve" y="532" font-family="sans-serif" stroke="none"
-      >COX4I1</text
-      ><rect fill="white" x="165" width="90" height="25" y="134" stroke="none"
-      /><rect fill="none" x="165" width="90" height="25" y="134" stroke="black"
-      /><text fill="black" x="187" xml:space="preserve" y="151" font-family="sans-serif" stroke="none"
-      >MT-CO1</text
-      ><rect fill="white" x="1211" width="90" height="25" y="685" stroke="none"
-      /><rect fill="none" x="1211" width="90" height="25" y="685" stroke="black"
-      /><text fill="black" x="1232" xml:space="preserve" y="702" font-family="sans-serif" stroke="none"
-      >COX6A1</text
-      ><rect fill="white" x="27" width="90" height="25" y="172" stroke="none"
-      /><rect fill="none" x="27" width="90" height="25" y="172" stroke="black"
-      /><text fill="black" x="52" xml:space="preserve" y="189" font-family="sans-serif" stroke="none"
-      >TACO1</text
-      ><rect fill="white" x="269" width="90" height="25" y="244" stroke="none"
-      /><rect fill="none" x="269" width="90" height="25" y="244" stroke="black"
-      /><text fill="black" x="297" xml:space="preserve" y="261" font-family="sans-serif" stroke="none"
-      >CMC1</text
-      ><ellipse rx="45" fill="white" ry="12.5" cx="967.437" cy="50.4202" stroke="none"
-      /><ellipse rx="45" fill="none" ry="12.5" cx="967.437" cy="50.4202" stroke="blue"
-      /><text fill="blue" x="944" xml:space="preserve" y="54" font-family="sans-serif" stroke="none"
-      >Copper</text
-      ><rect fill="white" x="486" width="90" height="25" y="816" stroke="none"
-      /><rect fill="none" x="486" width="90" height="25" y="816" stroke="black"
-      /><text fill="black" x="502" xml:space="preserve" y="833" font-family="sans-serif" stroke="none"
-      >TMEM177</text
-      ><rect fill="white" x="697" width="90" height="25" y="436" stroke="none"
-      /><rect fill="none" x="697" width="90" height="25" y="436" stroke="black"
-      /><text fill="black" x="719" xml:space="preserve" y="453" font-family="sans-serif" stroke="none"
-      >PET100</text
-      ><rect fill="white" x="308" width="90" height="25" y="454" stroke="none"
-      /><rect fill="none" x="308" width="90" height="25" y="454" stroke="black"
-      /><text fill="black" x="333" xml:space="preserve" y="471" font-family="sans-serif" stroke="none"
-      >COX15</text
-      ><ellipse rx="45" fill="white" ry="12.5" cx="268.9076" cy="390.7563" stroke="none"
-      /><ellipse rx="45" fill="none" ry="12.5" cx="268.9076" cy="390.7563" stroke="blue"
-      /><text fill="blue" x="244" xml:space="preserve" y="395" font-family="sans-serif" stroke="none"
-      >Heme O</text
-      ><rect fill="white" x="790" width="90" height="25" y="174" stroke="none"
-      /><rect fill="none" x="790" width="90" height="25" y="174" stroke="black"
-      /><text fill="black" x="815" xml:space="preserve" y="191" font-family="sans-serif" stroke="none"
-      >COX19</text
-      ><rect fill="white" x="1757" width="90" height="25" y="656" stroke="none"
-      /><rect fill="none" x="1757" width="90" height="25" y="656" stroke="black"
-      /><text fill="black" x="1777" xml:space="preserve" y="673" font-family="sans-serif" stroke="none"
-      >NDUFA4</text
-      ><rect fill="white" x="590" width="90" height="25" y="898" stroke="none"
-      /><rect fill="none" x="590" width="90" height="25" y="898" stroke="black"
-      /><text fill="black" x="615" xml:space="preserve" y="915" font-family="sans-serif" stroke="none"
-      >COX7B</text
-      ><rect fill="white" x="590" width="90" height="25" y="848" stroke="none"
-      /><rect fill="none" x="590" width="90" height="25" y="848" stroke="black"
-      /><text fill="black" x="615" xml:space="preserve" y="865" font-family="sans-serif" stroke="none"
-      >COX5B</text
-      ><rect fill="white" x="205" width="90" height="25" y="754" stroke="none"
-      /><rect fill="none" x="205" width="90" height="25" y="754" stroke="black"
-      /><text fill="black" x="230" xml:space="preserve" y="771" font-family="sans-serif" stroke="none"
-      >COX20</text
-      ><rect fill="white" x="697" width="90" height="25" y="486" stroke="none"
-      /><rect fill="none" x="697" width="90" height="25" y="486" stroke="black"
-      /><text fill="black" x="726" xml:space="preserve" y="503" font-family="sans-serif" stroke="none"
-      >PNKD</text
-      ><rect fill="white" x="316" width="90" height="25" y="540" stroke="none"
+    ><g fill="white" text-rendering="geometricPrecision" color-interpolation="linearRGB" color-rendering="optimizeQuality" stroke="white" image-rendering="optimizeQuality"
+    ><rect x="316" width="90" height="25" y="540" stroke="none"
       /><rect fill="none" x="316" width="90" height="25" y="540" stroke="black"
       /><text fill="black" x="341" xml:space="preserve" y="557" font-family="sans-serif" stroke="none"
       >COX5A</text
-      ><rect fill="white" x="590" width="90" height="25" y="923" stroke="none"
-      /><rect fill="none" x="590" width="90" height="25" y="923" stroke="black"
-      /><text fill="black" x="615" xml:space="preserve" y="940" font-family="sans-serif" stroke="none"
-      >COX7C</text
-      ><rect fill="white" x="1211" width="90" height="25" y="660" stroke="none"
-      /><rect fill="none" x="1211" width="90" height="25" y="660" stroke="black"
-      /><text fill="black" x="1233" xml:space="preserve" y="677" font-family="sans-serif" stroke="none"
-      >MT-CO3</text
-      ><rect fill="white" x="125" width="90" height="25" y="448" stroke="none"
-      /><rect fill="none" x="125" width="90" height="25" y="448" stroke="black"
-      /><text fill="black" x="150" xml:space="preserve" y="465" font-family="sans-serif" stroke="none"
-      >COX10</text
-      ><rect fill="white" x="638" width="90" height="25" y="246" stroke="none"
-      /><rect fill="none" x="638" width="90" height="25" y="246" stroke="black"
-      /><text fill="black" x="660" xml:space="preserve" y="263" font-family="sans-serif" stroke="none"
-      >SMIM20</text
-      ><rect fill="white" x="316" width="90" height="25" y="565" stroke="none"
-      /><rect fill="none" x="316" width="90" height="25" y="565" stroke="black"
-      /><text fill="black" x="338" xml:space="preserve" y="582" font-family="sans-serif" stroke="none"
-      >HIGD1A</text
-      ><rect fill="white" x="790" width="90" height="25" y="149" stroke="none"
+      ><rect x="790" width="90" height="25" y="149" stroke="none"
       /><rect fill="none" x="790" width="90" height="25" y="149" stroke="black"
       /><text fill="black" x="815" xml:space="preserve" y="166" font-family="sans-serif" stroke="none"
       >COX11</text
-      ><rect fill="white" x="881" width="90" height="25" y="105" stroke="none"
-      /><rect fill="none" x="881" width="90" height="25" y="105" stroke="black"
-      /><text fill="black" x="906" xml:space="preserve" y="122" font-family="sans-serif" stroke="none"
-      >COX17</text
-      ><rect fill="white" x="205" width="90" height="25" y="729" stroke="none"
+      ><rect x="205" width="90" height="25" y="779" stroke="none"
+      /><rect fill="none" x="205" width="90" height="25" y="779" stroke="black"
+      /><text fill="black" x="230" xml:space="preserve" y="796" font-family="sans-serif" stroke="none"
+      >COX18</text
+      ><rect x="697" width="90" height="25" y="436" stroke="none"
+      /><rect fill="none" x="697" width="90" height="25" y="436" stroke="black"
+      /><text fill="black" x="719" xml:space="preserve" y="453" font-family="sans-serif" stroke="none"
+      >PET100</text
+      ><rect x="1211" width="90" height="25" y="735" stroke="none"
+      /><rect fill="none" x="1211" width="90" height="25" y="735" stroke="black"
+      /><text fill="black" x="1232" xml:space="preserve" y="752" font-family="sans-serif" stroke="none"
+      >COX7A2</text
+      ><rect x="790" width="90" height="25" y="174" stroke="none"
+      /><rect fill="none" x="790" width="90" height="25" y="174" stroke="black"
+      /><text fill="black" x="815" xml:space="preserve" y="191" font-family="sans-serif" stroke="none"
+      >COX19</text
+      ><rect x="165" width="90" height="25" y="134" stroke="none"
+      /><rect fill="none" x="165" width="90" height="25" y="134" stroke="black"
+      /><text fill="black" x="187" xml:space="preserve" y="151" font-family="sans-serif" stroke="none"
+      >MT-CO1</text
+      ><rect x="486" width="90" height="25" y="816" stroke="none"
+      /><rect fill="none" x="486" width="90" height="25" y="816" stroke="black"
+      /><text fill="black" x="502" xml:space="preserve" y="833" font-family="sans-serif" stroke="none"
+      >TMEM177</text
+      ><ellipse rx="45" ry="12.5" cx="268.9076" cy="390.7563" stroke="none"
+      /><ellipse rx="45" fill="none" ry="12.5" cx="268.9076" cy="390.7563" stroke="blue"
+      /><text fill="blue" x="244" xml:space="preserve" y="395" font-family="sans-serif" stroke="none"
+      >Heme O</text
+      ><rect x="165" width="90" height="25" y="209" stroke="none"
+      /><rect fill="none" x="165" width="90" height="25" y="209" stroke="black"
+      /><text fill="black" x="193" xml:space="preserve" y="226" font-family="sans-serif" stroke="none"
+      >COA3</text
+      ><rect x="316" width="90" height="25" y="565" stroke="none"
+      /><rect fill="none" x="316" width="90" height="25" y="565" stroke="black"
+      /><text fill="black" x="338" xml:space="preserve" y="582" font-family="sans-serif" stroke="none"
+      >HIGD1A</text
+      ><rect x="1211" width="90" height="25" y="660" stroke="none"
+      /><rect fill="none" x="1211" width="90" height="25" y="660" stroke="black"
+      /><text fill="black" x="1233" xml:space="preserve" y="677" font-family="sans-serif" stroke="none"
+      >MT-CO3</text
+      ><rect x="125" width="90" height="25" y="448" stroke="none"
+      /><rect fill="none" x="125" width="90" height="25" y="448" stroke="black"
+      /><text fill="black" x="150" xml:space="preserve" y="465" font-family="sans-serif" stroke="none"
+      >COX10</text
+      ><rect x="165" width="90" height="25" y="184" stroke="none"
+      /><rect fill="none" x="165" width="90" height="25" y="184" stroke="black"
+      /><text fill="black" x="190" xml:space="preserve" y="201" font-family="sans-serif" stroke="none"
+      >COX14</text
+      ><rect x="590" width="90" height="25" y="848" stroke="none"
+      /><rect fill="none" x="590" width="90" height="25" y="848" stroke="black"
+      /><text fill="black" x="615" xml:space="preserve" y="865" font-family="sans-serif" stroke="none"
+      >COX5B</text
+      ><rect x="590" width="90" height="25" y="873" stroke="none"
+      /><rect fill="none" x="590" width="90" height="25" y="873" stroke="black"
+      /><text fill="black" x="615" xml:space="preserve" y="890" font-family="sans-serif" stroke="none"
+      >COX6C</text
+      ><rect x="27" width="90" height="25" y="172" stroke="none"
+      /><rect fill="none" x="27" width="90" height="25" y="172" stroke="black"
+      /><text fill="black" x="52" xml:space="preserve" y="189" font-family="sans-serif" stroke="none"
+      >TACO1</text
+      ><rect x="590" width="90" height="25" y="898" stroke="none"
+      /><rect fill="none" x="590" width="90" height="25" y="898" stroke="black"
+      /><text fill="black" x="615" xml:space="preserve" y="915" font-family="sans-serif" stroke="none"
+      >COX7B</text
+      ><rect x="308" width="90" height="25" y="454" stroke="none"
+      /><rect fill="none" x="308" width="90" height="25" y="454" stroke="black"
+      /><text fill="black" x="333" xml:space="preserve" y="471" font-family="sans-serif" stroke="none"
+      >COX15</text
+      ><ellipse rx="45" ry="12.5" cx="457.9832" cy="390.7563" stroke="none"
+      /><ellipse rx="45" fill="none" ry="12.5" cx="457.9832" cy="390.7563" stroke="blue"
+      /><text fill="blue" x="433" xml:space="preserve" y="395" font-family="sans-serif" stroke="none"
+      >Heme A</text
+      ><rect x="486" width="90" height="25" y="691" stroke="none"
+      /><rect fill="none" x="486" width="90" height="25" y="691" stroke="black"
+      /><text fill="black" x="511" xml:space="preserve" y="708" font-family="sans-serif" stroke="none"
+      >COX16</text
+      ><rect x="205" width="90" height="25" y="729" stroke="none"
       /><rect fill="none" x="205" width="90" height="25" y="729" stroke="black"
       /><text fill="black" x="227" xml:space="preserve" y="746" font-family="sans-serif" stroke="none"
       >MT-CO2</text
-      ><rect fill="white" x="638" width="90" height="25" y="221" stroke="none"
+      ><rect x="269" width="90" height="25" y="244" stroke="none"
+      /><rect fill="none" x="269" width="90" height="25" y="244" stroke="black"
+      /><text fill="black" x="297" xml:space="preserve" y="261" font-family="sans-serif" stroke="none"
+      >CMC1</text
+      ><rect x="638" width="90" height="25" y="221" stroke="none"
       /><rect fill="none" x="638" width="90" height="25" y="221" stroke="black"
       /><text fill="black" x="663" xml:space="preserve" y="238" font-family="sans-serif" stroke="none"
       >SURF1</text
-      ><ellipse rx="45" fill="white" ry="12.5" cx="88.2353" cy="390.7563" stroke="none"
+      ><rect x="638" width="90" height="25" y="246" stroke="none"
+      /><rect fill="none" x="638" width="90" height="25" y="246" stroke="black"
+      /><text fill="black" x="660" xml:space="preserve" y="263" font-family="sans-serif" stroke="none"
+      >SMIM20</text
+      ><ellipse rx="45" ry="12.5" cx="88.2353" cy="390.7563" stroke="none"
       /><ellipse rx="45" fill="none" ry="12.5" cx="88.2353" cy="390.7563" stroke="blue"
       /><text fill="blue" x="64" xml:space="preserve" y="395" font-family="sans-serif" stroke="none"
       >Heme B</text
-      ><rect fill="white" x="165" width="90" height="25" y="159" stroke="none"
+      ><rect x="590" width="90" height="25" y="948" stroke="none"
+      /><rect fill="none" x="590" width="90" height="25" y="948" stroke="black"
+      /><text fill="black" x="615" xml:space="preserve" y="965" font-family="sans-serif" stroke="none"
+      >COX8A</text
+      ><rect x="486" width="90" height="25" y="716" stroke="none"
+      /><rect fill="none" x="486" width="90" height="25" y="716" stroke="black"
+      /><text fill="black" x="515" xml:space="preserve" y="733" font-family="sans-serif" stroke="none"
+      >COA6</text
+      ><rect x="1211" width="90" height="25" y="685" stroke="none"
+      /><rect fill="none" x="1211" width="90" height="25" y="685" stroke="black"
+      /><text fill="black" x="1232" xml:space="preserve" y="702" font-family="sans-serif" stroke="none"
+      >COX6A1</text
+      ><rect x="697" width="90" height="25" y="486" stroke="none"
+      /><rect fill="none" x="697" width="90" height="25" y="486" stroke="black"
+      /><text fill="black" x="726" xml:space="preserve" y="503" font-family="sans-serif" stroke="none"
+      >PNKD</text
+      ><rect x="1757" width="90" height="25" y="656" stroke="none"
+      /><rect fill="none" x="1757" width="90" height="25" y="656" stroke="black"
+      /><text fill="black" x="1777" xml:space="preserve" y="673" font-family="sans-serif" stroke="none"
+      >NDUFA4</text
+      ><rect x="316" width="90" height="25" y="515" stroke="none"
+      /><rect fill="none" x="316" width="90" height="25" y="515" stroke="black"
+      /><text fill="black" x="339" xml:space="preserve" y="532" font-family="sans-serif" stroke="none"
+      >COX4I1</text
+      ><rect x="590" width="90" height="25" y="923" stroke="none"
+      /><rect fill="none" x="590" width="90" height="25" y="923" stroke="black"
+      /><text fill="black" x="615" xml:space="preserve" y="940" font-family="sans-serif" stroke="none"
+      >COX7C</text
+      ><rect x="486" width="90" height="25" y="741" stroke="none"
+      /><rect fill="none" x="486" width="90" height="25" y="741" stroke="black"
+      /><text fill="black" x="515" xml:space="preserve" y="758" font-family="sans-serif" stroke="none"
+      >SCO2</text
+      ><rect x="205" width="90" height="25" y="754" stroke="none"
+      /><rect fill="none" x="205" width="90" height="25" y="754" stroke="black"
+      /><text fill="black" x="230" xml:space="preserve" y="771" font-family="sans-serif" stroke="none"
+      >COX20</text
+      ><rect x="881" width="90" height="25" y="105" stroke="none"
+      /><rect fill="none" x="881" width="90" height="25" y="105" stroke="black"
+      /><text fill="black" x="906" xml:space="preserve" y="122" font-family="sans-serif" stroke="none"
+      >COX17</text
+      ><rect x="1211" width="90" height="25" y="710" stroke="none"
+      /><rect fill="none" x="1211" width="90" height="25" y="710" stroke="black"
+      /><text fill="black" x="1232" xml:space="preserve" y="727" font-family="sans-serif" stroke="none"
+      >COX6B1</text
+      ><ellipse rx="45" ry="12.5" cx="967.437" cy="50.4202" stroke="none"
+      /><ellipse rx="45" fill="none" ry="12.5" cx="967.437" cy="50.4202" stroke="blue"
+      /><text fill="blue" x="944" xml:space="preserve" y="54" font-family="sans-serif" stroke="none"
+      >Copper</text
+      ><rect x="697" width="90" height="25" y="461" stroke="none"
+      /><rect fill="none" x="697" width="90" height="25" y="461" stroke="black"
+      /><text fill="black" x="719" xml:space="preserve" y="478" font-family="sans-serif" stroke="none"
+      >PET117</text
+      ><rect x="165" width="90" height="25" y="159" stroke="none"
       /><rect fill="none" x="165" width="90" height="25" y="159" stroke="black"
       /><text fill="black" x="190" xml:space="preserve" y="176" font-family="sans-serif" stroke="none"
       >TACO1</text
-      ><rect fill="white" x="401" width="90" height="25" y="221" stroke="none"
+      ><rect x="401" width="90" height="25" y="221" stroke="none"
       /><rect fill="none" x="401" width="90" height="25" y="221" stroke="black"
       /><text fill="black" x="429" xml:space="preserve" y="238" font-family="sans-serif" stroke="none"
       >CMC1</text
-      ><rect fill="white" x="401" width="90" height="25" y="196" stroke="none"
+      ><rect x="401" width="90" height="25" y="196" stroke="none"
       /><rect fill="none" x="401" width="90" height="25" y="196" stroke="black"
       /><text fill="black" x="430" xml:space="preserve" y="213" font-family="sans-serif" stroke="none"
       >COA3</text
-      ><rect fill="white" x="401" width="90" height="25" y="171" stroke="none"
+      ><rect x="401" width="90" height="25" y="171" stroke="none"
       /><rect fill="none" x="401" width="90" height="25" y="171" stroke="black"
       /><text fill="black" x="426" xml:space="preserve" y="188" font-family="sans-serif" stroke="none"
       >COX14</text
-      ><rect fill="white" x="401" width="90" height="25" y="121" stroke="none"
+      ><rect x="401" width="90" height="25" y="121" stroke="none"
       /><rect fill="none" x="401" width="90" height="25" y="121" stroke="black"
       /><text fill="black" x="423" xml:space="preserve" y="138" font-family="sans-serif" stroke="none"
       >MT-CO1</text
-      ><rect fill="white" x="401" width="90" height="25" y="146" stroke="none"
+      ><rect x="401" width="90" height="25" y="146" stroke="none"
       /><rect fill="none" x="401" width="90" height="25" y="146" stroke="black"
       /><text fill="black" x="426" xml:space="preserve" y="163" font-family="sans-serif" stroke="none"
       >TACO1</text
-      ><rect fill="white" x="638" width="90" height="25" y="196" stroke="none"
+      ><rect x="638" width="90" height="25" y="196" stroke="none"
       /><rect fill="none" x="638" width="90" height="25" y="196" stroke="black"
       /><text fill="black" x="666" xml:space="preserve" y="213" font-family="sans-serif" stroke="none"
       >CMC1</text
-      ><rect fill="white" x="638" width="90" height="25" y="171" stroke="none"
+      ><rect x="638" width="90" height="25" y="171" stroke="none"
       /><rect fill="none" x="638" width="90" height="25" y="171" stroke="black"
       /><text fill="black" x="667" xml:space="preserve" y="188" font-family="sans-serif" stroke="none"
       >COA3</text
-      ><rect fill="white" x="638" width="90" height="25" y="146" stroke="none"
+      ><rect x="638" width="90" height="25" y="146" stroke="none"
       /><rect fill="none" x="638" width="90" height="25" y="146" stroke="black"
       /><text fill="black" x="663" xml:space="preserve" y="163" font-family="sans-serif" stroke="none"
       >COX14</text
-      ><rect fill="white" x="638" width="90" height="25" y="96" stroke="none"
+      ><rect x="638" width="90" height="25" y="96" stroke="none"
       /><rect fill="none" x="638" width="90" height="25" y="96" stroke="black"
       /><text fill="black" x="660" xml:space="preserve" y="113" font-family="sans-serif" stroke="none"
       >MT-CO1</text
-      ><rect fill="white" x="638" width="90" height="25" y="121" stroke="none"
+      ><rect x="638" width="90" height="25" y="121" stroke="none"
       /><rect fill="none" x="638" width="90" height="25" y="121" stroke="black"
       /><text fill="black" x="663" xml:space="preserve" y="138" font-family="sans-serif" stroke="none"
       >TACO1</text
-      ><rect fill="white" x="508" width="90" height="25" y="233" stroke="none"
+      ><rect x="508" width="90" height="25" y="233" stroke="none"
       /><rect fill="none" x="508" width="90" height="25" y="233" stroke="black"
       /><text fill="black" x="536" xml:space="preserve" y="250" font-family="sans-serif" stroke="none"
       >CMC1</text
-      ><ellipse rx="45" fill="white" ry="12.5" cx="597.1849" cy="626.5966" stroke="none"
+      ><ellipse rx="45" ry="12.5" cx="597.1849" cy="626.5966" stroke="none"
       /><ellipse rx="45" fill="none" ry="12.5" cx="597.1849" cy="626.5966" stroke="blue"
       /><text fill="blue" x="574" xml:space="preserve" y="631" font-family="sans-serif" stroke="none"
       >Copper</text
-      ><rect fill="white" x="613" width="90" height="25" y="670" stroke="none"
+      ><rect x="613" width="90" height="25" y="670" stroke="none"
       /><rect fill="none" x="613" width="90" height="25" y="670" stroke="black"
       /><text fill="black" x="638" xml:space="preserve" y="687" font-family="sans-serif" stroke="none"
       >COX17</text
-      ><rect fill="white" x="329" width="90" height="25" y="844" stroke="none"
+      ><rect x="329" width="90" height="25" y="844" stroke="none"
       /><rect fill="none" x="329" width="90" height="25" y="844" stroke="black"
       /><text fill="black" x="354" xml:space="preserve" y="861" font-family="sans-serif" stroke="none"
       >COX18</text
-      ><rect fill="white" x="486" width="90" height="25" y="766" stroke="none"
+      ><rect x="486" width="90" height="25" y="766" stroke="none"
       /><rect fill="none" x="486" width="90" height="25" y="766" stroke="black"
       /><text fill="black" x="508" xml:space="preserve" y="783" font-family="sans-serif" stroke="none"
       >MT-CO2</text
-      ><rect fill="white" x="486" width="90" height="25" y="791" stroke="none"
+      ><rect x="486" width="90" height="25" y="791" stroke="none"
       /><rect fill="none" x="486" width="90" height="25" y="791" stroke="black"
       /><text fill="black" x="511" xml:space="preserve" y="808" font-family="sans-serif" stroke="none"
       >COX20</text
-      ><rect fill="white" x="718" width="90" height="25" y="690" stroke="none"
+      ><rect x="718" width="90" height="25" y="690" stroke="none"
       /><rect fill="none" x="718" width="90" height="25" y="690" stroke="black"
       /><text fill="black" x="743" xml:space="preserve" y="707" font-family="sans-serif" stroke="none"
       >COX16</text
-      ><rect fill="white" x="718" width="90" height="25" y="715" stroke="none"
+      ><rect x="718" width="90" height="25" y="715" stroke="none"
       /><rect fill="none" x="718" width="90" height="25" y="715" stroke="black"
       /><text fill="black" x="746" xml:space="preserve" y="732" font-family="sans-serif" stroke="none"
       >COA6</text
-      ><rect fill="white" x="718" width="90" height="25" y="740" stroke="none"
+      ><rect x="718" width="90" height="25" y="740" stroke="none"
       /><rect fill="none" x="718" width="90" height="25" y="740" stroke="black"
       /><text fill="black" x="746" xml:space="preserve" y="757" font-family="sans-serif" stroke="none"
       >SCO2</text
-      ><rect fill="white" x="718" width="90" height="25" y="815" stroke="none"
+      ><rect x="718" width="90" height="25" y="815" stroke="none"
       /><rect fill="none" x="718" width="90" height="25" y="815" stroke="black"
       /><text fill="black" x="733" xml:space="preserve" y="832" font-family="sans-serif" stroke="none"
       >TMEM177</text
-      ><rect fill="white" x="718" width="90" height="25" y="765" stroke="none"
+      ><rect x="718" width="90" height="25" y="765" stroke="none"
       /><rect fill="none" x="718" width="90" height="25" y="765" stroke="black"
       /><text fill="black" x="740" xml:space="preserve" y="782" font-family="sans-serif" stroke="none"
       >MT-CO2</text
-      ><rect fill="white" x="718" width="90" height="25" y="790" stroke="none"
+      ><rect x="718" width="90" height="25" y="790" stroke="none"
       /><rect fill="none" x="718" width="90" height="25" y="790" stroke="black"
       /><text fill="black" x="743" xml:space="preserve" y="807" font-family="sans-serif" stroke="none"
       >COX20</text
-      ><rect fill="white" x="811" width="90" height="25" y="716" stroke="none"
+      ><rect x="811" width="90" height="25" y="716" stroke="none"
       /><rect fill="none" x="811" width="90" height="25" y="716" stroke="black"
       /><text fill="black" x="836" xml:space="preserve" y="733" font-family="sans-serif" stroke="none"
       >COX6C</text
-      ><rect fill="white" x="811" width="90" height="25" y="691" stroke="none"
+      ><rect x="811" width="90" height="25" y="691" stroke="none"
       /><rect fill="none" x="811" width="90" height="25" y="691" stroke="black"
       /><text fill="black" x="836" xml:space="preserve" y="708" font-family="sans-serif" stroke="none"
       >COX5B</text
-      ><rect fill="white" x="811" width="90" height="25" y="741" stroke="none"
+      ><rect x="811" width="90" height="25" y="741" stroke="none"
       /><rect fill="none" x="811" width="90" height="25" y="741" stroke="black"
       /><text fill="black" x="836" xml:space="preserve" y="758" font-family="sans-serif" stroke="none"
       >COX7B</text
-      ><rect fill="white" x="811" width="90" height="25" y="791" stroke="none"
+      ><rect x="811" width="90" height="25" y="791" stroke="none"
       /><rect fill="none" x="811" width="90" height="25" y="791" stroke="black"
       /><text fill="black" x="836" xml:space="preserve" y="808" font-family="sans-serif" stroke="none"
       >COX8A</text
-      ><rect fill="white" x="811" width="90" height="25" y="766" stroke="none"
+      ><rect x="811" width="90" height="25" y="766" stroke="none"
       /><rect fill="none" x="811" width="90" height="25" y="766" stroke="black"
       /><text fill="black" x="836" xml:space="preserve" y="783" font-family="sans-serif" stroke="none"
       >COX7C</text
-      ><rect fill="white" x="904" width="90" height="25" y="589" stroke="none"
+      ><rect x="904" width="90" height="25" y="589" stroke="none"
       /><rect fill="none" x="904" width="90" height="25" y="589" stroke="black"
       /><text fill="black" x="929" xml:space="preserve" y="606" font-family="sans-serif" stroke="none"
       >SURF1</text
-      ><rect fill="white" x="904" width="90" height="25" y="614" stroke="none"
+      ><rect x="904" width="90" height="25" y="614" stroke="none"
       /><rect fill="none" x="904" width="90" height="25" y="614" stroke="black"
       /><text fill="black" x="925" xml:space="preserve" y="631" font-family="sans-serif" stroke="none"
       >SMIM20</text
-      ><rect fill="white" x="904" width="90" height="25" y="564" stroke="none"
+      ><rect x="904" width="90" height="25" y="564" stroke="none"
       /><rect fill="none" x="904" width="90" height="25" y="564" stroke="black"
       /><text fill="black" x="932" xml:space="preserve" y="581" font-family="sans-serif" stroke="none"
       >CMC1</text
-      ><rect fill="white" x="904" width="90" height="25" y="539" stroke="none"
+      ><rect x="904" width="90" height="25" y="539" stroke="none"
       /><rect fill="none" x="904" width="90" height="25" y="539" stroke="black"
       /><text fill="black" x="932" xml:space="preserve" y="556" font-family="sans-serif" stroke="none"
       >COA3</text
-      ><rect fill="white" x="904" width="90" height="25" y="514" stroke="none"
+      ><rect x="904" width="90" height="25" y="514" stroke="none"
       /><rect fill="none" x="904" width="90" height="25" y="514" stroke="black"
       /><text fill="black" x="929" xml:space="preserve" y="531" font-family="sans-serif" stroke="none"
       >COX14</text
-      ><rect fill="white" x="904" width="90" height="25" y="464" stroke="none"
+      ><rect x="904" width="90" height="25" y="464" stroke="none"
       /><rect fill="none" x="904" width="90" height="25" y="464" stroke="black"
       /><text fill="black" x="926" xml:space="preserve" y="481" font-family="sans-serif" stroke="none"
       >MT-CO1</text
-      ><rect fill="white" x="904" width="90" height="25" y="489" stroke="none"
+      ><rect x="904" width="90" height="25" y="489" stroke="none"
       /><rect fill="none" x="904" width="90" height="25" y="489" stroke="black"
       /><text fill="black" x="929" xml:space="preserve" y="506" font-family="sans-serif" stroke="none"
       >TACO1</text
-      ><rect fill="white" x="999" width="90" height="25" y="465" stroke="none"
+      ><rect x="999" width="90" height="25" y="465" stroke="none"
       /><rect fill="none" x="999" width="90" height="25" y="465" stroke="black"
       /><text fill="black" x="1024" xml:space="preserve" y="482" font-family="sans-serif" stroke="none"
       >COX16</text
-      ><rect fill="white" x="999" width="90" height="25" y="490" stroke="none"
+      ><rect x="999" width="90" height="25" y="490" stroke="none"
       /><rect fill="none" x="999" width="90" height="25" y="490" stroke="black"
       /><text fill="black" x="1027" xml:space="preserve" y="507" font-family="sans-serif" stroke="none"
       >COA6</text
-      ><rect fill="white" x="999" width="90" height="25" y="515" stroke="none"
+      ><rect x="999" width="90" height="25" y="515" stroke="none"
       /><rect fill="none" x="999" width="90" height="25" y="515" stroke="black"
       /><text fill="black" x="1027" xml:space="preserve" y="532" font-family="sans-serif" stroke="none"
       >SCO2</text
-      ><rect fill="white" x="999" width="90" height="25" y="590" stroke="none"
+      ><rect x="999" width="90" height="25" y="590" stroke="none"
       /><rect fill="none" x="999" width="90" height="25" y="590" stroke="black"
       /><text fill="black" x="1014" xml:space="preserve" y="607" font-family="sans-serif" stroke="none"
       >TMEM177</text
-      ><rect fill="white" x="999" width="90" height="25" y="540" stroke="none"
+      ><rect x="999" width="90" height="25" y="540" stroke="none"
       /><rect fill="none" x="999" width="90" height="25" y="540" stroke="black"
       /><text fill="black" x="1021" xml:space="preserve" y="557" font-family="sans-serif" stroke="none"
       >MT-CO2</text
-      ><rect fill="white" x="999" width="90" height="25" y="565" stroke="none"
+      ><rect x="999" width="90" height="25" y="565" stroke="none"
       /><rect fill="none" x="999" width="90" height="25" y="565" stroke="black"
       /><text fill="black" x="1024" xml:space="preserve" y="582" font-family="sans-serif" stroke="none"
       >COX20</text
-      ><rect fill="white" x="1092" width="90" height="25" y="491" stroke="none"
+      ><rect x="1092" width="90" height="25" y="491" stroke="none"
       /><rect fill="none" x="1092" width="90" height="25" y="491" stroke="black"
       /><text fill="black" x="1117" xml:space="preserve" y="508" font-family="sans-serif" stroke="none"
       >COX6C</text
-      ><rect fill="white" x="1092" width="90" height="25" y="466" stroke="none"
+      ><rect x="1092" width="90" height="25" y="466" stroke="none"
       /><rect fill="none" x="1092" width="90" height="25" y="466" stroke="black"
       /><text fill="black" x="1117" xml:space="preserve" y="483" font-family="sans-serif" stroke="none"
       >COX5B</text
-      ><rect fill="white" x="1092" width="90" height="25" y="516" stroke="none"
+      ><rect x="1092" width="90" height="25" y="516" stroke="none"
       /><rect fill="none" x="1092" width="90" height="25" y="516" stroke="black"
       /><text fill="black" x="1117" xml:space="preserve" y="533" font-family="sans-serif" stroke="none"
       >COX7B</text
-      ><rect fill="white" x="1092" width="90" height="25" y="566" stroke="none"
+      ><rect x="1092" width="90" height="25" y="566" stroke="none"
       /><rect fill="none" x="1092" width="90" height="25" y="566" stroke="black"
       /><text fill="black" x="1117" xml:space="preserve" y="583" font-family="sans-serif" stroke="none"
       >COX8A</text
-      ><rect fill="white" x="1092" width="90" height="25" y="541" stroke="none"
+      ><rect x="1092" width="90" height="25" y="541" stroke="none"
       /><rect fill="none" x="1092" width="90" height="25" y="541" stroke="black"
       /><text fill="black" x="1117" xml:space="preserve" y="558" font-family="sans-serif" stroke="none"
       >COX7C</text
-      ><rect fill="white" x="1092" width="90" height="25" y="591" stroke="none"
+      ><rect x="1092" width="90" height="25" y="591" stroke="none"
       /><rect fill="none" x="1092" width="90" height="25" y="591" stroke="black"
       /><text fill="black" x="1114" xml:space="preserve" y="608" font-family="sans-serif" stroke="none"
       >PET100</text
-      ><rect fill="white" x="1092" width="90" height="25" y="616" stroke="none"
+      ><rect x="1092" width="90" height="25" y="616" stroke="none"
       /><rect fill="none" x="1092" width="90" height="25" y="616" stroke="black"
       /><text fill="black" x="1114" xml:space="preserve" y="633" font-family="sans-serif" stroke="none"
       >PET117</text
-      ><rect fill="white" x="999" width="90" height="25" y="615" stroke="none"
+      ><rect x="999" width="90" height="25" y="615" stroke="none"
       /><rect fill="none" x="999" width="90" height="25" y="615" stroke="black"
       /><text fill="black" x="1027" xml:space="preserve" y="632" font-family="sans-serif" stroke="none"
       >PNKD</text
-      ><rect fill="white" x="1364" width="90" height="25" y="589" stroke="none"
+      ><rect x="1364" width="90" height="25" y="589" stroke="none"
       /><rect fill="none" x="1364" width="90" height="25" y="589" stroke="black"
       /><text fill="black" x="1389" xml:space="preserve" y="606" font-family="sans-serif" stroke="none"
       >SURF1</text
-      ><rect fill="white" x="1364" width="90" height="25" y="614" stroke="none"
+      ><rect x="1364" width="90" height="25" y="614" stroke="none"
       /><rect fill="none" x="1364" width="90" height="25" y="614" stroke="black"
       /><text fill="black" x="1386" xml:space="preserve" y="631" font-family="sans-serif" stroke="none"
       >SMIM20</text
-      ><rect fill="white" x="1364" width="90" height="25" y="564" stroke="none"
+      ><rect x="1364" width="90" height="25" y="564" stroke="none"
       /><rect fill="none" x="1364" width="90" height="25" y="564" stroke="black"
       /><text fill="black" x="1392" xml:space="preserve" y="581" font-family="sans-serif" stroke="none"
       >CMC1</text
-      ><rect fill="white" x="1364" width="90" height="25" y="539" stroke="none"
+      ><rect x="1364" width="90" height="25" y="539" stroke="none"
       /><rect fill="none" x="1364" width="90" height="25" y="539" stroke="black"
       /><text fill="black" x="1393" xml:space="preserve" y="556" font-family="sans-serif" stroke="none"
       >COA3</text
-      ><rect fill="white" x="1364" width="90" height="25" y="514" stroke="none"
+      ><rect x="1364" width="90" height="25" y="514" stroke="none"
       /><rect fill="none" x="1364" width="90" height="25" y="514" stroke="black"
       /><text fill="black" x="1389" xml:space="preserve" y="531" font-family="sans-serif" stroke="none"
       >COX14</text
-      ><rect fill="white" x="1364" width="90" height="25" y="464" stroke="none"
+      ><rect x="1364" width="90" height="25" y="464" stroke="none"
       /><rect fill="none" x="1364" width="90" height="25" y="464" stroke="black"
       /><text fill="black" x="1386" xml:space="preserve" y="481" font-family="sans-serif" stroke="none"
       >MT-CO1</text
-      ><rect fill="white" x="1364" width="90" height="25" y="489" stroke="none"
+      ><rect x="1364" width="90" height="25" y="489" stroke="none"
       /><rect fill="none" x="1364" width="90" height="25" y="489" stroke="black"
       /><text fill="black" x="1389" xml:space="preserve" y="506" font-family="sans-serif" stroke="none"
       >TACO1</text
-      ><rect fill="white" x="1459" width="90" height="25" y="464" stroke="none"
+      ><rect x="1459" width="90" height="25" y="464" stroke="none"
       /><rect fill="none" x="1459" width="90" height="25" y="464" stroke="black"
       /><text fill="black" x="1484" xml:space="preserve" y="481" font-family="sans-serif" stroke="none"
       >COX16</text
-      ><rect fill="white" x="1459" width="90" height="25" y="489" stroke="none"
+      ><rect x="1459" width="90" height="25" y="489" stroke="none"
       /><rect fill="none" x="1459" width="90" height="25" y="489" stroke="black"
       /><text fill="black" x="1488" xml:space="preserve" y="506" font-family="sans-serif" stroke="none"
       >COA6</text
-      ><rect fill="white" x="1459" width="90" height="25" y="514" stroke="none"
+      ><rect x="1459" width="90" height="25" y="514" stroke="none"
       /><rect fill="none" x="1459" width="90" height="25" y="514" stroke="black"
       /><text fill="black" x="1488" xml:space="preserve" y="531" font-family="sans-serif" stroke="none"
       >SCO2</text
-      ><rect fill="white" x="1459" width="90" height="25" y="589" stroke="none"
+      ><rect x="1459" width="90" height="25" y="589" stroke="none"
       /><rect fill="none" x="1459" width="90" height="25" y="589" stroke="black"
       /><text fill="black" x="1475" xml:space="preserve" y="606" font-family="sans-serif" stroke="none"
       >TMEM177</text
-      ><rect fill="white" x="1459" width="90" height="25" y="539" stroke="none"
+      ><rect x="1459" width="90" height="25" y="539" stroke="none"
       /><rect fill="none" x="1459" width="90" height="25" y="539" stroke="black"
       /><text fill="black" x="1481" xml:space="preserve" y="556" font-family="sans-serif" stroke="none"
       >MT-CO2</text
-      ><rect fill="white" x="1459" width="90" height="25" y="564" stroke="none"
+      ><rect x="1459" width="90" height="25" y="564" stroke="none"
       /><rect fill="none" x="1459" width="90" height="25" y="564" stroke="black"
       /><text fill="black" x="1484" xml:space="preserve" y="581" font-family="sans-serif" stroke="none"
       >COX20</text
-      ><rect fill="white" x="1553" width="90" height="25" y="491" stroke="none"
+      ><rect x="1553" width="90" height="25" y="491" stroke="none"
       /><rect fill="none" x="1553" width="90" height="25" y="491" stroke="black"
       /><text fill="black" x="1578" xml:space="preserve" y="508" font-family="sans-serif" stroke="none"
       >COX6C</text
-      ><rect fill="white" x="1553" width="90" height="25" y="466" stroke="none"
+      ><rect x="1553" width="90" height="25" y="466" stroke="none"
       /><rect fill="none" x="1553" width="90" height="25" y="466" stroke="black"
       /><text fill="black" x="1578" xml:space="preserve" y="483" font-family="sans-serif" stroke="none"
       >COX5B</text
-      ><rect fill="white" x="1553" width="90" height="25" y="516" stroke="none"
+      ><rect x="1553" width="90" height="25" y="516" stroke="none"
       /><rect fill="none" x="1553" width="90" height="25" y="516" stroke="black"
       /><text fill="black" x="1578" xml:space="preserve" y="533" font-family="sans-serif" stroke="none"
       >COX7B</text
-      ><rect fill="white" x="1553" width="90" height="25" y="566" stroke="none"
+      ><rect x="1553" width="90" height="25" y="566" stroke="none"
       /><rect fill="none" x="1553" width="90" height="25" y="566" stroke="black"
       /><text fill="black" x="1578" xml:space="preserve" y="583" font-family="sans-serif" stroke="none"
       >COX8A</text
-      ><rect fill="white" x="1553" width="90" height="25" y="541" stroke="none"
+      ><rect x="1553" width="90" height="25" y="541" stroke="none"
       /><rect fill="none" x="1553" width="90" height="25" y="541" stroke="black"
       /><text fill="black" x="1578" xml:space="preserve" y="558" font-family="sans-serif" stroke="none"
       >COX7C</text
-      ><rect fill="white" x="1553" width="90" height="25" y="591" stroke="none"
+      ><rect x="1553" width="90" height="25" y="591" stroke="none"
       /><rect fill="none" x="1553" width="90" height="25" y="591" stroke="black"
       /><text fill="black" x="1574" xml:space="preserve" y="608" font-family="sans-serif" stroke="none"
       >PET100</text
-      ><rect fill="white" x="1553" width="90" height="25" y="616" stroke="none"
+      ><rect x="1553" width="90" height="25" y="616" stroke="none"
       /><rect fill="none" x="1553" width="90" height="25" y="616" stroke="black"
       /><text fill="black" x="1574" xml:space="preserve" y="633" font-family="sans-serif" stroke="none"
       >PET117</text
-      ><rect fill="white" x="1459" width="90" height="25" y="614" stroke="none"
+      ><rect x="1459" width="90" height="25" y="614" stroke="none"
       /><rect fill="none" x="1459" width="90" height="25" y="614" stroke="black"
       /><text fill="black" x="1488" xml:space="preserve" y="631" font-family="sans-serif" stroke="none"
       >PNKD</text
-      ><rect fill="white" x="1646" width="90" height="25" y="517" stroke="none"
+      ><rect x="1646" width="90" height="25" y="517" stroke="none"
       /><rect fill="none" x="1646" width="90" height="25" y="517" stroke="black"
       /><text fill="black" x="1667" xml:space="preserve" y="534" font-family="sans-serif" stroke="none"
       >COX6B1</text
-      ><rect fill="white" x="1646" width="90" height="25" y="542" stroke="none"
+      ><rect x="1646" width="90" height="25" y="542" stroke="none"
       /><rect fill="none" x="1646" width="90" height="25" y="542" stroke="black"
       /><text fill="black" x="1667" xml:space="preserve" y="559" font-family="sans-serif" stroke="none"
       >COX7A2</text
-      ><rect fill="white" x="1646" width="90" height="25" y="492" stroke="none"
+      ><rect x="1646" width="90" height="25" y="492" stroke="none"
       /><rect fill="none" x="1646" width="90" height="25" y="492" stroke="black"
       /><text fill="black" x="1667" xml:space="preserve" y="509" font-family="sans-serif" stroke="none"
       >COX6A1</text
-      ><rect fill="white" x="1646" width="90" height="25" y="467" stroke="none"
+      ><rect x="1646" width="90" height="25" y="467" stroke="none"
       /><rect fill="none" x="1646" width="90" height="25" y="467" stroke="black"
       /><text fill="black" x="1668" xml:space="preserve" y="484" font-family="sans-serif" stroke="none"
       >MT-CO3</text
-      ><rect fill="white" x="1901" width="90" height="25" y="588" stroke="none"
+      ><rect x="1901" width="90" height="25" y="588" stroke="none"
       /><rect fill="none" x="1901" width="90" height="25" y="588" stroke="black"
       /><text fill="black" x="1926" xml:space="preserve" y="605" font-family="sans-serif" stroke="none"
       >SURF1</text
-      ><rect fill="white" x="1901" width="90" height="25" y="613" stroke="none"
+      ><rect x="1901" width="90" height="25" y="613" stroke="none"
       /><rect fill="none" x="1901" width="90" height="25" y="613" stroke="black"
       /><text fill="black" x="1922" xml:space="preserve" y="630" font-family="sans-serif" stroke="none"
       >SMIM20</text
-      ><rect fill="white" x="1901" width="90" height="25" y="563" stroke="none"
+      ><rect x="1901" width="90" height="25" y="563" stroke="none"
       /><rect fill="none" x="1901" width="90" height="25" y="563" stroke="black"
       /><text fill="black" x="1929" xml:space="preserve" y="580" font-family="sans-serif" stroke="none"
       >CMC1</text
-      ><rect fill="white" x="1901" width="90" height="25" y="538" stroke="none"
+      ><rect x="1901" width="90" height="25" y="538" stroke="none"
       /><rect fill="none" x="1901" width="90" height="25" y="538" stroke="black"
       /><text fill="black" x="1929" xml:space="preserve" y="555" font-family="sans-serif" stroke="none"
       >COA3</text
-      ><rect fill="white" x="1901" width="90" height="25" y="513" stroke="none"
+      ><rect x="1901" width="90" height="25" y="513" stroke="none"
       /><rect fill="none" x="1901" width="90" height="25" y="513" stroke="black"
       /><text fill="black" x="1926" xml:space="preserve" y="530" font-family="sans-serif" stroke="none"
       >COX14</text
-      ><rect fill="white" x="1901" width="90" height="25" y="463" stroke="none"
+      ><rect x="1901" width="90" height="25" y="463" stroke="none"
       /><rect fill="none" x="1901" width="90" height="25" y="463" stroke="black"
       /><text fill="black" x="1923" xml:space="preserve" y="480" font-family="sans-serif" stroke="none"
       >MT-CO1</text
-      ><rect fill="white" x="1901" width="90" height="25" y="488" stroke="none"
+      ><rect x="1901" width="90" height="25" y="488" stroke="none"
       /><rect fill="none" x="1901" width="90" height="25" y="488" stroke="black"
       /><text fill="black" x="1926" xml:space="preserve" y="505" font-family="sans-serif" stroke="none"
       >TACO1</text
-      ><rect fill="white" x="1996" width="90" height="25" y="464" stroke="none"
+      ><rect x="1996" width="90" height="25" y="464" stroke="none"
       /><rect fill="none" x="1996" width="90" height="25" y="464" stroke="black"
       /><text fill="black" x="2021" xml:space="preserve" y="481" font-family="sans-serif" stroke="none"
       >COX16</text
-      ><rect fill="white" x="1996" width="90" height="25" y="489" stroke="none"
+      ><rect x="1996" width="90" height="25" y="489" stroke="none"
       /><rect fill="none" x="1996" width="90" height="25" y="489" stroke="black"
       /><text fill="black" x="2024" xml:space="preserve" y="506" font-family="sans-serif" stroke="none"
       >COA6</text
-      ><rect fill="white" x="1996" width="90" height="25" y="514" stroke="none"
+      ><rect x="1996" width="90" height="25" y="514" stroke="none"
       /><rect fill="none" x="1996" width="90" height="25" y="514" stroke="black"
       /><text fill="black" x="2024" xml:space="preserve" y="531" font-family="sans-serif" stroke="none"
       >SCO2</text
-      ><rect fill="white" x="1996" width="90" height="25" y="589" stroke="none"
+      ><rect x="1996" width="90" height="25" y="589" stroke="none"
       /><rect fill="none" x="1996" width="90" height="25" y="589" stroke="black"
       /><text fill="black" x="2011" xml:space="preserve" y="606" font-family="sans-serif" stroke="none"
       >TMEM177</text
-      ><rect fill="white" x="1996" width="90" height="25" y="539" stroke="none"
+      ><rect x="1996" width="90" height="25" y="539" stroke="none"
       /><rect fill="none" x="1996" width="90" height="25" y="539" stroke="black"
       /><text fill="black" x="2018" xml:space="preserve" y="556" font-family="sans-serif" stroke="none"
       >MT-CO2</text
-      ><rect fill="white" x="1996" width="90" height="25" y="564" stroke="none"
+      ><rect x="1996" width="90" height="25" y="564" stroke="none"
       /><rect fill="none" x="1996" width="90" height="25" y="564" stroke="black"
       /><text fill="black" x="2021" xml:space="preserve" y="581" font-family="sans-serif" stroke="none"
       >COX20</text
-      ><rect fill="white" x="2089" width="90" height="25" y="490" stroke="none"
+      ><rect x="2089" width="90" height="25" y="490" stroke="none"
       /><rect fill="none" x="2089" width="90" height="25" y="490" stroke="black"
       /><text fill="black" x="2114" xml:space="preserve" y="507" font-family="sans-serif" stroke="none"
       >COX6C</text
-      ><rect fill="white" x="2089" width="90" height="25" y="465" stroke="none"
+      ><rect x="2089" width="90" height="25" y="465" stroke="none"
       /><rect fill="none" x="2089" width="90" height="25" y="465" stroke="black"
       /><text fill="black" x="2114" xml:space="preserve" y="482" font-family="sans-serif" stroke="none"
       >COX5B</text
-      ><rect fill="white" x="2089" width="90" height="25" y="515" stroke="none"
+      ><rect x="2089" width="90" height="25" y="515" stroke="none"
       /><rect fill="none" x="2089" width="90" height="25" y="515" stroke="black"
       /><text fill="black" x="2114" xml:space="preserve" y="532" font-family="sans-serif" stroke="none"
       >COX7B</text
-      ><rect fill="white" x="2089" width="90" height="25" y="565" stroke="none"
+      ><rect x="2089" width="90" height="25" y="565" stroke="none"
       /><rect fill="none" x="2089" width="90" height="25" y="565" stroke="black"
       /><text fill="black" x="2114" xml:space="preserve" y="582" font-family="sans-serif" stroke="none"
       >COX8A</text
-      ><rect fill="white" x="2089" width="90" height="25" y="540" stroke="none"
+      ><rect x="2089" width="90" height="25" y="540" stroke="none"
       /><rect fill="none" x="2089" width="90" height="25" y="540" stroke="black"
       /><text fill="black" x="2114" xml:space="preserve" y="557" font-family="sans-serif" stroke="none"
       >COX7C</text
-      ><rect fill="white" x="2089" width="90" height="25" y="590" stroke="none"
+      ><rect x="2089" width="90" height="25" y="590" stroke="none"
       /><rect fill="none" x="2089" width="90" height="25" y="590" stroke="black"
       /><text fill="black" x="2111" xml:space="preserve" y="607" font-family="sans-serif" stroke="none"
       >PET100</text
-      ><rect fill="white" x="2089" width="90" height="25" y="615" stroke="none"
+      ><rect x="2089" width="90" height="25" y="615" stroke="none"
       /><rect fill="none" x="2089" width="90" height="25" y="615" stroke="black"
       /><text fill="black" x="2111" xml:space="preserve" y="632" font-family="sans-serif" stroke="none"
       >PET117</text
-      ><rect fill="white" x="1996" width="90" height="25" y="614" stroke="none"
+      ><rect x="1996" width="90" height="25" y="614" stroke="none"
       /><rect fill="none" x="1996" width="90" height="25" y="614" stroke="black"
       /><text fill="black" x="2024" xml:space="preserve" y="631" font-family="sans-serif" stroke="none"
       >PNKD</text
-      ><rect fill="white" x="2182" width="90" height="25" y="516" stroke="none"
+      ><rect x="2182" width="90" height="25" y="516" stroke="none"
       /><rect fill="none" x="2182" width="90" height="25" y="516" stroke="black"
       /><text fill="black" x="2203" xml:space="preserve" y="533" font-family="sans-serif" stroke="none"
       >COX6B1</text
-      ><rect fill="white" x="2182" width="90" height="25" y="541" stroke="none"
+      ><rect x="2182" width="90" height="25" y="541" stroke="none"
       /><rect fill="none" x="2182" width="90" height="25" y="541" stroke="black"
       /><text fill="black" x="2203" xml:space="preserve" y="558" font-family="sans-serif" stroke="none"
       >COX7A2</text
-      ><rect fill="white" x="2182" width="90" height="25" y="491" stroke="none"
+      ><rect x="2182" width="90" height="25" y="491" stroke="none"
       /><rect fill="none" x="2182" width="90" height="25" y="491" stroke="black"
       /><text fill="black" x="2203" xml:space="preserve" y="508" font-family="sans-serif" stroke="none"
       >COX6A1</text
-      ><rect fill="white" x="2182" width="90" height="25" y="466" stroke="none"
+      ><rect x="2182" width="90" height="25" y="466" stroke="none"
       /><rect fill="none" x="2182" width="90" height="25" y="466" stroke="black"
       /><text fill="black" x="2204" xml:space="preserve" y="483" font-family="sans-serif" stroke="none"
       >MT-CO3</text
-      ><rect fill="white" x="2182" width="90" height="25" y="566" stroke="none"
+      ><rect x="2182" width="90" height="25" y="566" stroke="none"
       /><rect fill="none" x="2182" width="90" height="25" y="566" stroke="black"
       /><text fill="black" x="2202" xml:space="preserve" y="583" font-family="sans-serif" stroke="none"
       >NDUFA4</text
-      ><text fill="black" x="1269" xml:space="preserve" y="855" stroke="none"
-      >MT-CO3 module</text
       ><text fill="black" x="35" xml:space="preserve" y="782" stroke="none"
       >MT-CO2 module</text
       ><text fill="black" x="2044" xml:space="preserve" y="421" stroke="none"
       >Complex IV</text
       ><text fill="black" x="14" xml:space="preserve" y="82" stroke="none"
       >MT-CO1 module 'MITRAC'</text
+      ><text fill="black" x="1269" xml:space="preserve" y="855" stroke="none"
+      >MT-CO3 module</text
     ></g
   ></g
 ></svg

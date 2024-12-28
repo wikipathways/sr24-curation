@@ -27,20 +27,14 @@ This pathway was inferred from Mus musculus pathway "Amino Acid metabolism", WP6
 [LINE:c39a2]	Invalid interaction type as an input to reaction.
 [ARROW:db6e2]	Invalid interaction type "ARROW" as an output from reaction.
 [Label:be974]	 Label cannot be part of reaction. Tranforming to Unknown
-[Label:e0398]	 Label cannot be part of reaction. Tranforming to Unknown
 [Label:fefbd]	 Label cannot be part of reaction. Tranforming to Unknown
+[Label:b80f4]	 Label cannot be part of reaction. Tranforming to Unknown
 [Label:c28ae]	 Label cannot be part of reaction. Tranforming to Unknown
-[Label:c7a74]	 Label cannot be part of reaction. Tranforming to Unknown
 [Label:d39b6]	 Label cannot be part of reaction. Tranforming to Unknown
 [Label:eac4b]	 Label cannot be part of reaction. Tranforming to Unknown
 [Label:fa958]	 Label cannot be part of reaction. Tranforming to Unknown
-[Label:b80f4]	 Label cannot be part of reaction. Tranforming to Unknown
-[Label:bbd7b]	 Label cannot be part of reaction. Tranforming to Unknown
-[Label:d6dc8]	 Label cannot be part of reaction. Tranforming to Unknown
-[Label:e5f64]	 Label cannot be part of reaction. Tranforming to Unknown
 [Label:f4f5e]	 Label cannot be part of reaction. Tranforming to Unknown
 [Label:f1028]	 Label cannot be part of reaction. Tranforming to Unknown
-[Label:f28cb]	 Label cannot be part of reaction. Tranforming to Unknown
 [UnknownPositiveInfluenceReaction:b29f5]	Reaction should contain only one reactant and one product.
 [UnknownPositiveInfluenceReaction:e6f5b]	Reaction should contain only one reactant and one product.
 [UnknownPositiveInfluenceReaction:f3e23]	Reaction should contain only one reactant and one product.
