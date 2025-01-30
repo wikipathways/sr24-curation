@@ -900,6 +900,7 @@ obo:NCBITaxon_9606  obo:NCIT_C179773  "9606" .
         wp:bdbChemspider    <https://identifiers.org/chemspider/13628254> ;
         wp:bdbHmdb          <https://identifiers.org/hmdb/HMDB0014291> ;
         wp:bdbInChIKey      <https://identifiers.org/inchikey/UNJJBGNPUUVVFQ-ZJUUUORDSA-N> ;
+        wp:bdbKeggCompound  <https://identifiers.org/kegg.compound/C02737> ;
         wp:bdbPubChem       <http://rdf.ncbi.nlm.nih.gov/pubchem/compound/CID6323481> ;
         wp:bdbWikidata      <http://www.wikidata.org/entity/Q2354337> ;
         wp:isAbout          <http://rdf.wikipathways.org/Pathway/WP5176_r128232/DataNode/f1483> , <http://rdf.wikipathways.org/Pathway/WP5176_r128232/DataNode/bd710> ;
@@ -1107,6 +1108,7 @@ obo:NCBITaxon_9606  obo:NCIT_C179773  "9606" .
         wp:bdbChemspider    <https://identifiers.org/chemspider/109066> ;
         wp:bdbHmdb          <https://identifiers.org/hmdb/HMDB0003873> , <https://identifiers.org/hmdb/HMDB0000601> ;
         wp:bdbInChIKey      <https://identifiers.org/inchikey/CNWPIIOQKZNXBB-VCVMUKOKSA-N> ;
+        wp:bdbKeggCompound  <https://identifiers.org/kegg.compound/C04722> ;
         wp:bdbLipidMaps     <https://identifiers.org/lipidmaps/LMST04030001> ;
         wp:bdbPubChem       <http://rdf.ncbi.nlm.nih.gov/pubchem/compound/CID122312> ;
         wp:bdbWikidata      <http://www.wikidata.org/entity/Q27103052> ;
@@ -1352,6 +1354,7 @@ obo:NCBITaxon_9606  obo:NCIT_C179773  "9606" .
         wp:bdbChemspider    <https://identifiers.org/chemspider/4447327> ;
         wp:bdbHmdb          <https://identifiers.org/hmdb/HMDB0000359> ;
         wp:bdbInChIKey      <https://identifiers.org/inchikey/ITZYGDKGRKKBSN-HKFUITGCSA-N> ;
+        wp:bdbKeggCompound  <https://identifiers.org/kegg.compound/C04554> ;
         wp:bdbLipidMaps     <https://identifiers.org/lipidmaps/LMST04030066> ;
         wp:bdbPubChem       <http://rdf.ncbi.nlm.nih.gov/pubchem/compound/CID5284239> ;
         wp:bdbWikidata      <http://www.wikidata.org/entity/Q27101981> ;
