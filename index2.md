@@ -61,6 +61,13 @@ Read more about why these fails happen and how to fix them in these [instruction
 
 [WP176](reports/WP176#possible-mim-translocation) [WP1982](reports/WP1982#possible-mim-translocation) [WP4018](reports/WP4018#possible-mim-translocation) [WP4290](reports/WP4290#possible-mim-translocation) [WP4341](reports/WP4341#possible-mim-translocation) [WP4917](reports/WP4917#possible-mim-translocation) [WP5083](reports/WP5083#possible-mim-translocation) [WP5176](reports/WP5176#possible-mim-translocation) [WP5178](reports/WP5178#possible-mim-translocation) [WP534](reports/WP534#possible-mim-translocation) [WP5507](reports/WP5507#possible-mim-translocation) 
 
+## The pathway contains stock comments
+
+
+Read more about why these fails happen and how to fix them in these [instructions](https://www.wikipathways.org/WikiPathwaysCurator/GeneralTests/stockComments).
+
+[WP5506](reports/WP5506#the-pathway-contains-stock-comments) 
+
 ## Too many InChIKeys for the used identifier
 
 
